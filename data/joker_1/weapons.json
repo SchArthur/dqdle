@@ -1,0 +1,30 @@
+{
+    "0" : {
+        "icon" : "data/joker_1/images/weapons/Sword_icon.png",    
+        "name_en" : "Swords"
+    },
+    "1" : {
+        "icon" : "data/joker_1/images/weapons/Spear_icon.png",
+        "name_en" : "Spears"
+    },
+    "2" : {
+        "icon" : "data/joker_1/images/weapons/Axe_icon.png",
+        "name_en" : "Axes"
+    },
+    "3" : {
+        "icon" : "data/joker_1/images/weapons/Mace_icon.png",
+        "name_en" : "Hammers"
+    },
+    "4" : {
+        "icon" : "data/joker_1/images/weapons/Whip_icon.png",
+        "name_en" : "Whips"
+    },
+    "5" : {
+        "icon" : "data/joker_1/images/weapons/Claw_icon.png",
+        "name_en" : "Claws"
+    },
+    "6" : {
+        "icon" : "data/joker_1/images/weapons/Staff_icon.png",
+        "name_en" : "Staves"
+    }
+}
