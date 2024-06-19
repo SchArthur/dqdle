@@ -1,860 +1,5132 @@
 {
-    "0" : {
-        "name_en" : "_",
-        "family_en" : "_",
-        "rank" : "_",
-        "description_en" : "_",
-        "weapons" : ["_"],
-        "traits" : ["_"],
-        "resistance" : ["_"],
-        "skill" : ["_"],
-        "location" : ["_"]
-    },
-    "93" : {
-        "name_en" : "Gargoyle",
-        "family_en" : "Beast",
-        "rank" : "C",
-        "description_en" : "Winged warriors that track their targets from above before swooping in for the kill.",
-        "weapons" : ["Swords", "Hammers", "Staves"],
-        "traits" : ["Artful Dodger"],
-        "resistance" : ["Inactionproof"],
-        "skill" : ["Bird Brain"],
-        "location" : ["Celeste Isle"]
-    },
-    "158" : {
-        "name_en" : "Garuda",
-        "family_en" : "Nature",
-        "rank" : "A",
-        "description_en" : "Gigantic birds of regal appearance feared throughout the skies.",
-        "weapons" : ["Spears", "Axes", "Whips", "Staves"],
-        "traits" : ["Artful Dodger"],
-        "resistance" : ["Fizzleproof"],
-        "skill" : ["Frizz & Zap"],
-        "location" : null
-    },
-    "191" : {
-        "name_en" : "Gem slime",
-        "family_en" : "Slime",
-        "rank" : "X",
-        "description_en" : "These multi-faceted slimes are strong against any manner of attack.",
-        "weapons" : ["Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Metal Body", "Escape Artist"],
-        "resistance" : ["Practically Invincible"],
-        "skill" : ["Bang & Zap"],
-        "location" : null
-    },
-    "130" : {
-        "name_en" : "Frou-frou",
-        "family_en" : "Dragon",
-        "rank" : "B",
-        "description_en" : "Experts at hurling their titanic bulk at enemies to devastating effect.",
-        "weapons" : ["Axes", "Hammers", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Fire Breathproof", "Whackproof", "Dazzleproof"],
-        "skill" : ["Cold Sleep"],
-        "location" : ["Dragon Island"]
-    },
-    "9" : {
-        "name_en" : "Frou-fry",
-        "family_en" : "Dragon",
-        "rank" : "F",
-        "description_en" : "These creatures use their saw-like teeth to shred the bellies of their prey. Ouch!",
-        "weapons" : ["Axes", "Hammers", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Parlysisproof"],
-        "skill" : ["Icemeister", "Ice Breath Ward"],
-        "location" : ["Dragon Island"]
-    },
-    "30" : {
-        "name_en" : "Funghoul",
-        "family_en" : "Undead",
-        "rank" : "F",
-        "description_en" : "Pestilent creatures that spawn in moist, dark places.",
-        "weapons" : ["Swords", "Whips", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Vulnerable to Frizz", "Poisonproof"],
-        "skill" : ["Graveheart", "Attack Boost"],
-        "location" : ["Xeroph Isle"]
-    },
-    "72" : {
-        "name_en" : "Flyguy",
-        "family_en" : "Undead",
-        "rank" : "D",
-        "description_en" : "The buzz of their flapping wings is enough to unnerve anybody.",
-        "weapons" : ["Swords", "Spears", "Hammers", "Staves"],
-        "traits" : ["Artful Dodger"],
-        "resistance" : ["Vulnerable to Frizz", "Sleepproof"],
-        "skill" : ["Seal", "Drain Magic Ward"],
-        "location" : ["Infern Isle"]
-    },
-    "51" : {
-        "name_en" : "Frogface",
-        "family_en" : "Demon",
-        "rank" : "E",
-        "description_en" : "Two faces can be better than one, providing they can both breathe underwater.",
-        "weapons" : ["Spears", "Whips", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Vulnerable to Frizz", "Dazzleproof"],
-        "skill" : ["Healer"],
-        "location" : ["Fert Isle"]
-    },
-    "26" : {
-        "name_en" : "Frostburn",
-        "family_en" : "Material",
-        "rank" : "F",
-        "description_en" : "This monster's chilling exterior masks a rather cool and laid-back interior.",
-        "weapons" : ["Spears", "Hammers", "Whips", "Staves"],
-        "traits" : null,
-        "resistance" : ["Vulnerable to Frizz", "Healed by Crack", "Healed by Ice Breath"],
-        "skill" : ["Icemeister"],
-        "location" : ["Xeroph Isle"]
-    },
-    "126" : {
-        "name_en" : "Fallen priest",
-        "family_en" : "Demon",
-        "rank" : "B",
-        "description_en" : "Priests who have fallen and can't summon up the will to return to the light.",
-        "weapons" : ["Spears", "Axes", "Hammers", "Staves"],
-        "traits" : ["Zammeister"],
-        "resistance" : ["Fizzleproof"],
-        "skill" : ["Woosh & Zam"],
-        "location" : ["Infern Isle"]
-    },
-    "34" : {
-        "name_en" : "Fencing fox",
-        "family_en" : "Beast",
-        "rank" : "E",
-        "description_en" : "Foxy warriors whose skill with a foil is unsurpassed.",
-        "weapons" : ["Swords", "Spears", "Hammers", "Staves"],
-        "traits" : ["Early Bird"],
-        "resistance" : ["Confusionproof"],
-        "skill" : ["Guerrilla"],
-        "location" : ["Palaish Isle"]
-    },
-    "14" : {
-        "name_en" : "Firespirit",
-        "family_en" : "Undead",
-        "rank" : "F",
-        "description_en" : "As its name suggests, it likes to play with fire. However, it is not fond of the cold.",
-        "weapons" : ["Swords", "Whips", "Claws", "Staves"],
-        "traits" : ["Frizzmeister"],
-        "resistance" : ["Healed by Frizz", "Vulnerable to Water", "Healed by Fire Breath"],
-        "skill" : ["Fire", "Defense Boost"],
-        "location" : ["Xeroph Isle"]
-    },
-    "195" : {
-        "name_en" : "Empyrea",
-        "family_en" : "Nature",
-        "rank" : "X",
-        "description_en" : "This holy bird soars between worlds, protecting them from the darkness.",
-        "weapons" : ["?"],
-        "traits" : ["Artful Dodger", "Zapmesister"],
-        "resistance" : ["?"],
-        "skill" : ["Crusader"],
-        "location" : null
-    },
-    "192" : {
-        "name_en" : "Estark",
-        "family_en" : "Material",
-        "rank" : "X",
-        "description_en" : "A lord of the underworld from before recorded history.",
-        "weapons" : ["Swords", "Spears", "Hammers", "Staves"],
-        "traits" : ["Double Trouble"],
-        "resistance" : ["Whackproof", "Fizzleproof", "Vulnerable to Sleep"],
-        "skill" : ["Estark"],
-        "location" : null
-    },
-    "75" : {
-        "name_en" : "Eveel",
-        "family_en" : "Nature",
-        "rank" : "D",
-        "description_en" : "Evil eels with fearsome fangs to match their atrocious appetites.",
-        "weapons" : ["Axes", "Whips", "Claws", "Staves"],
-        "traits" : ["Artful Dodger", "Poisoner"],
-        "resistance" : ["Healed by Water", "Poisonproof"],
-        "skill" : ["Hypnotist"],
-        "location" : null
-    },
-    "38" : {
-        "name_en" : "Drake slime",
-        "family_en" : "Slime",
-        "rank" : "E",
-        "description_en" : "These slimes count dragons amongst their relatives.",
-        "weapons" : ["Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Artful Dodger"],
-        "resistance" : ["Fire Breathproof", "Ice Breathproof"],
-        "skill" : ["Slimer"],
-        "location" : null
-    },
-    "171" : {
-        "name_en" : "Drakulard",
-        "family_en" : "Dragon",
-        "rank" : "S",
-        "description_en" : "The gigantic arms of this burly dragon are registered as lethal weapons.",
-        "weapons" : ["Axes", "Hammers", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Zapproof", "Whackproof"],
-        "skill" : ["Toughie"],
-        "location" : null
-    },
-    "135" : {
-        "name_en" : "Drakularge",
-        "family_en" : "Dragon",
-        "rank" : "B",
-        "description_en" : "Greedy dragons who covet shiny objects and never forget a debt.",
-        "weapons" : ["Axes", "Hammers", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Bangproof", "Whackproof"],
-        "skill" : ["Boom Boxer"],
-        "location" : null
-    },
-    "170" : {
-        "name_en" : "Dullahan",
-        "family_en" : "Undead",
-        "rank" : "S",
-        "description_en" : "Fearsome warriors who have lost their heading and their heads!",
-        "weapons" : ["Swords", "Hammers", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Whackproof", "Paralysisproof"],
-        "skill" : ["Champion"],
-        "location" : null
-    },
-    "16" : {
-        "name_en" : "Dragonthorn",
-        "family_en" : "Dragon",
-        "rank" : "F",
-        "description_en" : "These creatures are born when bunches of vines gain sentience and take the form of dragons.",
-        "weapons" : ["Hammers", "Whips", "Claws", "Staves"],
-        "traits" : ["Artful Dodger"],
-        "resistance" : ["Vulnerable to Frizz", "Fizzleproof"],
-        "skill" : ["Frizz & Woosh"],
-        "location" : ["Palaish Isle"]
-    },
-    "199" : {
-        "name_en" : "Dragovian lord",
-        "family_en" : "Dragon",
-        "rank" : "X",
-        "description_en" : "The Lord of the Dragovians, having discarded his human form.",
-        "weapons" : ["Swords", "Axes", "Claws", "Staves"],
-        "traits" : ["Critical Massacre", "Desperado"],
-        "resistance" : ["Fire Breathproof", "Cold Breathproof", "Whackproof"],
-        "skill" : ["Dragovian Lord"],
-        "location" : null
-    },
-    "66" : {
-        "name_en" : "Dragurn",
-        "family_en" : "Dragon",
-        "rank" : "D",
-        "description_en" : "These practical fellows store food in their urns in case they get peckish during battle.",
-        "weapons" : ["Axes", "Hammers", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Fizzleproof"],
-        "skill" : ["Fire"],
-        "location" : ["Infern Isle"]
-    },
-    "198" : {
-        "name_en" : "Dr Snapped",
-        "family_en" : "Undead",
-        "rank" : "X",
-        "description_en" : "He never did get along well with the other children in school.",
-        "weapons" : ["Swords", "Hammers", "Claws", "Staves"],
-        "traits" : ["Double Trouble", "Psycho"],
-        "resistance" : ["Vulnerable to Zap", "Healed by Zam", "Whackproof"],
-        "skill" : ["Dr. Snapped"],
-        "location" : null
-    },
-    "90" : {
-        "name_en" : "Dragon slime",
-        "family_en" : "Slime",
-        "rank" : "C",
-        "description_en" : "Although they resemble drackies, they are actually allergic to blood!",
-        "weapons" : ["Spears", "Hammers", "Claws", "Staves"],
-        "traits" : ["Artful Dodger"],
-        "resistance" : ["Fire Breathproof", "Ice Breathproof"],
-        "skill" : ["Dragon Lore"],
-        "location" : null
-    },
-    "186" : {
-        "name_en" : "Dragonlord",
-        "family_en" : "Dragon",
-        "rank" : "X",
-        "description_en" : "This monarch spoken of in ancient lore was once bested by the legendary dragon warrior.",
-        "weapons" : ["Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Fire Breathproof", "Cold Breathproof", "Whackproof"],
-        "skill" : ["Dragonlord"],
-        "location" : null
-    },
-    "103" : {
-        "name_en" : "Diemon",
-        "family_en" : "Beast",
-        "rank" : "C",
-        "description_en" : "Masked marauders who hide their faces out of courtesy to beautiful monsters.",
-        "weapons" : ["Spears", "Hammers", "Claws", "Staves"],
-        "traits" : ["Wooshmeister"],
-        "resistance" : ["Confusionproof"],
-        "skill" : ["Wind Blower"],
-        "location" : null
-    },
-    "97" : {
-        "name_en" : "Dingaling",
-        "family_en" : "Material",
-        "rank" : "C",
-        "description_en" : "Play around with one of these and you're sure to get into trouble.",
-        "weapons" : ["Swords", "Spears", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Confusionproof"],
-        "skill" : ["Materialist"],
-        "location" : ["Fert Isle"]
-    },
-    "173" : {
-        "name_en" : "Don mole",
-        "family_en" : "Beast",
-        "rank" : "S",
-        "description_en" : "An amateur musician whose enthusiasm far, far, FAR exceeds his musical talent.",
-        "weapons" : ["Swords", "Hammers", "Claws", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Inactionproof"],
-        "skill" : ["All-Rounder"],
-        "location" : null
-    },
-    "204" : {
-        "name_en" : "Diamagon",
-        "family_en" : "Incarni",
-        "rank" : "???",
-        "description_en" : "A divine lizard who can command the element of water.",
-        "weapons" : ["Swords", "Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Healed by Water", "Vulnerable to Lightning", "Ice Breathproof"],
-        "skill" : ["Diamagon"],
-        "location" : null
-    },
-    "208" : {
-        "name_en" : "Diamagon ace",
-        "family_en" : "Incarni",
-        "rank" : "???",
-        "description_en" : "A mighty dragon whose vault of knowledge and lore is deeper than all the seas.",
-        "weapons" : ["Swords", "Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Healed by Water", "Vulnerable to Lightning", "Whackproof"],
-        "skill" : ["Diamagon"],
-        "location" : null
-    },
-    "185" : {
-        "name_en" : "Dhoulmagus",
-        "family_en" : "Beast",
-        "rank" : "S",
-        "description_en" : "The final form of a jester who yearned for the forbidden power of a scepter.",
-        "weapons" : ["Spears", "Hammers", "Whips", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Whackproof", "Wooshproof"],
-        "skill" : ["Dhoulmagus"],
-        "location" : null
-    },
-    "153" : {
-        "name_en" : "Demon-at-arms",
-        "family_en" : "Demon",
-        "rank" : "A",
-        "description_en" : "Elite soldiers of darkness who have mastered numerous weapons.",
-        "weapons" : ["Swords", "Spears", "Axes", "Staves"],
-        "traits" : ["Double Trouble"],
-        "resistance" : ["Whackproof", "Vulnerable to Sag"],
-        "skill" : ["Crack and Zam II"],
-        "location" : null
-    },
-    "44" : {
-        "name_en" : "Demonrider",
-        "family_en" : "Undead",
-        "rank" : "E",
-        "description_en" : "Speedy savages whose sport is spiting slothful stragglers.",
-        "weapons" : ["Swords", "Axes", "Hammers", "Staves"],
-        "traits" : ["Counterstriker"],
-        "resistance" : ["Vulnerable to Zap", "Fizzleproof"],
-        "skill" : ["Diminisher"],
-        "location" : ["Xeroph Isle"]
-    },
-    "61" : {
-        "name_en" : "Dessert demon",
-        "family_en" : "Demon",
-        "rank" : "D",
-        "description_en" : "These demons give cutlery a bad name.",
-        "weapons" : ["Swords", "Spears", "Axes", "Staves"],
-        "traits" : null,
-        "resistance" : ["Dazzleproof"],
-        "skill" : ["Bolsterer"],
-        "location" : ["Xeroph Isle"]
-    },
-    "177" : {
-        "name_en" : "Darkonium slime",
-        "family_en" : "Slime",
-        "rank" : "S",
-        "description_en" : "Although made of darkonium, they won't get a scout into the finals of the challenge.",
-        "weapons" : ["Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Metal Body", "Escape Artist"],
-        "resistance" : ["Practically Invincible"],
-        "skill" : ["Fire II"],
-        "location" : null
-    },
-    "125" : {
-        "name_en" : "Dark slime knight",
-        "family_en" : "Slime",
-        "rank" : "B",
-        "description_en" : "These slimes have been tainted by the villainous knight who ride them.",
-        "weapons" : ["Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Psycho", "Zammeister"],
-        "resistance" : ["Zammproof"],
-        "skill" : ["Dark Knight"],
-        "location" : ["Infern Isle"]
-    },
-    "117" : {
-        "name_en" : "Dark slime",
-        "family_en" : "Slime",
-        "rank" : "B",
-        "description_en" : "Similar to drackies, these sinister slimes enjoy slurping on the blood of humans.",
-        "weapons" : ["Spears", "Whips", "Claws", "Staves"],
-        "traits" : ["Artful Dodger", "Zammeister"],
-        "resistance" : ["Vulnerable to Zap", "Healed by Zam"],
-        "skill" : ["Muspell"],
-        "location" : null
-    },
-    "20" : {
-        "name_en" : "Dancing flame",
-        "family_en" : "Material",
-        "rank" : "F",
-        "description_en" : "These fiery creatures are actually passionate lovers as well as fighters.",
-        "weapons" : ["Swords", "Hammers", "Whips", "Staves"],
-        "traits" : ["Frizzmeister"],
-        "resistance" : ["Healed by Frizz", "Vulnerable to Crack", "Healed by Fire Breath"],
-        "skill" : ["Fire Fighter"],
-        "location" : ["Xeroph Isle"]
-    },
-    "62" : {
-        "name_en" : "Dancing devil",
-        "family_en" : "Demon",
-        "rank" : "D",
-        "description_en" : "The dancing moves of these devils cannot be matched by any other monster.",
-        "weapons" : ["Swords", "Spears", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Drain Magicproof", "Fizzleproof"],
-        "skill" : ["Dancer"],
-        "location" : ["Celeste Isle"]
-    },
-    "104" : {
-        "name_en" : "Cureslime",
-        "family_en" : "Slime",
-        "rank" : "C",
-        "description_en" : "These medical specialists are more adept than their healslime cousins.",
-        "weapons" : ["Spears", "Whips", "Claws", "Staves"],
-        "traits" : ["Health Professional"],
-        "resistance" : ["Whackproof", "Fizzleproof"],
-        "skill" : ["Healer"],
-        "location" : null
-    },
-    "18" : {
-        "name_en" : "Crabid",
-        "family_en" : "Nature",
-        "rank" : "F",
-        "description_en" : "This hard-shelled crustacean boasts a nifty line in sidestepping.",
-        "weapons" : ["Swords", "Axes", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Vulnerable to Frizz"],
-        "skill" : ["Defender", "Defense Boost"],
-        "location" : ["Xeroph Isle"]
-    },
-    "121" : {
-        "name_en" : "Cockateer",
-        "family_en" : "Beast",
-        "rank" : "B",
-        "description_en" : "Cocky fighters who are fearless in combat.",
-        "weapons" : ["Swords", "Spears", "Hammers", "Staves"],
-        "traits" : ["Fly Swatter"],
-        "resistance" : ["Sleepproof"],
-        "skill" : ["Bird Brain"],
-        "location" : ["Infern Isle"]
-    },
-    "207" : {
-        "name_en" : "Cluboon ace",
-        "family_en" : "Incarni",
-        "rank" : "???",
-        "description_en" : "A mighty ape whose hide is tougher than an earthen fortress wall.",
-        "weapons" : ["Swords", "Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Vulnerable to Fire, Healed by Earth, Whackproof"],
-        "skill" : ["Cluboon III"],
-        "location" : null
-    },
-    "203" : {
-        "name_en" : "Cluboon",
-        "family_en" : "Incarni",
-        "rank" : "???",
-        "description_en" : "A divine monkey who can command the element of earth.",
-        "weapons" : ["Swords", "Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Vulnerable to Fire", "Healed by Earth", "Sapproof"],
-        "skill" : ["Cluboon"],
-        "location" : null
-    },
-    "25" : {
-        "name_en" : "Chimaera",
-        "family_en" : "Nature",
-        "rank" : "F",
-        "description_en" : "Fowl faces that bode foul magic.",
-        "weapons" : ["Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Artful Dodger"],
-        "resistance" : ["Confusionproof"],
-        "skill" : ["Cleanser"],
-        "location" : ["Xeroph Isle"]
-    },
-    "41" : {
-        "name_en" : "Chainine",
-        "family_en" : "Beast",
-        "rank" : "E",
-        "description_en" : "These dirty dogs wrap their collars around their victims before landing the final blow.",
-        "weapons" : ["Spears", "Axes", "Hammers", "Staves"],
-        "traits" : null,
-        "resistance" : ["Dazzleproof"],
-        "skill" : ["Mime", "Attack Boost"],
-        "location" : ["Palaish Isle"]
-    },
-    "183" : {
-        "name_en" : "Captain Crow",
-        "family_en" : "Undead",
-        "rank" : "S",
-        "description_en" : "A powerful pirate who perished pursuing a line of light leading to legendary lands.",
-        "weapons" : ["Swords, Axes, Whips, Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Whackproof", "Confusionproof", "Paralysisproof"],
-        "skill" : ["Captain Crow"],
-        "location" : ["Sea"]
-    },
-    "56" : {
-        "name_en" : "Cannibox",
-        "family_en" : "Material",
-        "rank" : "D",
-        "description_en" : "Wicked monsters who take the form of chests to lure adventurers in for the kill.",
-        "weapons" : ["Swords", "Hammers", "Claws", "Staves"],
-        "traits" : ["Desperado"],
-        "resistance" : ["Whackproof"],
-        "skill" : ["Fear-monger"],
-        "location" : ["Palaish Isle"]
-    },
-    "8" : {
-        "name_en" : "Bubble slime",
-        "family_en" : "Slime",
-        "rank" : "F",
-        "description_en" : "This blob was born of a poisonous swamp and carries the same toxins in its body.",
-        "weapons" : ["Hammers", "Whips", "Claws", "Staves"],
-        "traits" : ["Poisoner"],
-        "resistance" : ["Poisonproof"],
-        "skill" : ["Slimer", "Attack Boost"],
-        "location" : ["Palaish Isle"]
-    },
-    "148" : {
-        "name_en" : "Buffalogre",
-        "family_en" : "Beast",
-        "rank" : "A",
-        "description_en" : "Wild monsters that use their horns to toss their prey about before feasting.",
-        "weapons" : ["Swords", "Hammers", "Claws", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Whackproof", "Confusionproof"],
-        "skill" : ["Berserker"],
-        "location" : null
-    },
-    "85" : {
-        "name_en" : "Bullfinch",
-        "family_en" : "Nature",
-        "rank" : "D",
-        "description_en" : "Trying to tip these bovines over will earn you a kick in the rear.",
-        "weapons" : ["Axes", "Hammers", "Claws", "Staves"],
-        "traits" : ["Counterstriker"],
-        "resistance" : ["Vulnerable to Sleep", "Sagproof"],
-        "skill" : ["Toughie"],
-        "location" : null
-    },
-    "77" : {
-        "name_en" : "Brownie",
-        "family_en" : "Beast",
-        "rank" : "D",
-        "description_en" : "Though typically mild-mannered, these monsters swing their hammers when angered.",
-        "weapons" : ["Spears", "Axes", "Hammers", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Drain Magicproof"],
-        "skill" : ["Bounty Hunter"],
-        "location" : null
-    },
-    "137" : {
-        "name_en" : "Boss troll",
-        "family_en" : "Demon",
-        "rank" : "B",
-        "description_en" : "These bloodthirsty fiends pound their enemies into the ground, and the ground into dust.",
-        "weapons" : ["Spears", "Hammers", "Claws", "Staves"],
-        "traits" : ["Critical Massacre"],
-        "resistance" : ["Whackproof", "Dazzleproof", "Sleepproof"],
-        "skill" : ["Anti-dragon"],
-        "location" : ["Fert Isle"]
-    },
-    "161" : {
-        "name_en" : "Bone baron",
-        "family_en" : "Undead",
-        "rank" : "A",
-        "description_en" : "These sadistic aristocrats continue to oppress the masses even in death.",
-        "weapons" : ["Swords", "Spears", "Hammers", "Staves"],
-        "traits" : ["Counterstriker"],
-        "resistance" : ["Vulnerable to Zap", "Whackproof", "Inactionproof"],
-        "skill" : ["Diabolist"],
-        "location" : null
-    },
-    "159" : {
-        "name_en" : "Boh",
-        "family_en" : "Material",
-        "rank" : "A",
-        "description_en" : "Curls its arms and legs up into a ball to sleep at night - how cute!",
-        "weapons" : ["Swords", "Spears", "Hammers", "Staves"],
-        "traits" : null,
-        "resistance" : ["Fizzleproof"],
-        "skill" : ["Healer"],
-        "location" : null
-    },
-    "155" : {
-        "name_en" : "Boe",
-        "family_en" : "Material",
-        "rank" : "A",
-        "description_en" : "There is a nasty rumour going around that he is jum's twin brother.",
-        "weapons" : ["Swords", "Spears", "Hammers", "Staves"],
-        "traits" : null,
-        "resistance" : ["Confusionproof"],
-        "skill" : ["Fortifier"],
-        "location" : null
-    },
-    "86" : {
-        "name_en" : "Bodkin archer",
-        "family_en" : "Beast",
-        "rank" : "C",
-        "description_en" : "Denizens of the forest who live in trees, targeting those who pass beneath the canopy.",
-        "weapons" : ["Spears", "Hammers", "Whips", "Staves"],
-        "traits" : null,
-        "resistance" : ["Fizzleproof"],
-        "skill" : ["Fortifier"],
-        "location" : ["Fert Isle"]
-    },
-    "165" : {
-        "name_en" : "Black dragon",
-        "family_en" : "Dragon",
-        "rank" : "S",
-        "description_en" : "Some believe these dragons were turned black by the blistering heat of their own breath.",
-        "weapons" : ["Swords", "Axes", "Claws", "Staves"],
-        "traits" : ["Zammeister"],
-        "resistance" : ["Zamproof", "Whackproof"],
-        "skill" : ["Antimagic"],
-        "location" : null
-    },
-    "84" : {
-        "name_en" : "Beshemoth slime",
-        "family_en" : "Slime",
-        "rank" : "D",
-        "description_en" : "She-slimes exposed to dark matter become even more carnivorous!",
-        "weapons" : ["Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Frizzmeister", "Desperado"],
-        "resistance" : ["Frizzproof"],
-        "skill" : ["Frizz & Zam"],
-        "location" : null
-    },
-    "160" : {
-        "name_en" : "Belial",
-        "family_en" : "Demon",
-        "rank" : "A",
-        "description_en" : "Demonic creatures who excel at both physical and magical combat.",
-        "weapons" : ["Swords", "Spears", "Axes", "Staves"],
-        "traits" : ["Double Trouble", "Bangmeister"],
-        "resistance" : ["Bangproof, Whackproof", "Vulnerable to Fizzle"],
-        "skill" : ["Bang & Zam II"],
-        "location" : null
-    },
-    "82" : {
-        "name_en" : "Behemoth slime",
-        "family_en" : "Slime",
-        "rank" : "D",
-        "description_en" : "These slimes have undergone a transformation brought about by contact with dark matter.",
-        "weapons" : ["Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Psycho", "Desperado"],
-        "resistance" : ["Whackproof"],
-        "skill" : ["Woosh & Zap"],
-        "location" : ["Slime Island"]
-    },
-    "166" : {
-        "name_en" : "Beetlebully",
-        "family_en" : "Nature",
-        "rank" : "S",
-        "description_en" : "Their huge horns are heralded as the horror of the insect world.",
-        "weapons" : ["Spears", "Axes", "Hammers", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Vulnerable to Frizz", "Dazzleproof"],
-        "skill" : ["Bounty Hunter"],
-        "location" : null
-    },
-    "119" : {
-        "name_en" : "Beetleboy",
-        "family_en" : "Nature",
-        "rank" : "B",
-        "description_en" : "A natural speedster, this beetle excels in body slams.",
-        "weapons" : ["Spears", "Axes", "Hammers", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Vulnerable to Frizz", "Sleepproof"],
-        "skill" : ["Hive Mind"],
-        "location" : ["Fert Isle"]
-    },
-    "167" : {
-        "name_en" : "Atlas",
-        "family_en" : "Beast",
-        "rank" : "S",
-        "description_en" : "Once opposed a certain trio of warriors while in the service of Hargon.",
-        "weapons" : ["Axes", "Hammers", "Claws", "Staves"],
-        "traits" : ["Critical Massacre"],
-        "resistance" : ["Whackproof"],
-        "skill" : ["Diabolist"],
-        "location" : null
-    },
-    "24" : {
-        "name_en" : "Argon lizard",
-        "family_en" : "Dragon",
-        "rank" : "F",
-        "description_en" : "These lizards intimidate their enemies by unfurling their imposing neck frills.",
-        "weapons" : ["Axes", "Hammers", "Claws", "Staves"],
-        "traits" : ["Escape Artist"],
-        "resistance" : ["Poisonproof", "Paralysisproof"],
-        "skill" : ["Toxifier"],
-        "location" : ["Fert Isle", "Dragon Island"]
-    },
-    "132" : {
-        "name_en" : "Archdemon",
-        "family_en" : "Demon",
-        "rank" : "B",
-        "description_en" : "High-level demons whose expertise in explosive magic makes them feared by all.",
-        "weapons" : ["Swords", "Spears", "Claws", "Staves"],
-        "traits" : ["Bangmeister"],
-        "resistance" : ["Bangproof", "Whackproof"],
-        "skill" : ["Frizz & Bang II"],
-        "location" : null
-    },
-    "81" : {
-        "name_en" : "Angel slime",
-        "family_en" : "Slime",
-        "rank" : "D",
-        "description_en" : "Slimes who live virtuous lives are reincarnated in this saintly form.",
-        "weapons" : ["Spears", "Whips", "Claws", "Staves"],
-        "traits" : ["Artful Dodger", "Zapmeister"],
-        "resistance" : ["Healed by Zap", "Vulnerable to Zam", "Whackproof"],
-        "skill" : ["Healer"],
-        "location" : ["Palaish Isle"]
-    },
-    "64" : {
-        "name_en" : "Anchorman",
-        "family_en" : "Material",
-        "rank" : "D",
-        "description_en" : "Rusty anchors left unattended for long periods can turn rabid when magic is afoot.",
-        "weapons" : ["Swords", "Hammers", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Inactionproof"],
-        "skill" : ["Materialist"],
-        "location" : null
-    },
-    "178" : {
-        "name_en" : "Alabast dragon",
-        "family_en" : "Dragon",
-        "rank" : "S",
-        "description_en" : "This regal deity is known as the Zenith dragon on another plane of existence.",
-        "weapons" : ["Swords", "Axes", "Claws", "Staves"],
-        "traits" : ["Psycho"],
-        "resistance" : ["Healed by Zap", "Cold Breathproof", "Whackproof"],
-        "skill" : ["Cleric"],
-        "location" : null
-    },
-    "209" : {
-        "name_en" : "Ace of spades",
-        "family_en" : "Incarni",
-        "rank" : "???",
-        "description_en" : "The Incarnus's terrible alternate form, tainted and transmogrified by dark matter.",
-        "weapons" : ["Swords", "Spears", "Axes", "Claws", "Staves"],
-        "traits" : ["Psycho", "Zammeister"],
-        "resistance" : ["Whackproof", "Healed by Zam", "Vulnerable to Zap"],
-        "skill" : ["Cursader"],
-        "location" : null
-    },
-    "1" : {
-        "name_en" : "Slime",
-        "description_en" : "This little monster sports soft skin and a silly smile.",
-        "family_en" : "Slime",
-        "weapons" : ["Spears", "Whips", "Claws", "Staves"],
-        "traits" : ["Critical Massacre"],
-        "resistance" : null,
-        "skill" : ["Slimer", "Attack Boost"],
-        "location" : ["Infant Isle"],
-        "rank" : "F"
-    },
-    "118" : {
-        "name_en" : "Abyss Diver",
-        "description_en" : "Their mighty bodies can withstand even the pressure of the ocean depths.",
-        "family_en" : "Dragon",
-        "weapons" : ["Spears", "Hammers", "Claws", "Staves"],
-        "traits" : ["Artful Dodger"],
-        "resistance" : ["Sleepproof"],
-        "skill" : ["Crack & Zap"],
-        "location" : null,
-        "rank" : "B"
-    },
-    "2" : {
-        "name_en" : "Komodo",
-        "description_en" : "Giant lizards that hunt scouts for sport.",
-        "family_en" : "Dragon",
-        "weapons" : ["Axes", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : ["Dazzleproof"],
-        "skill" : ["Defender", "Attack Boost"],
-        "location" : ["Xeroph Isle"],
-        "rank" : "F"
-    },
-    "3" : {
-        "name_en" : "Capsichum",
-        "description_en" : "Peppery pals proficient at pulverizing passing perpetrators.",
-        "family_en" : "Nature",
-        "weapons" : ["Swords", "Spears", "Axes", "Staves"],
-        "traits" : null,
-        "resistance" : ["Vulnerable to Frizz", "Sleepproof"],
-        "skill" : ["Saboteur", "Defense Boost"],
-        "location" : ["Palaish Isle"],
-        "rank" : "F"
-    },
-    "4" : {
-        "name_en" : "Platypunk",
-        "description_en" : "Their waggish expression belies their ferocity.",
-        "family_en" : "Beast",
-        "weapons" : ["Spears", "Axes", "Hammers", "Staves"],
-        "traits" : null,
-        "resistance" : ["Fizzleproof"],
-        "skill" : ["Naturalist", "Defense Boost"],
-        "location" : ["Infant Isle"],
-        "rank" : "F"
-    },
-    "5" : {
-        "name_en" : "Bag o' laughs",
-        "description_en" : "These barbarous bags may be smiling, but they're a sackful of trouble.",
-        "family_en" : "Material",
-        "weapons" : ["Swords", "Hammers", "Claws", "Staves"],
-        "traits" : null,
-        "resistance" : null,
-        "skill" : ["Fear-monger", "Defense Boost"],
-        "location" : ["Xeroph Isle"],
-        "rank" : "F"
-    },
-    "6" : {
-        "name_en" : "Dracky",
-        "description_en" : "Small, agile creatures with contagious grins that fly through the darkness.",
-        "family_en" : "Demon",
-        "weapons" : ["Swords", "Spears", "Claws", "Staves"],
-        "traits" : ["Artful Dodger"],
-        "resistance" : ["Fizzleproof"],
-        "skill" : ["Dark Knight", "Agility Boost"],
-        "location" : ["Infant Isle", "Treasure Island", "Dracky Island"],
-        "rank" : "F"
-    }
+   "1": {
+      "name_en": "Slime",
+      "family_en": "Slime",
+      "rank": "F",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         null
+      ],
+      "description_en": "This little monster sports soft skin and a silly smile.",
+      "weapons": [
+         "Spears",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Slimer",
+         "Attack Boost"
+      ],
+      "location": "Infant Isle"
+   },
+   "2": {
+      "name_en": "Komodo",
+      "family_en": "Dragon",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Dazzleproof"
+      ],
+      "description_en": "Giant lizards that hunt scouts for sport.",
+      "weapons": [
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Defender",
+         "Attack Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "3": {
+      "name_en": "Capsichum",
+      "family_en": "Nature",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Sleepproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "Peppery pals proficient at pulverizing passing perpetrators.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Saboteur",
+         "Defense Boost"
+      ],
+      "location": "Palaish Isle"
+   },
+   "4": {
+      "name_en": "Platypunk",
+      "family_en": "Beast",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Their waggish expression belies their ferocity.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Naturalist",
+         "Defense Boost"
+      ],
+      "location": "Infant Isle"
+   },
+   "5": {
+      "name_en": "Bag o' laughs",
+      "family_en": "Material",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         null
+      ],
+      "description_en": "These barbarous bags may be smiling, but they're a sackful of trouble.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Fear-monger",
+         "Defense Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "6": {
+      "name_en": "Dracky",
+      "family_en": "Demon",
+      "rank": "F",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Small, agile creatures with contagious grins that fly through the darkness.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dark Knight",
+         "Agility Boost"
+      ],
+      "location": "Infant Isle"
+   },
+   "7": {
+      "name_en": "Ghost",
+      "family_en": "Undead",
+      "rank": "F",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "Small specters that delight in making young children cry.",
+      "weapons": [
+         "Swords",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Graveheart",
+         "Attack Boost"
+      ],
+      "location": "Infant Isle"
+   },
+   "8": {
+      "name_en": "Bubble slime",
+      "family_en": "Slime",
+      "rank": "F",
+      "traits": [
+         "Poisoner",
+         null
+      ],
+      "resistance": [
+         "Poisonproof"
+      ],
+      "description_en": "This blob was born of a poisonous swamp and carries the same toxins in its body.",
+      "weapons": [
+         "Hammers",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Slimer",
+         "Attack Boost"
+      ],
+      "location": "Palaish Isle"
+   },
+   "9": {
+      "name_en": "Frou-fry",
+      "family_en": "Dragon",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Paralysisproof"
+      ],
+      "description_en": "These creatures use their saw-like teeth to shred the bellies of their prey. Ouch!",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Icemeister",
+         "Ice Breath Ward"
+      ],
+      "location": "Dragon Island"
+   },
+   "10": {
+      "name_en": "Wild boarfish",
+      "family_en": "Nature",
+      "rank": "F",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Drain Magicproof",
+         " Healed by Water"
+      ],
+      "description_en": "Pig-like fish at home in both sea and sky.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Huntsman"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "11": {
+      "name_en": "Mischievous mole",
+      "family_en": "Beast",
+      "rank": "F",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Dazzleproof"
+      ],
+      "description_en": "Who knows what mischief these moles get up to with their spades...",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Guerrilla",
+         "Attack Boost"
+      ],
+      "location": "Infant Isle"
+   },
+   "12": {
+      "name_en": "Shadow",
+      "family_en": "Material",
+      "rank": "F",
+      "traits": [
+         "Zammeister",
+         null
+      ],
+      "resistance": [
+         "Healed by Zam",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "Who knows what evil lurks in the hearts of men? These monsters do.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Reaper"
+      ],
+      "location": "Infant Isle"
+   },
+   "13": {
+      "name_en": "Lips",
+      "family_en": "Demon",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Drain Magicproof"
+      ],
+      "description_en": "These slobbery monsters are renowned for their slippery skin.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Hypnotist",
+         "Wisdom Boost"
+      ],
+      "location": "Infant Isle"
+   },
+   "14": {
+      "name_en": "Firespirit",
+      "family_en": "Undead",
+      "rank": "F",
+      "traits": [
+         "Frizzmeister",
+         null
+      ],
+      "resistance": [
+         "Healed by Fire Breath",
+         " Healed by Frizz",
+         " Vulnerable to Water"
+      ],
+      "description_en": "As its name suggests, it likes to play with fire. However, it is not fond of the cold.",
+      "weapons": [
+         "Swords",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Fire",
+         "Defense Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "15": {
+      "name_en": "Shell slime",
+      "family_en": "Slime",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         null
+      ],
+      "description_en": "When surprised or threatened, these timid little fellows take refuge under their sturdy shells.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bolsterer",
+         "Agility Boost"
+      ],
+      "location": "Palaish Isle"
+   },
+   "16": {
+      "name_en": "Dragonthorn",
+      "family_en": "Dragon",
+      "rank": "F",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "These creatures are born when bunches of vines gain sentience and take the form of dragons.",
+      "weapons": [
+         "Hammers",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Frizz & Woosh"
+      ],
+      "location": "Palaish Isle"
+   },
+   "17": {
+      "name_en": "Scorpion",
+      "family_en": "Nature",
+      "rank": "F",
+      "traits": [
+         "Critical Massacre",
+         "Paralyser"
+      ],
+      "resistance": [
+         "Paralysisproof",
+         " Poisonproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "The poisonous tails of these predators can paralyze their prey at a pinch.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Hive Mind",
+         "Defense Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "18": {
+      "name_en": "Crabid",
+      "family_en": "Nature",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Vulnerable to Frizz"
+      ],
+      "description_en": "This hard-shelled crustacean boasts a nifty line in sidestepping.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Defender",
+         "Defense Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "19": {
+      "name_en": "Satyr",
+      "family_en": "Beast",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Sleepproof"
+      ],
+      "description_en": "The sight of one of these beasts dancing all by itself is strangely sorrowful.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Dancer"
+      ],
+      "location": "Domus Isle Sewer"
+   },
+   "20": {
+      "name_en": "Dancing flame",
+      "family_en": "Material",
+      "rank": "F",
+      "traits": [
+         "Frizzmeister",
+         null
+      ],
+      "resistance": [
+         "Healed by Fire Breath",
+         " Healed by Frizz",
+         " Vulnerable to Crack"
+      ],
+      "description_en": "These fiery creatures are actually passionate lovers as well as fighters.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Fire Fighter"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "21": {
+      "name_en": "Winky",
+      "family_en": "Demon",
+      "rank": "F",
+      "traits": [
+         "Desperado",
+         null
+      ],
+      "resistance": [
+         "Dazzleproof",
+         " Whackproof"
+      ],
+      "description_en": "Keep a close watch on these monsters - they can strike in the blink of an eye.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Seal",
+         "Wisdom Boost"
+      ],
+      "location": "Infant Isle"
+   },
+   "22": {
+      "name_en": "Stump chump",
+      "family_en": "Undead",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "Once tall and proud, it now fights to avenge all the other trees cut down in their prime.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Green Finger",
+         "Attack Boost"
+      ],
+      "location": "Infant Isle"
+   },
+   "23": {
+      "name_en": "Healslime",
+      "family_en": "Slime",
+      "rank": "F",
+      "traits": [
+         "Health Professional",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "These sweet little creatures wave their tentacles about in the most adorable manner.",
+      "weapons": [
+         "Spears",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Healer",
+         "Agility Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "24": {
+      "name_en": "Argon lizard",
+      "family_en": "Dragon",
+      "rank": "F",
+      "traits": [
+         "Escape Artist",
+         null
+      ],
+      "resistance": [
+         "Paralysisproof",
+         " Poisonproof"
+      ],
+      "description_en": "These lizards intimidate their enemies by unfurling their imposing neck frills.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Toxifier"
+      ],
+      "location": "Fert Isle, Dragon Island"
+   },
+   "25": {
+      "name_en": "Chimaera",
+      "family_en": "Nature",
+      "rank": "F",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Confusionproof"
+      ],
+      "description_en": "Fowl faces that bode foul magic.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Cleanser"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "26": {
+      "name_en": "Frostburn",
+      "family_en": "Material",
+      "rank": "F",
+      "traits": [
+         "Crackmeister",
+         null
+      ],
+      "resistance": [
+         "Healed by Crack",
+         " Healed by Ice Breath",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "This monster's chilling exterior masks a rather cool and laid-back interior.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Icemeister"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "27": {
+      "name_en": "Hammerhood",
+      "family_en": "Beast",
+      "rank": "F",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Dazzleproof"
+      ],
+      "description_en": "It's not the size of the hammer that counts. It's how you wield it.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Huntsman",
+         "Attack Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "28": {
+      "name_en": "Spitnik",
+      "family_en": "Material",
+      "rank": "F",
+      "traits": [
+         "Bangmeister",
+         null
+      ],
+      "resistance": [
+         "Healed by Bang",
+         " Vulnerable to Crack"
+      ],
+      "description_en": "Small, sentient suns circled by similar, somewhat smaller satellites.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Frizz & Bang",
+         "Defense Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "29": {
+      "name_en": "See urchin",
+      "family_en": "Demon",
+      "rank": "F",
+      "traits": [
+         "Health Professional",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Healed by Water"
+      ],
+      "description_en": "Prickly denizens of the sea who see everything, you see.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Aquapothecary",
+         "Wisdom Boost"
+      ],
+      "location": "Palaish Isle"
+   },
+   "30": {
+      "name_en": "Funghoul",
+      "family_en": "Undead",
+      "rank": "F",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Poisonproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "Pestilent creatures that spawn in moist, dark places.",
+      "weapons": [
+         "Swords",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Graveheart",
+         "Attack Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "31": {
+      "name_en": "She-slime",
+      "family_en": "Slime",
+      "rank": "E",
+      "traits": [
+         "Frizzmeister",
+         null
+      ],
+      "resistance": [
+         "Frizzproof"
+      ],
+      "description_en": "Slimologists have recently discovered that carnivorous slimes turn a reddish shade.",
+      "weapons": [
+         "Spears",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Frizz & Zap"
+      ],
+      "location": "Slime Island"
+   },
+   "32": {
+      "name_en": "Nardragon",
+      "family_en": "Dragon",
+      "rank": "E",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         null
+      ],
+      "description_en": "The horn of a nardragon can pierce any armour.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Martyr"
+      ],
+      "location": "Celeste Isle"
+   },
+   "33": {
+      "name_en": "Spiked hare",
+      "family_en": "Nature",
+      "rank": "E",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Drain Magicproof"
+      ],
+      "description_en": "It's clear from the horn that you won't be brushing this hare aside in a hurry.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Naturalist",
+         "Defense Boost"
+      ],
+      "location": "Palaish Isle"
+   },
+   "34": {
+      "name_en": "Fencing fox",
+      "family_en": "Beast",
+      "rank": "E",
+      "traits": [
+         "Early Bird",
+         null
+      ],
+      "resistance": [
+         "Confusionproof"
+      ],
+      "description_en": "Foxy warriors whose skill with a foil is unsurpassed.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Guerrilla"
+      ],
+      "location": "Palaish Isle"
+   },
+   "35": {
+      "name_en": "Goodybag",
+      "family_en": "Material",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Decadent monsters whose love for worldly possessions keeps a smile on their faces.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Enfeebler",
+         "Defense Boost"
+      ],
+      "location": "Palaish Isle"
+   },
+   "36": {
+      "name_en": "Imp",
+      "family_en": "Demon",
+      "rank": "E",
+      "traits": [
+         "Bangmeister",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Mischievous fiends who delight in blowing things up.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Frizz & Bang",
+         "Wisdom Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "37": {
+      "name_en": "Muddy hand",
+      "family_en": "Undead",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Dazzleproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "The souls of those who died in swamps...Always ready to give fellow monsters a hand!",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Materialist"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "38": {
+      "name_en": "Drake slime",
+      "family_en": "Slime",
+      "rank": "E",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Ice Breathproof"
+      ],
+      "description_en": "These slimes count dragons amongst their relatives.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Slimer"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "39": {
+      "name_en": "Snapdragon",
+      "family_en": "Dragon",
+      "rank": "E",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Confusionproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "-",
+      "weapons": [
+         "Hammers",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Frizz & Woosh"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "40": {
+      "name_en": "Khalamari kid",
+      "family_en": "Nature",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Healed by Water"
+      ],
+      "description_en": "These sea dwellers know they're cute - and flaunt it!",
+      "weapons": [
+         "Axes",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Aquapothecary",
+         "Defense Boost"
+      ],
+      "location": "Palaish Isle"
+   },
+   "41": {
+      "name_en": "Chainine",
+      "family_en": "Beast",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Dazzleproof"
+      ],
+      "description_en": "These dirty dogs wrap their collars around their victims before landing the final blow.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Mime",
+         "Attack Boost"
+      ],
+      "location": "Palaish Isle"
+   },
+   "42": {
+      "name_en": "King kelp",
+      "family_en": "Material",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Healed by Water",
+         " Sleepproof"
+      ],
+      "description_en": "This musician keeps his mic polished at all times, and is always ready to holler a tune.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "All-Rounder"
+      ],
+      "location": "Palaish Isle"
+   },
+   "43": {
+      "name_en": "Lump wizard",
+      "family_en": "Demon",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Attack Magicproof"
+      ],
+      "description_en": "The bodies of these wizards are highly resistant to the effects of magic.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Bang & Woosh",
+         "Woosh Ward"
+      ],
+      "location": "Palaish Isle"
+   },
+   "44": {
+      "name_en": "Demonrider",
+      "family_en": "Undead",
+      "rank": "E",
+      "traits": [
+         "Counterstriker",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Vulnerable to Zap"
+      ],
+      "description_en": "Speedy savages whose sport is spiting slothful stragglers.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Diminisher"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "45": {
+      "name_en": "Mummy boy",
+      "family_en": "Undead",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Crackproof",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "Malicious mummies who spread pestilence amongst the living.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Graveheart",
+         "Attack Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "46": {
+      "name_en": "Snail slime",
+      "family_en": "Slime",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Dazzleproof"
+      ],
+      "description_en": "These quirky slimes are more nimble than their heavy shells might have you believe.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Mage Aid"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "47": {
+      "name_en": "Jargon",
+      "family_en": "Dragon",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Drain Magicproof"
+      ],
+      "description_en": "These dragons keep a special brew in their jars especially for post-battle celebrations.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Toughie"
+      ],
+      "location": "Fert Isle"
+   },
+   "48": {
+      "name_en": "Jailcat",
+      "family_en": "Nature",
+      "rank": "E",
+      "traits": [
+         "Crackmeister",
+         null
+      ],
+      "resistance": [
+         "Crackproof"
+      ],
+      "description_en": "These felines are especially fond of their stripes.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Woosh & Crack"
+      ],
+      "location": "Palaish Isle"
+   },
+   "49": {
+      "name_en": "Orc",
+      "family_en": "Beast",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Sleepproof"
+      ],
+      "description_en": "Driven from their forest homes, they have turned on humans.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Speedster"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "50": {
+      "name_en": "Wax murderer",
+      "family_en": "Material",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Sagproof"
+      ],
+      "description_en": "Few monsters can hold a light to these sparky fellows.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Fire Fighter"
+      ],
+      "location": "Palaish Isle"
+   },
+   "51": {
+      "name_en": "Frogface",
+      "family_en": "Demon",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Vulnerable to Frizz"
+      ],
+      "description_en": "Two faces can be better than one, providing they can both breathe underwater.",
+      "weapons": [
+         "Spears",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Healer"
+      ],
+      "location": "Fert Isle"
+   },
+   "52": {
+      "name_en": "Skipper",
+      "family_en": "Undead",
+      "rank": "E",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Inactionproof"
+      ],
+      "description_en": "Smelly boots inhabited by smellier sprites.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Saboteur",
+         "Attack Boost"
+      ],
+      "location": "Palaish Isle"
+   },
+   "53": {
+      "name_en": "Wild slime",
+      "family_en": "Slime",
+      "rank": "D",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Sagproof"
+      ],
+      "description_en": "These unruly slimes slice their unsuspecting prey with swift slashes from their claws.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Champion"
+      ],
+      "location": "Fert Isle"
+   },
+   "54": {
+      "name_en": "Green dragon",
+      "family_en": "Dragon",
+      "rank": "D",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Ice Breathproof"
+      ],
+      "description_en": "The tough scales of this dragon can only be pierced by exceptional blades.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dragon Lore"
+      ],
+      "location": "Palaish Isle"
+   },
+   "55": {
+      "name_en": "Great sabrecub",
+      "family_en": "Nature",
+      "rank": "D",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Decelerateproof"
+      ],
+      "description_en": "Though still young cubs, their razor-sharp claws are already vicious weapons.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Naturalist",
+         "Defense Boost"
+      ],
+      "location": "Celeste Isle"
+   },
+   "56": {
+      "name_en": "Cannibox",
+      "family_en": "Material",
+      "rank": "D",
+      "traits": [
+         "Desperado",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "Wicked monsters who take the form of chests to lure adventurers in for the kill.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Fear-monger"
+      ],
+      "location": "Palaish Isle"
+   },
+   "57": {
+      "name_en": "Pan piper",
+      "family_en": "Beast",
+      "rank": "D",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Sleepproof"
+      ],
+      "description_en": "Unlike their cousins, these creatures dance for the good of their health.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Nightmare"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "58": {
+      "name_en": "Skelegon",
+      "family_en": "Dragon",
+      "rank": "D",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "Loath to relinquish life, this creature lives on though its flesh is long gone.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Crack & Zam"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "59": {
+      "name_en": "Jumping jackal",
+      "family_en": "Beast",
+      "rank": "D",
+      "traits": [
+         "Able Ambusher",
+         null
+      ],
+      "resistance": [
+         "Dazzleproof"
+      ],
+      "description_en": "Once this vicious beast picks up the scent, its prey has little hope of escaping in one piece.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Speedster"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "60": {
+      "name_en": "Rockbomb",
+      "family_en": "Material",
+      "rank": "D",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "These rugged rocks smile through to the bitter end.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Martyr"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "61": {
+      "name_en": "Dessert demon",
+      "family_en": "Demon",
+      "rank": "D",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Dazzleproof"
+      ],
+      "description_en": "These demons give cutlery a bad name.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Bolsterer"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "62": {
+      "name_en": "Dancing devil",
+      "family_en": "Demon",
+      "rank": "D",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Drain Magicproof"
+      ],
+      "description_en": "The dancing moves of these devils cannot be matched by any other monster.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dancer"
+      ],
+      "location": "Celeste Isle"
+   },
+   "63": {
+      "name_en": "Phantom fencer",
+      "family_en": "Undead",
+      "rank": "D",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Vulnerable to Zap",
+         " Whackproof",
+         " Wooshproof"
+      ],
+      "description_en": "Those felled by the blade often take it up in the afterlife.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Wind Blower"
+      ],
+      "location": "Celeste Isle"
+   },
+   "64": {
+      "name_en": "Anchorman",
+      "family_en": "Material",
+      "rank": "D",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Inactionproof"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Anchorman"
+      ]
+   },
+   "65": {
+      "name_en": "Slime knight",
+      "family_en": "Slime",
+      "rank": "D",
+      "traits": [
+         "Counterstriker",
+         null
+      ],
+      "resistance": [
+         "Confusionproof"
+      ],
+      "description_en": "Contrary to popular opinion, it is actually the slime giving the orders!",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "White Knight"
+      ],
+      "location": "- Infern Isle: Day"
+   },
+   "66": {
+      "name_en": "Dragurn",
+      "family_en": "Dragon",
+      "rank": "D",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "These practical fellows store food in their urns in case they get peckish during battle.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Fire"
+      ],
+      "location": "Infern Isle"
+   },
+   "67": {
+      "name_en": "Metal slime",
+      "family_en": "Slime",
+      "rank": "D",
+      "traits": [
+         "Metal Body",
+         "Escape Artist"
+      ],
+      "resistance": [
+         "Practically Invincible"
+      ],
+      "description_en": "These slimes are astonishingly agile despite their heavy metal coating.",
+      "weapons": [
+         "Spears",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Slimer"
+      ],
+      "location": "Celeste Isle, Fert Isle"
+   },
+   "68": {
+      "name_en": "Hell hornet",
+      "family_en": "Nature",
+      "rank": "D",
+      "traits": [
+         "Artful Dodger",
+         "Paralyser"
+      ],
+      "resistance": [
+         "Paralysisproof",
+         " Poisonproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "These insect assassins are skilled at skewering foes with their striking stingers.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Diminisher"
+      ],
+      "location": "Fert Isle"
+   },
+   "69": {
+      "name_en": "Night emperor",
+      "family_en": "Beast",
+      "rank": "D",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Sleepproof"
+      ],
+      "description_en": "Giant bat-like monsters that are most active during the hours of darkness.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bad Breath"
+      ],
+      "location": "Celeste Isle"
+   },
+   "70": {
+      "name_en": "Gold golem",
+      "family_en": "Material",
+      "rank": "D",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Vulnerable to Sleep",
+         " Whackproof"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Gold_golem"
+      ]
+   },
+   "71": {
+      "name_en": "Headhunter",
+      "family_en": "Demon",
+      "rank": "D",
+      "traits": [
+         "Metal Beater",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "These hyperactive hooligans often hyperbolise about how many heads they've hunted.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Berserker",
+         "Attack Boost"
+      ],
+      "location": "Celeste Isle"
+   },
+   "72": {
+      "name_en": "Flyguy",
+      "family_en": "Undead",
+      "rank": "D",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Sleepproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "The buzz of their flapping wings is enough to unnerve anybody.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Seal",
+         "Drain Magic Ward"
+      ],
+      "location": "Infern Isle"
+   },
+   "73": {
+      "name_en": "Metal slime knight",
+      "family_en": "Slime",
+      "rank": "D",
+      "traits": [
+         "Counterstriker",
+         null
+      ],
+      "resistance": [
+         "Paralysisproof"
+      ],
+      "description_en": "It is believed that these knights have sworn fealty to their beloved metal slimes.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Darklight Slashes",
+         "Agility Boost"
+      ],
+      "location": "Infern Isle"
+   },
+   "74": {
+      "name_en": "Seasaur",
+      "family_en": "Dragon",
+      "rank": "D",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Their powerful jaws confirm their place as rulers of the sea.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dragon Lore"
+      ],
+      "location": "Palaish Isle"
+   },
+   "75": {
+      "name_en": "Eveel",
+      "family_en": "Nature",
+      "rank": "D",
+      "traits": [
+         "Artful Dodger",
+         "Poisoner"
+      ],
+      "resistance": [
+         "Healed by Water",
+         " Poisonproof"
+      ],
+      "description_en": "Evil eels with fearsome fangs to match their atrocious appetites.",
+      "weapons": [
+         "Axes",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Hypnotist"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "76": {
+      "name_en": "Weartiger",
+      "family_en": "Beast",
+      "rank": "D",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "These feline beasts have become possessed by the very men they ate.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Boom Boxer"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "77": {
+      "name_en": "Brownie",
+      "family_en": "Beast",
+      "rank": "D",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Drain Magicproof"
+      ],
+      "description_en": "Though typically mild-mannered, these monsters swing their hammers when angered.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Bounty Hunter"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "78": {
+      "name_en": "Mecha-mynah",
+      "family_en": "Material",
+      "rank": "D",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Inactionproof",
+         " Whackproof"
+      ],
+      "description_en": "Clockwork birds with an uncanny constitution.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bird Brain",
+         "Defense Boost"
+      ],
+      "location": "Celeste Isle"
+   },
+   "79": {
+      "name_en": "Lesser demon",
+      "family_en": "Demon",
+      "rank": "D",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Bangproof"
+      ],
+      "description_en": "Wicked demons created in the very heart of darkness to be a plague upon the world.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Diabolist"
+      ],
+      "location": "Celeste Isle"
+   },
+   "80": {
+      "name_en": "Skeleton",
+      "family_en": "Undead",
+      "rank": "D",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Inactionproof",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "The risen remains of warriors felled in long forgotten wars.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Enfeebler",
+         "Attack Boost"
+      ],
+      "location": "Infern Isle"
+   },
+   "81": {
+      "name_en": "Angel slime",
+      "family_en": "Slime",
+      "rank": "D",
+      "traits": [
+         "Artful Dodger",
+         "Zapmeister"
+      ],
+      "resistance": [
+         "Healed by Zap",
+         " Vulnerable to Zam",
+         " Whackproof"
+      ],
+      "description_en": "Slimes who live virtuous lives are reincarnated in this saintly form.",
+      "weapons": [
+         "Spears",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Healer"
+      ],
+      "location": "Palaish Isle"
+   },
+   "82": {
+      "name_en": "Behemoth slime",
+      "family_en": "Slime",
+      "rank": "D",
+      "traits": [
+         "Psycho",
+         "Desperado"
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "These slimes have undergone a transformation brought about by contact with dark matter.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Woosh & Zap"
+      ],
+      "location": "Slime Island"
+   },
+   "83": {
+      "name_en": "Red dragon",
+      "family_en": "Dragon",
+      "rank": "D",
+      "traits": [
+         "Magic Regenerator",
+         null
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Fizzleproof"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Red_dragon"
+      ]
+   },
+   "84": {
+      "name_en": "Beshemoth slime",
+      "family_en": "Slime",
+      "rank": "D",
+      "traits": [
+         "Frizzmeister",
+         "Desperado"
+      ],
+      "resistance": [
+         "Frizzproof"
+      ],
+      "description_en": "She-slimes exposed to dark matter become even more carnivorous!",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Frizz & Zam"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "85": {
+      "name_en": "Bullfinch",
+      "family_en": "Nature",
+      "rank": "D",
+      "traits": [
+         "Counterstriker",
+         null
+      ],
+      "resistance": [
+         "Sagproof",
+         " Vulnerable to Sleep"
+      ],
+      "description_en": "Trying to tip these bovines over will earn you a kick in the rear.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Toughie"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "86": {
+      "name_en": "Bodkin archer",
+      "family_en": "Beast",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Denizens of the forest who live in trees, targeting those who pass beneath the canopy.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Fortifier"
+      ],
+      "location": "Fert Isle"
+   },
+   "87": {
+      "name_en": "Mud mannequin",
+      "family_en": "Material",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Dazzleproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "Magical puppets brought to life for the sole purpose of dancing.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dancer"
+      ],
+      "location": "Fert Isle"
+   },
+   "88": {
+      "name_en": "Gryphon",
+      "family_en": "Demon",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Mighty beasts kin to both lion and eagle.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Antimagic"
+      ],
+      "location": "Celeste Isle"
+   },
+   "89": {
+      "name_en": "Walking corpse",
+      "family_en": "Undead",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Poisonproof",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "These zombies serve as a warning to all would-be grave robbers.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Bad Breath",
+         "Attack Boost"
+      ],
+      "location": "Infern Isle"
+   },
+   "90": {
+      "name_en": "Dragon slime",
+      "family_en": "Slime",
+      "rank": "C",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Ice Breathproof"
+      ],
+      "description_en": "Although they resemble drackies, they are actually allergic to blood!",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dragon Lore"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "91": {
+      "name_en": "Hacksaurus",
+      "family_en": "Dragon",
+      "rank": "C",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Confusionproof"
+      ],
+      "description_en": "With axe in hand, they are dedicated to chopping everything they find into tiny pieces.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dragon Lore"
+      ],
+      "location": "Celeste Isle"
+   },
+   "92": {
+      "name_en": "Hades condor",
+      "family_en": "Nature",
+      "rank": "C",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Ice Breathproof"
+      ],
+      "description_en": "Their fearsome appearance hides a surprisingly caring demeanor.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Cure-all"
+      ],
+      "location": "Infant Isle, Fert Isle"
+   },
+   "93": {
+      "name_en": "Gargoyle",
+      "family_en": "Beast",
+      "rank": "C",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Inactionproof"
+      ],
+      "description_en": "Winged warriors that track their targets from above before swooping in for the kill.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Bird Brain"
+      ],
+      "location": "Celeste Isle"
+   },
+   "94": {
+      "name_en": "Merman",
+      "family_en": "Beast",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Dazzleproof",
+         " Healed by Water"
+      ],
+      "description_en": "Though most at home in water, these sea creatures have also learnt to travel on land.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Axes"
+      ],
+      "skill": [
+         "Aquapothecary"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "95": {
+      "name_en": "Great dracky",
+      "family_en": "Demon",
+      "rank": "C",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Bangproof",
+         " Healed by Zam"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Great_dracky"
+      ]
+   },
+   "96": {
+      "name_en": "Great sabrecat",
+      "family_en": "Nature",
+      "rank": "C",
+      "traits": [
+         "Psycho",
+         "Early Bird"
+      ],
+      "resistance": [
+         "Decelerateproof"
+      ],
+      "description_en": "Deadly predators who use their amazing speed to shred their victims with lethal claws.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Naturalist",
+         "Speedster"
+      ],
+      "location": "Celeste Isle"
+   },
+   "97": {
+      "name_en": "Dingaling",
+      "family_en": "Material",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Confusionproof"
+      ],
+      "description_en": "Play around with one of these and you're sure to get into trouble.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Materialist"
+      ],
+      "location": "Fert Isle"
+   },
+   "98": {
+      "name_en": "Octavian sentry",
+      "family_en": "Demon",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Healed by Water",
+         " Sagproof"
+      ],
+      "description_en": "Powerful warriors of the sea that take pleasure in skewering their enemies.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Thunderwind Slashes"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "99": {
+      "name_en": "King slime",
+      "family_en": "Slime",
+      "rank": "C",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "This whopper is created from the cooperative power of a group of slimes merged into one.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Cleric"
+      ],
+      "location": "Infant Isle"
+   },
+   "100": {
+      "name_en": "Restless armour",
+      "family_en": "Undead",
+      "rank": "C",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "The soul inside the armour searches for something it lost long ago.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Anti-dragon",
+         "Attack Boost"
+      ],
+      "location": "Celeste Isle"
+   },
+   "101": {
+      "name_en": "Sea dragon",
+      "family_en": "Dragon",
+      "rank": "C",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Bangproof"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Sea_dragon"
+      ]
+   },
+   "102": {
+      "name_en": "Hellhound",
+      "family_en": "Undead",
+      "rank": "C",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Sagproof",
+         " Vulnerable to Zap"
+      ],
+      "description_en": "Leopold's pack, tainted like him by darkness.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Crack & Zam"
+      ],
+      "location": "Fert Isle"
+   },
+   "103": {
+      "name_en": "Diemon",
+      "family_en": "Beast",
+      "rank": "C",
+      "traits": [
+         "Wooshmeister",
+         null
+      ],
+      "resistance": [
+         "Confusionproof"
+      ],
+      "description_en": "Masked marauders who hide their faces out of courtesy to beautiful monsters.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Wind Blower"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "104": {
+      "name_en": "Cureslime",
+      "family_en": "Slime",
+      "rank": "C",
+      "traits": [
+         "Health Professional",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Whackproof"
+      ],
+      "description_en": "These medical specialists are more adept than their healslime cousins.",
+      "weapons": [
+         "Spears",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Healer"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "105": {
+      "name_en": "Hunter mech",
+      "family_en": "Material",
+      "rank": "C",
+      "traits": [
+         "Metal Beater",
+         null
+      ],
+      "resistance": [
+         "Paralysisproof",
+         " Poisonproof",
+         " Whackproof"
+      ],
+      "description_en": "A fearsome, four-legged machine created to hunt metal monsters.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Anti-metal",
+         "Defense Boost"
+      ],
+      "location": "Celeste Isle"
+   },
+   "106": {
+      "name_en": "Tyrantosaurus",
+      "family_en": "Dragon",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Sagproof"
+      ],
+      "description_en": "Smashing enemies into little bits brings a gleeful grin to their wicked faces.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Guerrilla"
+      ],
+      "location": "Infern Isle"
+   },
+   "107": {
+      "name_en": "Liquid metal slime",
+      "family_en": "Slime",
+      "rank": "C",
+      "traits": [
+         "Metal Body",
+         "Escape Artist"
+      ],
+      "resistance": [
+         "Practically Invincible"
+      ],
+      "description_en": "Their liquid metal bodies soften even the most powerful impacts.",
+      "weapons": [
+         "Spears",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bombardier"
+      ],
+      "location": "Infern Isle"
+   },
+   "108": {
+      "name_en": "Treeface",
+      "family_en": "Nature",
+      "rank": "C",
+      "traits": [
+         "Steady Recovery",
+         null
+      ],
+      "resistance": [
+         "Vulnerable to Frizz"
+      ],
+      "description_en": "Chops bits off and they'll just grow back - truly a lumberjack's worst nightmare.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Green Finger"
+      ],
+      "location": "Fert Isle"
+   },
+   "109": {
+      "name_en": "Notso macho",
+      "family_en": "Beast",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Confusionproof"
+      ],
+      "description_en": "Masters of the blade who laugh in the face of Death. How rude.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Berserker"
+      ],
+      "location": "Celeste Isle"
+   },
+   "110": {
+      "name_en": "Puppeteer",
+      "family_en": "Material",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Sleepproof"
+      ],
+      "description_en": "He made the puppets all by himself.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "All-Rounder"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "111": {
+      "name_en": "Scissor beatle",
+      "family_en": "Nature",
+      "rank": "C",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Sleepproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "They battle day and night, seeking to ascend to the throne of bug-kind.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Hive Mind"
+      ],
+      "location": "Fert Isle"
+   },
+   "112": {
+      "name_en": "Metal dragon",
+      "family_en": "Dragon",
+      "rank": "C",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "It is said these man-made machines are imbued with the spirits of dragons.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Assassin"
+      ],
+      "location": "CELL Headquarters"
+   },
+   "113": {
+      "name_en": "Wrecktor",
+      "family_en": "Demon",
+      "rank": "C",
+      "traits": [
+         "Wooshmeister",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Dark priests who have strayed far from the light.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Bang & Woosh"
+      ],
+      "location": "Celeste Isle"
+   },
+   "114": {
+      "name_en": "Great argon lizard",
+      "family_en": "Dragon",
+      "rank": "B",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Fire Breathproof"
+      ],
+      "description_en": "As argon lizards grow older, their belies grow bolder.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Breath"
+      ],
+      "location": "Fert Isle, Dragon Island"
+   },
+   "115": {
+      "name_en": "Phantom swordsman",
+      "family_en": "Undead",
+      "rank": "B",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Dazzleproof",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "The cloaks of these warriors are actually stained with grape juice.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Woosh & Zam"
+      ],
+      "location": "Infern Isle"
+   },
+   "116": {
+      "name_en": "Skeleton soldier",
+      "family_en": "Undead",
+      "rank": "B",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Inactionproof",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "One scratch from this skeleton's scythe may well earn you a free trip to the underworld.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Healer"
+      ],
+      "location": "Celeste Isle"
+   },
+   "117": {
+      "name_en": "Dark slime",
+      "family_en": "Slime",
+      "rank": "B",
+      "traits": [
+         "Artful Dodger",
+         "Zammeister"
+      ],
+      "resistance": [
+         "Healed by Zam",
+         " Vulnerable to Zap"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Dark_slime"
+      ]
+   },
+   "118": {
+      "name_en": "Abyss diver",
+      "family_en": "Dragon",
+      "rank": "B",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Sleepproof"
+      ],
+      "description_en": "Their mighty bodies can withstand even the pressure of the ocean depths.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Crack & Zap"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "119": {
+      "name_en": "Beetleboy",
+      "family_en": "Nature",
+      "rank": "B",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Sleepproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "A natural speedster, this beetle excels in body slams.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Hive Mind"
+      ],
+      "location": "Fert Isle"
+   },
+   "120": {
+      "name_en": "Grim rider",
+      "family_en": "Undead",
+      "rank": "B",
+      "traits": [
+         "Counterstriker",
+         null
+      ],
+      "resistance": [
+         "Sleepproof",
+         " Vulnerable to Zap"
+      ],
+      "description_en": "Knights who are slain astride their beloved steeds sometimes ride on into undeath.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Assassin"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "121": {
+      "name_en": "Cockateer",
+      "family_en": "Beast",
+      "rank": "B",
+      "traits": [
+         "Fly Swatter",
+         null
+      ],
+      "resistance": [
+         "Sleepproof"
+      ],
+      "description_en": "Cocky fighters who are fearless in combat.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Bird Brain"
+      ],
+      "location": "Infern Isle"
+   },
+   "122": {
+      "name_en": "Jum",
+      "family_en": "Material",
+      "rank": "B",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Sleepproof"
+      ],
+      "description_en": "There is a rumour going around that he is boe's twin brother.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Defender"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "123": {
+      "name_en": "Lethal armour",
+      "family_en": "Demon",
+      "rank": "B",
+      "traits": [
+         "Able Ambusher",
+         null
+      ],
+      "resistance": [
+         "Confusionproof"
+      ],
+      "description_en": "These deadly knights are stained in the blood of their victims.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Cold Sleep"
+      ],
+      "location": "Infern Isle"
+   },
+   "124": {
+      "name_en": "Soulspawn",
+      "family_en": "Undead",
+      "rank": "B",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Poisonproof",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "Dark spirits born from the crews of ships that sink at sea.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Graveheart"
+      ],
+      "location": "Infern Isle"
+   },
+   "125": {
+      "name_en": "Dark slime knight",
+      "family_en": "Slime",
+      "rank": "B",
+      "traits": [
+         "Psycho",
+         "Zammeister"
+      ],
+      "resistance": [
+         "Zamproof"
+      ],
+      "description_en": "These slimes have been tainted by the villainous knight who ride them.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dark Knight"
+      ],
+      "location": "Infern Isle"
+   },
+   "126": {
+      "name_en": "Fallen priest",
+      "family_en": "Demon",
+      "rank": "B",
+      "traits": [
+         "Zammeister",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Priests who have fallen and can't summon up the will to return to the light.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Woosh & Zam"
+      ],
+      "location": "Infern Isle"
+   },
+   "127": {
+      "name_en": "Megalodon",
+      "family_en": "Dragon",
+      "rank": "B",
+      "traits": [
+         "Artful Dodger",
+         "Magic Regenerator"
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Serpents that reside in only the cleanest of waters.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Breath"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "128": {
+      "name_en": "Giant moth",
+      "family_en": "Nature",
+      "rank": "B",
+      "traits": [
+         "Artful Dodger",
+         "Poisoner"
+      ],
+      "resistance": [
+         "Paralysisproof",
+         " Poisonproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "Its penchant for spraying clouds of poisonous dust makes it a dangerous adversary.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Toxifier"
+      ],
+      "location": "Fert Isle"
+   },
+   "129": {
+      "name_en": "Silvapithecus",
+      "family_en": "Beast",
+      "rank": "B",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "Winged, silver monkeys with a slightly majestic air about them.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Diabolist"
+      ],
+      "location": "Infern Isle"
+   },
+   "130": {
+      "name_en": "Frou-frou",
+      "family_en": "Dragon",
+      "rank": "B",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Dazzleproof",
+         " Fire Breathproof",
+         " Whackproof"
+      ],
+      "description_en": "Experts at hurling their titanic bulk at enemies to devastating effect.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Cold Sleep"
+      ],
+      "location": "Dragon Island"
+   },
+   "131": {
+      "name_en": "Mimic",
+      "family_en": "Material",
+      "rank": "B",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "These cowardly monsters spend their whole lives hiding inside treasure boxes.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Nightmare"
+      ],
+      "location": "Occasional chests"
+   },
+   "132": {
+      "name_en": "Archdemon",
+      "family_en": "Demon",
+      "rank": "B",
+      "traits": [
+         "Bangmeister",
+         null
+      ],
+      "resistance": [
+         "Bangproof",
+         " Whackproof"
+      ],
+      "description_en": "High-level demons whose expertise in explosive magic makes them feared by all.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Frizz & Bang II"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "133": {
+      "name_en": "Stark raven",
+      "family_en": "Undead",
+      "rank": "B",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "Mad birds that are adept at wily maneuvering in combat.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bird Brain"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "134": {
+      "name_en": "King cureslime",
+      "family_en": "Slime",
+      "rank": "B",
+      "traits": [
+         "Health Professional",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Whackproof"
+      ],
+      "description_en": "These masters of healing cast Omniheal with the greatest of ease.",
+      "weapons": [
+         "Spears",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Cure-all"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "135": {
+      "name_en": "Drakularge",
+      "family_en": "Dragon",
+      "rank": "B",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Bangproof",
+         " Whackproof"
+      ],
+      "description_en": "Greedy dragons who covet shiny objects and never forget a debt.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Boom Boxer"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "136": {
+      "name_en": "Gorerilla",
+      "family_en": "Nature",
+      "rank": "B",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Dazzleproof"
+      ],
+      "description_en": "Primates who use their tremendous brute strength to swing a mighty club.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Huntsman"
+      ],
+      "location": "Fert Isle"
+   },
+   "137": {
+      "name_en": "Boss troll",
+      "family_en": "Demon",
+      "rank": "B",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Dazzleproof",
+         " Sleepproof",
+         " Whackproof"
+      ],
+      "description_en": "These bloodthirsty fiends pound their enemies into the ground, and the ground into dust.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Anti-dragon"
+      ],
+      "location": "Fert Isle"
+   },
+   "138": {
+      "name_en": "Gigantes",
+      "family_en": "Beast",
+      "rank": "A",
+      "traits": [
+         "Last Word",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "These giants carry clubs carved from the trunks of even more gigantic trees.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Anti-metal"
+      ],
+      "location": "Infant Isle"
+   },
+   "139": {
+      "name_en": "Golem",
+      "family_en": "Material",
+      "rank": "A",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Vulnerable to Sleep",
+         " Whackproof"
+      ],
+      "description_en": "Hardened goliaths possessing extraordinary power which they use to crush foes.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Materialist"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "140": {
+      "name_en": "Jamirus",
+      "family_en": "Demon",
+      "rank": "A",
+      "traits": [
+         "Double Trouble",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Vulnerable to Inaction",
+         " Whackproof"
+      ],
+      "description_en": "A mighty fiend whose training has made it twice the treat it once was.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Frizz & Woosh"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "141": {
+      "name_en": "Wailin' weed",
+      "family_en": "Undead",
+      "rank": "A",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "Singers of the sea who synchronize their slap attack in symphony.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "All-Rounder"
+      ],
+      "location": "Fert Isle"
+   },
+   "142": {
+      "name_en": "Heligator",
+      "family_en": "Nature",
+      "rank": "A",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Ice Breathproof"
+      ],
+      "description_en": "These alligators have evolved into flying beasts resistant to fire and ice.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Naturalist"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "143": {
+      "name_en": "Moosifer",
+      "family_en": "Beast",
+      "rank": "A",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "These rugged ruffians are masters of both the martial and mental arts.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Woosh & Crack"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "144": {
+      "name_en": "King bubble slime",
+      "family_en": "Slime",
+      "rank": "A",
+      "traits": [
+         "Poisoner",
+         null
+      ],
+      "resistance": [
+         "Paralysisproof",
+         " Poisonproof"
+      ],
+      "description_en": "Bubble slimes figured out how to join together too, after watching normal slimes do their little trick.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bad Breath"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "145": {
+      "name_en": "Mohawker",
+      "family_en": "Beast",
+      "rank": "A",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Sleepproof",
+         " Whackproof"
+      ],
+      "description_en": "The intimidating hairdos of these beasts will make your own hair stand on end.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "White Knight"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "146": {
+      "name_en": "Great dragon",
+      "family_en": "Dragon",
+      "rank": "A",
+      "traits": [
+         "Frizzmeister",
+         null
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Ice Breathproof",
+         " Whackproof"
+      ],
+      "description_en": "The golden scales of this mighty dragon shield it from both frost and flame.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Ice"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "147": {
+      "name_en": "Yabby",
+      "family_en": "Nature",
+      "rank": "A",
+      "traits": [
+         "Paralyser",
+         null
+      ],
+      "resistance": [
+         "Confusionproof",
+         " Healed by Water"
+      ],
+      "description_en": "Shrimpy monsters who pack a wallop with their set of claws. Don't come the raw prawn with them!",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Mage Aid"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "148": {
+      "name_en": "Buffalogre",
+      "family_en": "Beast",
+      "rank": "A",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Confusionproof",
+         " Whackproof"
+      ],
+      "description_en": "Wild monsters that use their horns to toss their prey about before feasting.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Berserker"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "149": {
+      "name_en": "Gracos",
+      "family_en": "Demon",
+      "rank": "A",
+      "traits": [
+         "Crackmeister",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Healed by Water"
+      ],
+      "description_en": "The legendary king rules over all the monsters of the sea.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Crack & Zap"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "150": {
+      "name_en": "Living statue",
+      "family_en": "Material",
+      "rank": "A",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Sleepproof",
+         " Whackproof"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Living_statue"
+      ]
+   },
+   "151": {
+      "name_en": "Metal kaiser slime",
+      "family_en": "Slime",
+      "rank": "A",
+      "traits": [
+         "Metal Body",
+         "Escape Artist"
+      ],
+      "resistance": [
+         "Practically Invincible"
+      ],
+      "description_en": "These slimes revere honour and chivalry above all else.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bang & Zam"
+      ],
+      "location": "Collect 150 skills in library"
+   },
+   "152": {
+      "name_en": "Riptide",
+      "family_en": "Nature",
+      "rank": "A",
+      "traits": [
+         "Early Bird",
+         null
+      ],
+      "resistance": [
+         "Confusionproof"
+      ],
+      "description_en": "These lightning-fast warriors of the sea have made an art of surprising unwary mariners.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Firewind Slashes"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "153": {
+      "name_en": "Demon-at-arms",
+      "family_en": "Demon",
+      "rank": "A",
+      "traits": [
+         "Double Trouble",
+         null
+      ],
+      "resistance": [
+         "Vulnerable to Sag",
+         " Whackproof"
+      ],
+      "description_en": "Elite soldiers of darkness who have mastered numerous weapons.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Crack and Zam II"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "154": {
+      "name_en": "Tortured soul",
+      "family_en": "Undead",
+      "rank": "A",
+      "traits": [
+         "Poisoner",
+         null
+      ],
+      "resistance": [
+         "Sleepproof",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "Men of the cloth who perform evil deeds are punished severely for their sins.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Cursader"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "155": {
+      "name_en": "Boe",
+      "family_en": "Material",
+      "rank": "A",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Confusionproof"
+      ],
+      "description_en": "There is a nasty rumour going around that he is jum's twin brother.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Fortifier"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "156": {
+      "name_en": "Mum",
+      "family_en": "Material",
+      "rank": "A",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         null
+      ],
+      "description_en": "Claims to be a natural-born leader and ingenious strategist.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Mage Aid"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "157": {
+      "name_en": "Roseguardin",
+      "family_en": "Undead",
+      "rank": "A",
+      "traits": [
+         "Double Trouble",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Vulnerable to Paralysis",
+         " Whackproof"
+      ],
+      "description_en": "This knight has dedicated himself to protecting one special person.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Diminisher"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "158": {
+      "name_en": "Garuda",
+      "family_en": "Nature",
+      "rank": "A",
+      "traits": [
+         "Artful Dodger",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Gigantic birds of regal appearance feared throughout the skies.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Frizz & Zap"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "159": {
+      "name_en": "Boh",
+      "family_en": "Material",
+      "rank": "A",
+      "traits": [
+         null,
+         null
+      ],
+      "resistance": [
+         "Fizzleproof"
+      ],
+      "description_en": "Curls its arms and legs up into a ball to sleep at night - how cute!",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Healer"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "160": {
+      "name_en": "Belial",
+      "family_en": "Demon",
+      "rank": "A",
+      "traits": [
+         "Double Trouble",
+         "Bangmeister"
+      ],
+      "resistance": [
+         "Bangproof",
+         " Vulnerable to Fizzle",
+         " Whackproof"
+      ],
+      "description_en": "Demonic creatures who excel at both physical and magical combat.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Bang & Zam II"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "161": {
+      "name_en": "Bone baron",
+      "family_en": "Undead",
+      "rank": "A",
+      "traits": [
+         "Counterstriker",
+         null
+      ],
+      "resistance": [
+         "Inactionproof",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "These sadistic aristocrats continue to oppress the masses even in death.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Diabolist"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "162": {
+      "name_en": "Mechan-o'-wyrm",
+      "family_en": "Dragon",
+      "rank": "A",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Paralysisproof",
+         " Whackproof"
+      ],
+      "description_en": "Love of gold has turned these miserly machines into their favorite colour.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Barricade"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "163": {
+      "name_en": "Pazuzu",
+      "family_en": "Beast",
+      "rank": "A",
+      "traits": [
+         "Wooshmeister",
+         null
+      ],
+      "resistance": [
+         "Bangproof",
+         " Whackproof"
+      ],
+      "description_en": "This fiendish creature has dyed its fur a terrifying shade of pink!",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bombardier"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "164": {
+      "name_en": "Metal king slime",
+      "family_en": "Slime",
+      "rank": "S",
+      "traits": [
+         "Metal Body",
+         "Escape Artist"
+      ],
+      "resistance": [
+         "Practically Invincible"
+      ],
+      "description_en": "These monarchs move with menacing speed that is never hampered by their protoplasm.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bang & Crack"
+      ],
+      "location": "Metal Menagerie"
+   },
+   "165": {
+      "name_en": "Black dragon",
+      "family_en": "Dragon",
+      "rank": "S",
+      "traits": [
+         "Zammeister",
+         null
+      ],
+      "resistance": [
+         "Whackproof",
+         " Zamproof"
+      ],
+      "description_en": "Some believe these dragons were turned black by the blistering heat of their own breath.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Antimagic"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "166": {
+      "name_en": "Beetlebully",
+      "family_en": "Nature",
+      "rank": "S",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Dazzleproof",
+         " Vulnerable to Frizz"
+      ],
+      "description_en": "A natural speedster, this beetle excels in body slams.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Hive Mind"
+      ],
+      "location": "Fert Isle"
+   },
+   "167": {
+      "name_en": "Atlas",
+      "family_en": "Beast",
+      "rank": "S",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "Once opposed a certain trio of warriors while in the service of Hargon.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Diabolist"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "168": {
+      "name_en": "Trap box",
+      "family_en": "Material",
+      "rank": "S",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Paralysisproof",
+         " Whackproof"
+      ],
+      "description_en": "Few who fall upon this ingenious trap ever live to tell the tale.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Fear-monger"
+      ],
+      "location": "Infern Isle"
+   },
+   "169": {
+      "name_en": "Robbin' hood",
+      "family_en": "Demon",
+      "rank": "S",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Inactionproof",
+         " Whackproof"
+      ],
+      "description_en": "An infamous bandit who steals from the rich and gives to no one.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Bounty Hunter"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "170": {
+      "name_en": "Dullahan",
+      "family_en": "Undead",
+      "rank": "S",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Paralysisproof",
+         " Whackproof"
+      ],
+      "description_en": "Fearsome warriors who have lost their heading and their heads!",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Champion"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "171": {
+      "name_en": "Drakulard",
+      "family_en": "Dragon",
+      "rank": "S",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Whackproof",
+         " Zapproof"
+      ],
+      "description_en": "The gigantic arms of this burly dragon are registered as lethal weapons.",
+      "weapons": [
+         "Axes",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Toughie"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "172": {
+      "name_en": "King squid",
+      "family_en": "Nature",
+      "rank": "S",
+      "traits": [
+         "Steady Recovery",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Healed by Water"
+      ],
+      "description_en": "This killing machine of the sea is armed with long and deadly tentacles.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Cleanser"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "173": {
+      "name_en": "Don mole",
+      "family_en": "Beast",
+      "rank": "S",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Inactionproof"
+      ],
+      "description_en": "An amateur musician whose enthusiasm far, far, FAR exceeds his musical talent.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "All-Rounder"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "174": {
+      "name_en": "Killing machine",
+      "family_en": "Material",
+      "rank": "S",
+      "traits": [
+         "Double Trouble",
+         null
+      ],
+      "resistance": [
+         "Dazzleproof",
+         " Vulnerable to Bang",
+         " Whackproof"
+      ],
+      "description_en": "These mechanical monstrosities were manufactured to menace all mankind.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Staves"
+      ],
+      "skill": [
+         "Assassin"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "175": {
+      "name_en": "Night clubber",
+      "family_en": "Demon",
+      "rank": "S",
+      "traits": [
+         "Critical Massacre",
+         null
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "During the daytime, these beasts practice their clubbing techniques on small animals.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Martyr"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "176": {
+      "name_en": "Wight king",
+      "family_en": "Undead",
+      "rank": "S",
+      "traits": [
+         "Poisoner",
+         null
+      ],
+      "resistance": [
+         "Sleepproof",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "The lost soul of a king who terrorized his people and ruined the kingdom.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Reaper"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "177": {
+      "name_en": "Darkonium slime",
+      "family_en": "Slime",
+      "rank": "S",
+      "traits": [
+         "Metal Body",
+         "Escape Artist"
+      ],
+      "resistance": [
+         "Practically Invincible"
+      ],
+      "description_en": "Although made of darkonium, they won't get a scout into the finals of the challenge.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Fire II"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "178": {
+      "name_en": "Alabast dragon",
+      "family_en": "Dragon",
+      "rank": "S",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Healed by Zap",
+         " Ice Breathproof",
+         " Whackproof"
+      ],
+      "description_en": "This regal deity is known as the Zenith dragon on another plane of existence.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Cleric"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "179": {
+      "name_en": "Khalamari",
+      "family_en": "Nature",
+      "rank": "S",
+      "traits": [
+         "Paralyser",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Healed by Water",
+         " Whackproof"
+      ],
+      "description_en": "Likes to play puppet shows with its tentacles at passing ships.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Breath II"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "180": {
+      "name_en": "Nimzo",
+      "family_en": "Beast",
+      "rank": "S",
+      "traits": [
+         "Double Trouble",
+         null
+      ],
+      "resistance": [
+         "Healed by Zam",
+         " Vulnerable to Sap",
+         " Whackproof"
+      ],
+      "description_en": "This great ruler is worshipped as a god by many monsters.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Nimzo"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "181": {
+      "name_en": "Mumboh-jumboe",
+      "family_en": "Material",
+      "rank": "S",
+      "traits": [
+         "Bangmeister",
+         null
+      ],
+      "resistance": [
+         "Sleepproof",
+         " Whackproof"
+      ],
+      "description_en": "This creature is walking proof that the whole can be greater than the sum of its parts.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Barricade"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "182": {
+      "name_en": "Malroth",
+      "family_en": "Demon",
+      "rank": "S",
+      "traits": [
+         "Artful Dodger",
+         "Psycho"
+      ],
+      "resistance": [
+         "Confusionproof",
+         " Healed by Zam",
+         " Whackproof"
+      ],
+      "description_en": "A god of destruction who plans to usher death unto all living beings.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Healer",
+         "\u00dcber Wisdom Boost"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "183": {
+      "name_en": "Captain Crow",
+      "family_en": "Undead",
+      "rank": "S",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Confusionproof",
+         " Paralysisproof",
+         " Whackproof"
+      ],
+      "description_en": "A powerful pirate who perished pursuing a line of light leading to legendary lands.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Captain Crow"
+      ],
+      "location": "Defeat Captain Crow in Pirate side quest"
+   },
+   "184": {
+      "name_en": "Grandpa slime",
+      "family_en": "Slime",
+      "rank": "S",
+      "traits": [
+         "Psycho",
+         "Magic Regenerator"
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "description_en": "These sagely slimes are privy to arcane knowledge, and even the secret of the ooze.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bang & Zap"
+      ],
+      "location": "Collect 200 monsters in your library"
+   },
+   "185": {
+      "name_en": "Dhoulmagus",
+      "family_en": "Beast",
+      "rank": "S",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Whackproof",
+         " Wooshproof"
+      ],
+      "description_en": "The final form of a jester who yearned for the forbidden power of a scepter.",
+      "weapons": [
+         "Spears",
+         "Hammers",
+         "Whips",
+         "Staves"
+      ],
+      "skill": [
+         "Dhoulmagus"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "186": {
+      "name_en": "Dragonlord",
+      "family_en": "Dragon",
+      "rank": "X",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Ice Breathproof",
+         " Whackproof"
+      ],
+      "description_en": "This monarch spoken of in ancient lore was once bested by the legendary dragon warrior.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dragonlord"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "187": {
+      "name_en": "Ruin",
+      "family_en": "Material",
+      "rank": "X",
+      "traits": [
+         "Last Word",
+         "Critical Massacre"
+      ],
+      "resistance": [
+         "Confusionproof",
+         " Whackproof"
+      ],
+      "description_en": "A malevolent beast born of the remnants of an ancient castle.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Niflheim"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "188": {
+      "name_en": "Zoma",
+      "family_en": "Demon",
+      "rank": "X",
+      "traits": [
+         "Double Trouble",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "The vast powers wielded by this dark lord strike fear into even spirits of darkness.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Ice II"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "189": {
+      "name_en": "Psaro",
+      "family_en": "Material",
+      "rank": "X",
+      "traits": [
+         "Psycho",
+         "Desperado"
+      ],
+      "resistance": [
+         "Whackproof"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Psaro"
+      ]
+   },
+   "190": {
+      "name_en": "Leopold",
+      "family_en": "Nature",
+      "rank": "X",
+      "traits": [
+         "Artful Dodger",
+         "Zammeister"
+      ],
+      "resistance": [
+         "Confusionproof",
+         " Healed by Zam",
+         " Vulnerable to Zap"
+      ],
+      "description_en": "This chaotic canine appears to be empowered - or is it controlled? - by the sceptre.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Leopold"
+      ],
+      "location": "Collect all of the skills in your library"
+   },
+   "191": {
+      "name_en": "Gem slime",
+      "family_en": "Slime",
+      "rank": "X",
+      "traits": [
+         "Metal Body",
+         "Escape Artist"
+      ],
+      "resistance": [
+         "Practically Invincible"
+      ],
+      "description_en": "These multi-faceted slimes are strong against any manner of attack.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Bang & Zap"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "192": {
+      "name_en": "Estark",
+      "family_en": "Material",
+      "rank": "X",
+      "traits": [
+         "Double Trouble",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Vulnerable to Sleep",
+         " Whackproof"
+      ],
+      "description_en": "A lord of the underworld from before recorded history.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Estark"
+      ],
+      "location": "Defeat the Estark after getting the brass key."
+   },
+   "193": {
+      "name_en": "Mortamor",
+      "family_en": "Demon",
+      "rank": "X",
+      "traits": [
+         "Steady Recovery",
+         "Magic Regenerator"
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Ice Breathproof",
+         " Whackproof"
+      ],
+      "description_en": "A monstrous king whose ambitions extend even unto the world of dreams.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Mortamor"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "194": {
+      "name_en": "Orgodemir",
+      "family_en": "Undead",
+      "rank": "X",
+      "traits": [
+         "Double Trouble",
+         null
+      ],
+      "resistance": [
+         "Paralysisproof",
+         " Vulnerable to Confusion",
+         " Whackproof"
+      ],
+      "description_en": "In ages past, he sought to become a god.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Muspell"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "195": {
+      "name_en": "Empyrea",
+      "family_en": "Nature",
+      "rank": "X",
+      "traits": [
+         "Artful Dodger",
+         "Zapmeister"
+      ],
+      "resistance": [
+         "Healed by Zap",
+         " Sleepproof",
+         " Vulnerable to Zam",
+         " Whackproof"
+      ],
+      "description_en": "This holy bird soars between worlds, protecting them from the darkness.",
+      "weapons": [
+         "?"
+      ],
+      "skill": [
+         "Crusader"
+      ],
+      "location": "Collect all of the monsters in your library"
+   },
+   "196": {
+      "name_en": "Rhapthorne",
+      "family_en": "Beast",
+      "rank": "X",
+      "traits": [
+         "Artful Dodger",
+         "Zammeister"
+      ],
+      "resistance": [
+         "Healed by Zam",
+         " Whackproof"
+      ],
+      "description_en": "A mighty god of darkness who comes in a very small package.",
+      "weapons": [
+         "Spears",
+         "Axes",
+         "Hammers",
+         "Staves"
+      ],
+      "skill": [
+         "Rhapthorne"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "197": {
+      "name_en": "Rhapthorne II",
+      "family_en": "Beast",
+      "rank": "X",
+      "traits": [
+         "Artful Dodger",
+         "Psycho"
+      ],
+      "resistance": [
+         "Healed by Zam"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Rhapthorne_II"
+      ]
+   },
+   "198": {
+      "name_en": "Dr Snapped",
+      "family_en": "Undead",
+      "rank": "X",
+      "traits": [
+         "Double Trouble",
+         "Psycho"
+      ],
+      "resistance": [
+         "Healed by Zam",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "description_en": "He never did get along well with the other children in school.",
+      "weapons": [
+         "Swords",
+         "Hammers",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dr. Snapped"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "199": {
+      "name_en": "Dragovian lord",
+      "family_en": "Dragon",
+      "rank": "X",
+      "traits": [
+         "Critical Massacre",
+         "Desperado"
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Ice Breathproof",
+         " Whackproof"
+      ],
+      "description_en": "The Lord of the Dragovians, having discarded his human form.",
+      "weapons": [
+         "Swords",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Dragovian Lord"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "200": {
+      "name_en": "Trode",
+      "family_en": "Slime",
+      "rank": "X",
+      "traits": [
+         "Psycho",
+         "Counterstriker"
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Fizzleproof",
+         " Whackproof"
+      ],
+      "description_en": "My word! Where am I? And just where is my precious Medea!?",
+      "weapons": [
+         "Swords",
+         "Whips",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Trickster"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "201": {
+      "name_en": "Wulfspade",
+      "family_en": "Incarni",
+      "rank": "Incarni",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Healed by Lightning",
+         " Sagproof",
+         " Vulnerable to Earth"
+      ],
+      "description_en": "A being suffused with holy energy whose existence is shrouded in mystery.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Wulfspade",
+         "Agility Boost"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "202": {
+      "name_en": "Hawkhart",
+      "family_en": "Incarni",
+      "rank": "Incarni",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Fizzleproof",
+         " Healed by Fire",
+         " Vulnerable to Water"
+      ],
+      "description_en": "A divine bird who can command the element of fire.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Hawkhart"
+      ],
+      "location": "Xeroph Isle"
+   },
+   "203": {
+      "name_en": "Cluboon",
+      "family_en": "Incarni",
+      "rank": "Incarni",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Healed by Earth",
+         " Sagproof",
+         " Vulnerable to Fire"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Cluboon"
+      ]
+   },
+   "204": {
+      "name_en": "Diamagon",
+      "family_en": "Incarni",
+      "rank": "Incarni",
+      "traits": [
+         "Psycho",
+         null
+      ],
+      "resistance": [
+         "Healed by Water",
+         " Ice Breathproof",
+         " Vulnerable to Lightning"
+      ],
+      "description_en": "A divine lizard who can command the element of water.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Diamagon"
+      ],
+      "location": "The third shrine"
+   },
+   "205": {
+      "name_en": "Wulfspade ace",
+      "family_en": "Incarni",
+      "rank": "Incarni",
+      "traits": [
+         "Psycho",
+         "Desperado"
+      ],
+      "resistance": [
+         "Healed by Lightning",
+         " Paralysisproof",
+         " Poisonproof",
+         " Vulnerable to Earth",
+         " Whackproof"
+      ],
+      "description_en": "Its holy mission is to seal the entrance to the dark world using the power of the Mark.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Wulfspade III"
+      ],
+      "location": "The fourth shrine"
+   },
+   "206": {
+      "name_en": "Hawkhart ace",
+      "family_en": "Incarni",
+      "rank": "Incarni",
+      "traits": [
+         "Psycho",
+         "Magic Regenerator"
+      ],
+      "resistance": [
+         "Attack Magicproof",
+         " Healed by Fire",
+         " Vulnerable to Poison",
+         " Vulnerable to Sleep",
+         " Vulnerable to Water"
+      ],
+      "description_en": "A mighty bird whose wings beast with the force of a firestorm.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Hawkhart III"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "207": {
+      "name_en": "Cluboon ace",
+      "family_en": "Incarni",
+      "rank": "Incarni",
+      "traits": [
+         "Psycho",
+         "Critical Massacre"
+      ],
+      "resistance": [
+         "Healed by Earth",
+         " Poisonproof",
+         " Sleepproof",
+         " Vulnerable to Fire",
+         " Whackproof"
+      ],
+      "description_en": "A mighty ape whose hide is tougher than an earthen fortress wall.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Cluboon III"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "208": {
+      "name_en": "Diamagon ace",
+      "family_en": "Incarni",
+      "rank": "Incarni",
+      "traits": [
+         "Psycho",
+         "Steady Recovery"
+      ],
+      "resistance": [
+         "Confusionproof",
+         " Healed by Water",
+         " Poisonproof",
+         " Vulnerable to Lightning",
+         " Whackproof"
+      ],
+      "description_en": "A mighty dragon whose vault of knowledge and lore is deeper than all the seas.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Diamagon"
+      ],
+      "location": [
+         "-"
+      ]
+   },
+   "209": {
+      "name_en": "Ace of Spades",
+      "family_en": "Incarni",
+      "rank": "Incarni",
+      "traits": [
+         "Psycho",
+         "Zammeister"
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Healed by Zam",
+         " Vulnerable to Zap",
+         " Whackproof"
+      ],
+      "ERREUR": [
+         "Erreur dans wiki solo",
+         "https://dragon-quest.org/wiki/Ace_of_Spades"
+      ]
+   },
+   "210": {
+      "name_en": "Wildcard",
+      "family_en": "Incarni",
+      "rank": "Incarni",
+      "traits": [
+         "Psycho",
+         "Zapmeister"
+      ],
+      "resistance": [
+         "Fire Breathproof",
+         " Healed by Zap",
+         " Vulnerable to Zam",
+         " Whackproof"
+      ],
+      "description_en": "The final form of the Incarnus, empowered by the magic of the Mark.",
+      "weapons": [
+         "Swords",
+         "Spears",
+         "Axes",
+         "Claws",
+         "Staves"
+      ],
+      "skill": [
+         "Crusader"
+      ],
+      "location": [
+         "-"
+      ]
+   }
 }
