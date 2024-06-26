@@ -1,0 +1,38 @@
+{
+    "0": {
+       "name_en": "Family",
+       "name_fr": "Famille"
+    },
+    "1": {
+        "name_en": "Slime",
+        "name_fr": "Gluants"
+    },
+    "2": {
+        "name_en": "Dragon",
+        "name_fr": "Dragons"
+    },
+    "3": {
+        "name_en": "Nature",
+        "name_fr": "Naturels"
+    },
+    "4": {
+       "name_en": "Beast",
+       "name_fr": "Bêtes"
+    },
+    "5": {
+       "name_en": "Material",
+       "name_fr": "Matières"
+    },
+    "6": {
+       "name_en": "Demon",
+       "name_fr": "Démons"
+    },
+    "7": {
+       "name_en": "Undead",
+       "name_fr": "Morts-vivants"
+    },
+    "8": {
+       "name_en": "Incarni",
+       "name_fr": "Incarni"
+    }
+}

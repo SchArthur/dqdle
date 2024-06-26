@@ -1,7 +1,7 @@
 {
    "1": {
       "name_en": "Slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "F",
       "traits": [
          "Critical Massacre",
@@ -10,7 +10,7 @@
       "resistance": [
          null
       ],
-      "description_en": "This little monster sports soft skin and a silly smile.",
+      "description_en": "Ce petit monstre a la peau douce et un sourire idiot.",
       "weapons": [
          "Spears",
          "Whips",
@@ -22,12 +22,11 @@
          "Attack Boost"
       ],
       "location": "Infant Isle",
-      "name_fr": "Gluant",
-      "description_fr": "Ce petit monstre a la peau douce et un sourire idiot."
+      "name_fr": "Gluant"
    },
    "2": {
       "name_en": "Komodo",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "F",
       "traits": [
          null,
@@ -36,7 +35,7 @@
       "resistance": [
          "Dazzleproof"
       ],
-      "description_en": "Giant lizards that hunt scouts for sport.",
+      "description_en": "L\u00e9zard g\u00e9ant chassant les dresseurs pour le plaisir.",
       "weapons": [
          "Axes",
          "Claws",
@@ -47,12 +46,11 @@
          "Attack Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Komodor",
-      "description_fr": "Lézard géant chassant les dresseurs pour le plaisir."
+      "name_fr": "Komodor"
    },
    "3": {
       "name_en": "Capsichum",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "F",
       "traits": [
          null,
@@ -60,9 +58,9 @@
       ],
       "resistance": [
          "Sleepproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
-      "description_en": "Peppery pals proficient at pulverizing passing perpetrators.",
+      "description_en": "Cette cr\u00e9ature col\u00e9reuse adore pulv\u00e9riser les passants.",
       "weapons": [
          "Swords",
          "Spears",
@@ -74,12 +72,11 @@
          "Defense Boost"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Piperaduo",
-      "description_fr": "Cette créature coléreuse adore pulvériser les passants."
+      "name_fr": "Piperaduo"
    },
    "4": {
       "name_en": "Platypunk",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "F",
       "traits": [
          null,
@@ -88,7 +85,7 @@
       "resistance": [
          "Fizzleproof"
       ],
-      "description_en": "Their waggish expression belies their ferocity.",
+      "description_en": "Son air fac\u00e9tieux cache une f\u00e9rocit\u00e9 incroyable.",
       "weapons": [
          "Spears",
          "Axes",
@@ -100,12 +97,11 @@
          "Defense Boost"
       ],
       "location": "Infant Isle",
-      "name_fr": "Ornithox",
-      "description_fr": "Son air facétieux cache une férocité incroyable."
+      "name_fr": "Ornithox"
    },
    "5": {
       "name_en": "Bag o' laughs",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "F",
       "traits": [
          null,
@@ -114,7 +110,7 @@
       "resistance": [
          null
       ],
-      "description_en": "These barbarous bags may be smiling, but they're a sackful of trouble.",
+      "description_en": "Ce sac barbare peut para\u00eetre souriant, mais c'est un sac de n\u0153uds pour s'en d\u00e9coller.",
       "weapons": [
          "Swords",
          "Hammers",
@@ -126,12 +122,11 @@
          "Defense Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Maransac",
-      "description_fr": "Ce sac barbare peut paraître souriant, mais c'est un sac de nœuds pour s'en décoller."
+      "name_fr": "Maransac"
    },
    "6": {
       "name_en": "Dracky",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "F",
       "traits": [
          "Artful Dodger",
@@ -140,7 +135,7 @@
       "resistance": [
          "Fizzleproof"
       ],
-      "description_en": "Small, agile creatures with contagious grins that fly through the darkness.",
+      "description_en": "Cr\u00e9ature petite et agile avec un rire contagieux qui vole dans les t\u00e9n\u00e8bres.",
       "weapons": [
          "Swords",
          "Spears",
@@ -152,12 +147,11 @@
          "Agility Boost"
       ],
       "location": "Infant Isle",
-      "name_fr": "Vampivol",
-      "description_fr": "Créature petite et agile avec un rire contagieux qui vole dans les ténèbres."
+      "name_fr": "Vampivol"
    },
    "7": {
       "name_en": "Ghost",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "F",
       "traits": [
          "Artful Dodger",
@@ -166,7 +160,7 @@
       "resistance": [
          "Whackproof"
       ],
-      "description_en": "Small specters that delight in making young children cry.",
+      "description_en": "Petit spectre qui adore faire pleurer les petits enfants.",
       "weapons": [
          "Swords",
          "Whips",
@@ -178,12 +172,11 @@
          "Attack Boost"
       ],
       "location": "Infant Isle",
-      "name_fr": "Fantôme",
-      "description_fr": "Petit spectre qui adore faire pleurer les petits enfants."
+      "name_fr": "Fant\u00f4me"
    },
    "8": {
       "name_en": "Bubble slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "F",
       "traits": [
          "Poisoner",
@@ -192,7 +185,7 @@
       "resistance": [
          "Poisonproof"
       ],
-      "description_en": "This blob was born of a poisonous swamp and carries the same toxins in its body.",
+      "description_en": "Cette bulle est n\u00e9e dans un marais empoisonn\u00e9 et a absorb\u00e9 les toxines de son milieu de naissance.",
       "weapons": [
          "Hammers",
          "Whips",
@@ -204,12 +197,11 @@
          "Attack Boost"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Gluanbulle",
-      "description_fr": "Cette bulle est née dans un marais empoisonné et a absorbé les toxines de son milieu de naissance."
+      "name_fr": "Gluanbulle"
    },
    "9": {
       "name_en": "Frou-fry",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "F",
       "traits": [
          null,
@@ -218,7 +210,7 @@
       "resistance": [
          "Paralysisproof"
       ],
-      "description_en": "These creatures use their saw-like teeth to shred the bellies of their prey. Ouch!",
+      "description_en": "Cette cr\u00e9ature lac\u00e8re le ventre de ses proies \u00e0 l'aide de ses dents effil\u00e9es\u00a0!",
       "weapons": [
          "Axes",
          "Hammers",
@@ -230,12 +222,11 @@
          "Ice Breath Ward"
       ],
       "location": "Dragon Island",
-      "name_fr": "Fri-fri",
-      "description_fr": "Cette créature lacère le ventre de ses proies à l'aide de ses dents effilées !"
+      "name_fr": "Fri-fri"
    },
    "10": {
       "name_en": "Wild boarfish",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "F",
       "traits": [
          "Artful Dodger",
@@ -243,9 +234,9 @@
       ],
       "resistance": [
          "Drain Magicproof",
-         "Healed by Water"
+         " Healed by Water"
       ],
-      "description_en": "Pig-like fish at home in both sea and sky.",
+      "description_en": "Poisson-cochon \u00e0 l'aise dans les airs et dans l'eau.",
       "weapons": [
          "Spears",
          "Axes",
@@ -258,12 +249,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Sanglimer",
-      "description_fr": "Poisson-cochon à l'aise dans les airs et dans l'eau."
+      "name_fr": "Sanglimer"
    },
    "11": {
       "name_en": "Mischievous mole",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "F",
       "traits": [
          "Psycho",
@@ -272,7 +262,7 @@
       "resistance": [
          "Dazzleproof"
       ],
-      "description_en": "Who knows what mischief these moles get up to with their spades...",
+      "description_en": "Qui sait les b\u00eatises que feront ces taupes avec leurs pelles...",
       "weapons": [
          "Spears",
          "Axes",
@@ -284,12 +274,11 @@
          "Attack Boost"
       ],
       "location": "Infant Isle",
-      "name_fr": "Pataupe",
-      "description_fr": "Qui sait les bêtises que feront ces taupes avec leurs pelles..."
+      "name_fr": "Pataupe"
    },
    "12": {
       "name_en": "Shadow",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "F",
       "traits": [
          "Zammeister",
@@ -297,10 +286,10 @@
       ],
       "resistance": [
          "Healed by Zam",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
-      "description_en": "Who knows what evil lurks in the hearts of men? These monsters do.",
+      "description_en": "Qui connait les t\u00e9n\u00e8bres que renferme le c\u0153ur des hommes\u00a0? Ces monstres.",
       "weapons": [
          "Swords",
          "Spears",
@@ -311,12 +300,11 @@
          "Reaper"
       ],
       "location": "Infant Isle",
-      "name_fr": "Ombre",
-      "description_fr": "Qui connait les ténèbres que renferme le cœur des hommes ? Ces monstres."
+      "name_fr": "Ombre"
    },
    "13": {
       "name_en": "Lips",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "F",
       "traits": [
          null,
@@ -325,7 +313,7 @@
       "resistance": [
          "Drain Magicproof"
       ],
-      "description_en": "These slobbery monsters are renowned for their slippery skin.",
+      "description_en": "Ce monstre baveux est c\u00e9l\u00e8bre pour sa peau visqueuse.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -337,12 +325,11 @@
          "Wisdom Boost"
       ],
       "location": "Infant Isle",
-      "name_fr": "Bisebave",
-      "description_fr": "Ce monstre baveux est célèbre pour sa peau visqueuse."
+      "name_fr": "Bisebave"
    },
    "14": {
       "name_en": "Firespirit",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "F",
       "traits": [
          "Frizzmeister",
@@ -350,10 +337,10 @@
       ],
       "resistance": [
          "Healed by Fire Breath",
-         "Healed by Frizz",
-         "Vulnerable to Water"
+         " Healed by Frizz",
+         " Vulnerable to Water"
       ],
-      "description_en": "As its name suggests, it likes to play with fire. However, it is not fond of the cold.",
+      "description_en": "Cette cr\u00e9ature adore jouer avec le feu et n'aime pas trop le froid.",
       "weapons": [
          "Swords",
          "Whips",
@@ -365,12 +352,11 @@
          "Defense Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Feu follet",
-      "description_fr": "Cette créature adore jouer avec le feu et n'aime pas trop le froid."
+      "name_fr": "Feu follet"
    },
    "15": {
       "name_en": "Shell slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "F",
       "traits": [
          null,
@@ -379,7 +365,7 @@
       "resistance": [
          null
       ],
-      "description_en": "When surprised or threatened, these timid little fellows take refuge under their sturdy shells.",
+      "description_en": "Lorsqu'il est surpris ou menac\u00e9, ce gentil petit monstre trouve refuge dans sa carapace.",
       "weapons": [
          "Swords",
          "Spears",
@@ -391,12 +377,11 @@
          "Agility Boost"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Gluanbulot",
-      "description_fr": "Lorsqu'il est surpris ou menacé, ce gentil petit monstre trouve refuge dans sa carapace."
+      "name_fr": "Gluanbulot"
    },
    "16": {
       "name_en": "Dragonthorn",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "F",
       "traits": [
          "Artful Dodger",
@@ -404,9 +389,9 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
-      "description_en": "These creatures are born when bunches of vines gain sentience and take the form of dragons.",
+      "description_en": "Cette cr\u00e9ature a vu le jour quand des lianes devenues intelligentes ont pris la forme de dragons.",
       "weapons": [
          "Hammers",
          "Whips",
@@ -417,12 +402,11 @@
          "Frizz & Woosh"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Dragronce",
-      "description_fr": "Cette créature a vu le jour quand des lianes devenues intelligentes ont pris la forme de dragons."
+      "name_fr": "Dragronce"
    },
    "17": {
       "name_en": "Scorpion",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "F",
       "traits": [
          "Critical Massacre",
@@ -430,10 +414,10 @@
       ],
       "resistance": [
          "Paralysisproof",
-         "Poisonproof",
-         "Vulnerable to Frizz"
+         " Poisonproof",
+         " Vulnerable to Frizz"
       ],
-      "description_en": "The poisonous tails of these predators can paralyze their prey at a pinch.",
+      "description_en": "La queue venimeuse de ce pr\u00e9dateur peut paralyser sa proie d'une simple piq\u00fbre.",
       "weapons": [
          "Spears",
          "Axes",
@@ -445,12 +429,11 @@
          "Defense Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Scorpion",
-      "description_fr": "La queue venimeuse de ce prédateur peut paralyser sa proie d'une simple piqûre."
+      "name_fr": "Scorpion"
    },
    "18": {
       "name_en": "Crabid",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "F",
       "traits": [
          null,
@@ -459,7 +442,7 @@
       "resistance": [
          "Vulnerable to Frizz"
       ],
-      "description_en": "This hard-shelled crustacean boasts a nifty line in sidestepping.",
+      "description_en": "Ce crustac\u00e9 \u00e0 coquille est tr\u00e8s dou\u00e9 d\u00e8s qu'il s'agit d'esquiver.",
       "weapons": [
          "Swords",
          "Axes",
@@ -471,12 +454,11 @@
          "Defense Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Crabarbare",
-      "description_fr": "Ce crustacé à coquille est très doué dès qu'il s'agit d'esquiver."
+      "name_fr": "Crabarbare"
    },
    "19": {
       "name_en": "Satyr",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "F",
       "traits": [
          null,
@@ -485,7 +467,7 @@
       "resistance": [
          "Sleepproof"
       ],
-      "description_en": "The sight of one of these beasts dancing all by itself is strangely sorrowful.",
+      "description_en": "La vue d'une de ces cr\u00e9atures dansant seule vous attriste.",
       "weapons": [
          "Swords",
          "Spears",
@@ -496,12 +478,11 @@
          "Dancer"
       ],
       "location": "Domus Isle Sewer",
-      "name_fr": "Faune",
-      "description_fr": "La vue d'une de ces créatures dansant seule vous attriste."
+      "name_fr": "Faune"
    },
    "20": {
       "name_en": "Dancing flame",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "F",
       "traits": [
          "Frizzmeister",
@@ -509,8 +490,8 @@
       ],
       "resistance": [
          "Healed by Fire Breath",
-         "Healed by Frizz",
-         "Vulnerable to Crack"
+         " Healed by Frizz",
+         " Vulnerable to Crack"
       ],
       "description_en": "These fiery creatures are actually passionate lovers as well as fighters.",
       "weapons": [
@@ -523,12 +504,11 @@
          "Fire Fighter"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Brûleflamme",
-      "description_fr": null
+      "name_fr": "Br\u00fbleflamme"
    },
    "21": {
       "name_en": "Winky",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "F",
       "traits": [
          "Desperado",
@@ -536,7 +516,7 @@
       ],
       "resistance": [
          "Dazzleproof",
-         "Whackproof"
+         " Whackproof"
       ],
       "description_en": "Keep a close watch on these monsters - they can strike in the blink of an eye.",
       "weapons": [
@@ -550,12 +530,11 @@
          "Wisdom Boost"
       ],
       "location": "Infant Isle",
-      "name_fr": "Clindœil",
-      "description_fr": null
+      "name_fr": "Clind\u0153il"
    },
    "22": {
       "name_en": "Stump chump",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "F",
       "traits": [
          null,
@@ -563,7 +542,7 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
       "description_en": "Once tall and proud, it now fights to avenge all the other trees cut down in their prime.",
       "weapons": [
@@ -577,12 +556,11 @@
          "Attack Boost"
       ],
       "location": "Infant Isle",
-      "name_fr": "Souche louche",
-      "description_fr": null
+      "name_fr": "Souche louche"
    },
    "23": {
       "name_en": "Healslime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "F",
       "traits": [
          "Health Professional",
@@ -591,7 +569,7 @@
       "resistance": [
          "Fizzleproof"
       ],
-      "description_en": "These sweet little creatures wave their tentacles about in the most adorable manner.",
+      "description_en": "Cette gentille petite cr\u00e9ature ondule ses tentacules d'une mani\u00e8re craquante.",
       "weapons": [
          "Spears",
          "Whips",
@@ -603,12 +581,11 @@
          "Agility Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Médigluant",
-      "description_fr": "Cette gentille petite créature ondule ses tentacules d'une manière craquante."
+      "name_fr": "M\u00e9digluant"
    },
    "24": {
       "name_en": "Argon lizard",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "F",
       "traits": [
          "Escape Artist",
@@ -616,9 +593,9 @@
       ],
       "resistance": [
          "Paralysisproof",
-         "Poisonproof"
+         " Poisonproof"
       ],
-      "description_en": "These lizards intimidate their enemies by unfurling their imposing neck frills.",
+      "description_en": "Ce l\u00e9zard intimide ses ennemis en d\u00e9ployant ses imposantes collerettes.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -629,12 +606,11 @@
          "Toxifier"
       ],
       "location": "Fert Isle, Dragon Island",
-      "name_fr": "Lézard argon",
-      "description_fr": "Ce lézard intimide ses ennemis en déployant ses imposantes collerettes."
+      "name_fr": "L\u00e9zard argon"
    },
    "25": {
       "name_en": "Chimaera",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "F",
       "traits": [
          "Artful Dodger",
@@ -643,7 +619,7 @@
       "resistance": [
          "Confusionproof"
       ],
-      "description_en": "Fowl faces that bode foul magic.",
+      "description_en": "Volatile pratiquant une magie r\u00e9pugnante.",
       "weapons": [
          "Spears",
          "Axes",
@@ -654,12 +630,11 @@
          "Cleanser"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Chimère",
-      "description_fr": "Volatile pratiquant une magie répugnante."
+      "name_fr": "Chim\u00e8re"
    },
    "26": {
       "name_en": "Frostburn",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "F",
       "traits": [
          "Crackmeister",
@@ -667,8 +642,8 @@
       ],
       "resistance": [
          "Healed by Crack",
-         "Healed by Ice Breath",
-         "Vulnerable to Frizz"
+         " Healed by Ice Breath",
+         " Vulnerable to Frizz"
       ],
       "description_en": "This monster's chilling exterior masks a rather cool and laid-back interior.",
       "weapons": [
@@ -681,12 +656,11 @@
          "Icemeister"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Brûlegel",
-      "description_fr": null
+      "name_fr": "Br\u00fblegel"
    },
    "27": {
       "name_en": "Hammerhood",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "F",
       "traits": [
          "Psycho",
@@ -695,7 +669,7 @@
       "resistance": [
          "Dazzleproof"
       ],
-      "description_en": "It's not the size of the hammer that counts. It's how you wield it.",
+      "description_en": "Ce n'est pas la taille du marteau qui compte. C'est la mani\u00e8re dont vous le maniez.",
       "weapons": [
          "Spears",
          "Axes",
@@ -707,12 +681,11 @@
          "Attack Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Marteleur",
-      "description_fr": "Ce n'est pas la taille du marteau qui compte. C'est la manière dont vous le maniez."
+      "name_fr": "Marteleur"
    },
    "28": {
       "name_en": "Spitnik",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "F",
       "traits": [
          "Bangmeister",
@@ -720,7 +693,7 @@
       ],
       "resistance": [
          "Healed by Bang",
-         "Vulnerable to Crack"
+         " Vulnerable to Crack"
       ],
       "description_en": "Small, sentient suns circled by similar, somewhat smaller satellites.",
       "weapons": [
@@ -734,12 +707,11 @@
          "Defense Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Spitnik",
-      "description_fr": null
+      "name_fr": "Spitnik"
    },
    "29": {
       "name_en": "See urchin",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "F",
       "traits": [
          "Health Professional",
@@ -747,7 +719,7 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Healed by Water"
+         " Healed by Water"
       ],
       "description_en": "Prickly denizens of the sea who see everything, you see.",
       "weapons": [
@@ -761,12 +733,11 @@
          "Wisdom Boost"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Biglœil",
-      "description_fr": null
+      "name_fr": "Bigl\u0153il"
    },
    "30": {
       "name_en": "Funghoul",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "F",
       "traits": [
          null,
@@ -774,7 +745,7 @@
       ],
       "resistance": [
          "Poisonproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
       "description_en": "Pestilent creatures that spawn in moist, dark places.",
       "weapons": [
@@ -788,12 +759,11 @@
          "Attack Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Champigoule",
-      "description_fr": null
+      "name_fr": "Champigoule"
    },
    "31": {
       "name_en": "She-slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "E",
       "traits": [
          "Frizzmeister",
@@ -802,7 +772,7 @@
       "resistance": [
          "Frizzproof"
       ],
-      "description_en": "Slimologists have recently discovered that carnivorous slimes turn a reddish shade.",
+      "description_en": "Les gluantologues ont d\u00e9couvert il y a peu que les gluants carnivores deviennent rouges.",
       "weapons": [
          "Spears",
          "Whips",
@@ -813,12 +783,11 @@
          "Frizz & Zap"
       ],
       "location": "Slime Island",
-      "name_fr": "Gluante",
-      "description_fr": "Les gluantologues ont découvert il y a peu que les gluants carnivores deviennent rouges."
+      "name_fr": "Gluante"
    },
    "32": {
       "name_en": "Nardragon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "E",
       "traits": [
          "Psycho",
@@ -827,7 +796,7 @@
       "resistance": [
          null
       ],
-      "description_en": "The horn of a nardragon can pierce any armour.",
+      "description_en": "La corne d'un dracorne peut transpercer les armures les plus dures.",
       "weapons": [
          "Swords",
          "Axes",
@@ -838,12 +807,11 @@
          "Martyr"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Dracorne",
-      "description_fr": "La corne d'un dracorne peut transpercer les armures les plus dures."
+      "name_fr": "Dracorne"
    },
    "33": {
       "name_en": "Spiked hare",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "E",
       "traits": [
          "Psycho",
@@ -852,7 +820,7 @@
       "resistance": [
          "Drain Magicproof"
       ],
-      "description_en": "It's clear from the horn that you won't be brushing this hare aside in a hurry.",
+      "description_en": "Si vous regardez bien sa corne, vous verrez que ce li\u00e8vre ne finira pas en civet.",
       "weapons": [
          "Spears",
          "Axes",
@@ -864,12 +832,11 @@
          "Defense Boost"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Lièvrecorne",
-      "description_fr": "Si vous regardez bien sa corne, vous verrez que ce lièvre ne finira pas en civet."
+      "name_fr": "Li\u00e8vrecorne"
    },
    "34": {
       "name_en": "Fencing fox",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "E",
       "traits": [
          "Early Bird",
@@ -878,7 +845,7 @@
       "resistance": [
          "Confusionproof"
       ],
-      "description_en": "Foxy warriors whose skill with a foil is unsurpassed.",
+      "description_en": "Guerrier rus\u00e9 imbattable d\u00e8s qu'il est question d'un d\u00e9fi au fleuret.",
       "weapons": [
          "Swords",
          "Spears",
@@ -889,12 +856,11 @@
          "Guerrilla"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Mousquetueur",
-      "description_fr": "Guerrier rusé imbattable dès qu'il est question d'un défi au fleuret."
+      "name_fr": "Mousquetueur"
    },
    "35": {
       "name_en": "Goodybag",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "E",
       "traits": [
          null,
@@ -915,12 +881,11 @@
          "Defense Boost"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Sacatrésor",
-      "description_fr": null
+      "name_fr": "Sacatr\u00e9sor"
    },
    "36": {
       "name_en": "Imp",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "E",
       "traits": [
          "Bangmeister",
@@ -941,12 +906,11 @@
          "Wisdom Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Diablotin",
-      "description_fr": null
+      "name_fr": "Diablotin"
    },
    "37": {
       "name_en": "Muddy hand",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "E",
       "traits": [
          null,
@@ -954,7 +918,7 @@
       ],
       "resistance": [
          "Dazzleproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
       "description_en": "The souls of those who died in swamps...Always ready to give fellow monsters a hand!",
       "weapons": [
@@ -967,12 +931,11 @@
          "Materialist"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Main de boue",
-      "description_fr": null
+      "name_fr": "Main de boue"
    },
    "38": {
       "name_en": "Drake slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "E",
       "traits": [
          "Artful Dodger",
@@ -980,9 +943,9 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Ice Breathproof"
+         " Ice Breathproof"
       ],
-      "description_en": "These slimes count dragons amongst their relatives.",
+      "description_en": "Ce gluant a un lien de parent\u00e9 avec les dragons.",
       "weapons": [
          "Spears",
          "Axes",
@@ -995,12 +958,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Gluancornu",
-      "description_fr": "Ce gluant a un lien de parenté avec les dragons."
+      "name_fr": "Gluancornu"
    },
    "39": {
       "name_en": "Snapdragon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "E",
       "traits": [
          "Artful Dodger",
@@ -1008,9 +970,9 @@
       ],
       "resistance": [
          "Confusionproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
-      "description_en": "-",
+      "description_en": "Vous le rencontrez uniquement dans les r\u00e9gions froides et arides.",
       "weapons": [
          "Hammers",
          "Whips",
@@ -1023,12 +985,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Épironce",
-      "description_fr": "Vous le rencontrez uniquement dans les régions froides et arides."
+      "name_fr": "\u00c9pironce"
    },
    "40": {
       "name_en": "Khalamari kid",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "E",
       "traits": [
          null,
@@ -1036,9 +997,9 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Healed by Water"
+         " Healed by Water"
       ],
-      "description_en": "These sea dwellers know they're cute - and flaunt it!",
+      "description_en": "Ces cr\u00e9atures marines savent qu'elles sont mignonnes et elles le montrent.",
       "weapons": [
          "Axes",
          "Whips",
@@ -1050,12 +1011,11 @@
          "Defense Boost"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Khalamarmot",
-      "description_fr": "Ces créatures marines savent qu'elles sont mignonnes et elles le montrent."
+      "name_fr": "Khalamarmot"
    },
    "41": {
       "name_en": "Chainine",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "E",
       "traits": [
          null,
@@ -1064,7 +1024,7 @@
       "resistance": [
          "Dazzleproof"
       ],
-      "description_en": "These dirty dogs wrap their collars around their victims before landing the final blow.",
+      "description_en": "Ces sales chiens immobilisent leurs victimes avec leur collier avant de porter le coup final.",
       "weapons": [
          "Spears",
          "Axes",
@@ -1076,12 +1036,11 @@
          "Attack Boost"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Canidémon",
-      "description_fr": "Ces sales chiens immobilisent leurs victimes avec leur collier avant de porter le coup final."
+      "name_fr": "Canid\u00e9mon"
    },
    "42": {
       "name_en": "King kelp",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "E",
       "traits": [
          null,
@@ -1089,7 +1048,7 @@
       ],
       "resistance": [
          "Healed by Water",
-         "Sleepproof"
+         " Sleepproof"
       ],
       "description_en": "This musician keeps his mic polished at all times, and is always ready to holler a tune.",
       "weapons": [
@@ -1102,12 +1061,11 @@
          "All-Rounder"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Royalgue",
-      "description_fr": null
+      "name_fr": "Royalgue"
    },
    "43": {
       "name_en": "Lump wizard",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "E",
       "traits": [
          null,
@@ -1128,12 +1086,11 @@
          "Woosh Ward"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Sorcimol",
-      "description_fr": null
+      "name_fr": "Sorcimol"
    },
    "44": {
       "name_en": "Demonrider",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "E",
       "traits": [
          "Counterstriker",
@@ -1141,7 +1098,7 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Vulnerable to Zap"
+         " Vulnerable to Zap"
       ],
       "description_en": "Speedy savages whose sport is spiting slothful stragglers.",
       "weapons": [
@@ -1154,12 +1111,11 @@
          "Diminisher"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Cavale-démon",
-      "description_fr": null
+      "name_fr": "Cavale-d\u00e9mon"
    },
    "45": {
       "name_en": "Mummy boy",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "E",
       "traits": [
          null,
@@ -1167,8 +1123,8 @@
       ],
       "resistance": [
          "Crackproof",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "Malicious mummies who spread pestilence amongst the living.",
       "weapons": [
@@ -1182,12 +1138,11 @@
          "Attack Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Momignon",
-      "description_fr": null
+      "name_fr": "Momignon"
    },
    "46": {
       "name_en": "Snail slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "E",
       "traits": [
          null,
@@ -1196,7 +1151,7 @@
       "resistance": [
          "Dazzleproof"
       ],
-      "description_en": "These quirky slimes are more nimble than their heavy shells might have you believe.",
+      "description_en": "Ce gluant bizarre est plus agile que ce que sa carapace ne pourrait le laisser penser.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -1209,12 +1164,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Escargluant",
-      "description_fr": "Ce gluant bizarre est plus agile que ce que sa carapace ne pourrait le laisser penser."
+      "name_fr": "Escargluant"
    },
    "47": {
       "name_en": "Jargon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "E",
       "traits": [
          null,
@@ -1223,7 +1177,7 @@
       "resistance": [
          "Drain Magicproof"
       ],
-      "description_en": "These dragons keep a special brew in their jars especially for post-battle celebrations.",
+      "description_en": "Ce dragon conserve un brouet sp\u00e9cial dans des jarres pour faire la f\u00eate apr\u00e8s le combat.",
       "weapons": [
          "Swords",
          "Spears",
@@ -1234,12 +1188,11 @@
          "Toughie"
       ],
       "location": "Fert Isle",
-      "name_fr": "Saint-berneur",
-      "description_fr": "Ce dragon conserve un brouet spécial dans des jarres pour faire la fête après le combat."
+      "name_fr": "Saint-berneur"
    },
    "48": {
       "name_en": "Jailcat",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "E",
       "traits": [
          "Crackmeister",
@@ -1248,7 +1201,7 @@
       "resistance": [
          "Crackproof"
       ],
-      "description_en": "These felines are especially fond of their stripes.",
+      "description_en": "Ce f\u00e9lin adore ses rayures.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -1259,12 +1212,11 @@
          "Woosh & Crack"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Chagriffeur",
-      "description_fr": "Ce félin adore ses rayures."
+      "name_fr": "Chagriffeur"
    },
    "49": {
       "name_en": "Orc",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "E",
       "traits": [
          null,
@@ -1273,7 +1225,7 @@
       "resistance": [
          "Sleepproof"
       ],
-      "description_en": "Driven from their forest homes, they have turned on humans.",
+      "description_en": "Chass\u00e9s de leur habitat forestier, ils s'en prennent d\u00e9sormais aux hommes.",
       "weapons": [
          "Swords",
          "Spears",
@@ -1286,12 +1238,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Orque",
-      "description_fr": "Chassés de leur habitat forestier, ils s'en prennent désormais aux hommes."
+      "name_fr": "Orque"
    },
    "50": {
       "name_en": "Wax murderer",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "E",
       "traits": [
          null,
@@ -1311,12 +1262,11 @@
          "Fire Fighter"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Tristecire",
-      "description_fr": null
+      "name_fr": "Tristecire"
    },
    "51": {
       "name_en": "Frogface",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "E",
       "traits": [
          null,
@@ -1336,12 +1286,11 @@
          "Healer"
       ],
       "location": "Fert Isle",
-      "name_fr": "Face de crapaud",
-      "description_fr": null
+      "name_fr": "Face de crapaud"
    },
    "52": {
       "name_en": "Skipper",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "E",
       "traits": [
          null,
@@ -1362,12 +1311,11 @@
          "Attack Boost"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Bottœil",
-      "description_fr": null
+      "name_fr": "Bott\u0153il"
    },
    "53": {
       "name_en": "Wild slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "D",
       "traits": [
          "Psycho",
@@ -1376,7 +1324,7 @@
       "resistance": [
          "Sagproof"
       ],
-      "description_en": "These unruly slimes slice their unsuspecting prey with swift slashes from their claws.",
+      "description_en": "Ce gluant turbulent peut d\u00e9couper sa proie d'un simple coup de griffes.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -1387,12 +1335,11 @@
          "Champion"
       ],
       "location": "Fert Isle",
-      "name_fr": "Gluant de crin",
-      "description_fr": "Ce gluant turbulent peut découper sa proie d'un simple coup de griffes."
+      "name_fr": "Gluant de crin"
    },
    "54": {
       "name_en": "Green dragon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "D",
       "traits": [
          null,
@@ -1400,9 +1347,9 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Ice Breathproof"
+         " Ice Breathproof"
       ],
-      "description_en": "The tough scales of this dragon can only be pierced by exceptional blades.",
+      "description_en": "Les \u00e9cailles \u00e9paisses de ce dragon ne peuvent \u00eatre perc\u00e9es que par des lames exceptionnelles.",
       "weapons": [
          "Swords",
          "Axes",
@@ -1413,12 +1360,11 @@
          "Dragon Lore"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Dragon vert",
-      "description_fr": "Les écailles épaisses de ce dragon ne peuvent être percées que par des lames exceptionnelles."
+      "name_fr": "Dragon vert"
    },
    "55": {
       "name_en": "Great sabrecub",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "D",
       "traits": [
          "Psycho",
@@ -1427,7 +1373,7 @@
       "resistance": [
          "Decelerateproof"
       ],
-      "description_en": "Though still young cubs, their razor-sharp claws are already vicious weapons.",
+      "description_en": "Malgr\u00e9 son jeune \u00e2ge, ses griffes aff\u00fbt\u00e9es sont d\u00e9j\u00e0 des armes impressionnantes.",
       "weapons": [
          "Swords",
          "Axes",
@@ -1439,12 +1385,11 @@
          "Defense Boost"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Smilodon de lait",
-      "description_fr": "Malgré son jeune âge, ses griffes affûtées sont déjà des armes impressionnantes."
+      "name_fr": "Smilodon de lait"
    },
    "56": {
       "name_en": "Cannibox",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "D",
       "traits": [
          "Desperado",
@@ -1464,12 +1409,11 @@
          "Fear-monger"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Canniboîte",
-      "description_fr": null
+      "name_fr": "Cannibo\u00eete"
    },
    "57": {
       "name_en": "Pan piper",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "D",
       "traits": [
          null,
@@ -1478,7 +1422,7 @@
       "resistance": [
          "Sleepproof"
       ],
-      "description_en": "Unlike their cousins, these creatures dance for the good of their health.",
+      "description_en": "Contrairement \u00e0 ses cousins, cette cr\u00e9ature danse pour garder la forme.",
       "weapons": [
          "Swords",
          "Spears",
@@ -1491,12 +1435,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Bélicorne",
-      "description_fr": "Contrairement à ses cousins, cette créature danse pour garder la forme."
+      "name_fr": "B\u00e9licorne"
    },
    "58": {
       "name_en": "Skelegon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "D",
       "traits": [
          null,
@@ -1504,9 +1447,9 @@
       ],
       "resistance": [
          "Vulnerable to Zap",
-         "Whackproof"
+         " Whackproof"
       ],
-      "description_en": "Loath to relinquish life, this creature lives on though its flesh is long gone.",
+      "description_en": "Peu dispos\u00e9e \u00e0 mourir, cette cr\u00e9ature vit bien qu'elle n'ait plus de chair sur les os depuis longtemps.",
       "weapons": [
          "Spears",
          "Axes",
@@ -1517,12 +1460,11 @@
          "Crack & Zam"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Dragos",
-      "description_fr": "Peu disposée à mourir, cette créature vit bien qu'elle n'ait plus de chair sur les os depuis longtemps."
+      "name_fr": "Dragos"
    },
    "59": {
       "name_en": "Jumping jackal",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "D",
       "traits": [
          "Able Ambusher",
@@ -1531,7 +1473,7 @@
       "resistance": [
          "Dazzleproof"
       ],
-      "description_en": "Once this vicious beast picks up the scent, its prey has little hope of escaping in one piece.",
+      "description_en": "Une fois que cette sale b\u00eate trouve une piste, sa proie a peu de chances de s'en sortir.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -1544,12 +1486,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Carnigore",
-      "description_fr": "Une fois que cette sale bête trouve une piste, sa proie a peu de chances de s'en sortir."
+      "name_fr": "Carnigore"
    },
    "60": {
       "name_en": "Rockbomb",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "D",
       "traits": [
          null,
@@ -1571,12 +1512,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Rochexplosif",
-      "description_fr": null
+      "name_fr": "Rochexplosif"
    },
    "61": {
       "name_en": "Dessert demon",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "D",
       "traits": [
          null,
@@ -1596,12 +1536,11 @@
          "Bolsterer"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Démon du dessert",
-      "description_fr": null
+      "name_fr": "D\u00e9mon du dessert"
    },
    "62": {
       "name_en": "Dancing devil",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "D",
       "traits": [
          null,
@@ -1621,12 +1560,11 @@
          "Dancer"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Diable dansant",
-      "description_fr": null
+      "name_fr": "Diable dansant"
    },
    "63": {
       "name_en": "Phantom fencer",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "D",
       "traits": [
          "Artful Dodger",
@@ -1634,8 +1572,8 @@
       ],
       "resistance": [
          "Vulnerable to Zap",
-         "Whackproof",
-         "Wooshproof"
+         " Whackproof",
+         " Wooshproof"
       ],
       "description_en": "Those felled by the blade often take it up in the afterlife.",
       "weapons": [
@@ -1648,12 +1586,11 @@
          "Wind Blower"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Escrimeur fantôme",
-      "description_fr": null
+      "name_fr": "Escrimeur fant\u00f4me"
    },
    "64": {
       "name_en": "Anchorman",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "D",
       "traits": [
          null,
@@ -1666,12 +1603,11 @@
          "Erreur dans wiki solo",
          "https://dragon-quest.org/wiki/Anchorman"
       ],
-      "name_fr": "Mutancre",
-      "description_fr": null
+      "name_fr": "Mutancre"
    },
    "65": {
       "name_en": "Slime knight",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "D",
       "traits": [
          "Counterstriker",
@@ -1680,7 +1616,7 @@
       "resistance": [
          "Confusionproof"
       ],
-      "description_en": "Contrary to popular opinion, it is actually the slime giving the orders!",
+      "description_en": "Contrairement \u00e0 l'opinion r\u00e9pandue, c'est le gluant qui donne les ordres\u00a0!",
       "weapons": [
          "Swords",
          "Spears",
@@ -1691,12 +1627,11 @@
          "White Knight"
       ],
       "location": "- Infern Isle: Day",
-      "name_fr": "Monte-gluant",
-      "description_fr": "Contrairement à l'opinion répandue, c'est le gluant qui donne les ordres !"
+      "name_fr": "Monte-gluant"
    },
    "66": {
       "name_en": "Dragurn",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "D",
       "traits": [
          null,
@@ -1705,7 +1640,7 @@
       "resistance": [
          "Fizzleproof"
       ],
-      "description_en": "These practical fellows store food in their urns in case they get peckish during battle.",
+      "description_en": "Ce monstre conserve la nourriture dans des urnes au cas o\u00f9 il aurait faim en cours de combat.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -1716,12 +1651,11 @@
          "Fire"
       ],
       "location": "Infern Isle",
-      "name_fr": "Dragonflé",
-      "description_fr": "Ce monstre conserve la nourriture dans des urnes au cas où il aurait faim en cours de combat."
+      "name_fr": "Dragonfl\u00e9"
    },
    "67": {
       "name_en": "Metal slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "D",
       "traits": [
          "Metal Body",
@@ -1730,7 +1664,7 @@
       "resistance": [
          "Practically Invincible"
       ],
-      "description_en": "These slimes are astonishingly agile despite their heavy metal coating.",
+      "description_en": "Ce gluant est \u00e9tonnament agile malgr\u00e9 son rev\u00eatement m\u00e9tallique.",
       "weapons": [
          "Spears",
          "Whips",
@@ -1741,12 +1675,11 @@
          "Slimer"
       ],
       "location": "Celeste Isle, Fert Isle",
-      "name_fr": "Gluant de métal",
-      "description_fr": "Ce gluant est étonnament agile malgré son revêtement métallique."
+      "name_fr": "Gluant de m\u00e9tal"
    },
    "68": {
       "name_en": "Hell hornet",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "D",
       "traits": [
          "Artful Dodger",
@@ -1754,10 +1687,10 @@
       ],
       "resistance": [
          "Paralysisproof",
-         "Poisonproof",
-         "Vulnerable to Frizz"
+         " Poisonproof",
+         " Vulnerable to Frizz"
       ],
-      "description_en": "These insect assassins are skilled at skewering foes with their striking stingers.",
+      "description_en": "Cet insecte est tr\u00e8s dou\u00e9 quand il s'agit d'embrocher ses ennemis avec son dard.",
       "weapons": [
          "Swords",
          "Spears",
@@ -1768,12 +1701,11 @@
          "Diminisher"
       ],
       "location": "Fert Isle",
-      "name_fr": "Frelon de l'enfer",
-      "description_fr": "Cet insecte est très doué quand il s'agit d'embrocher ses ennemis avec son dard."
+      "name_fr": "Frelon de l'enfer"
    },
    "69": {
       "name_en": "Night emperor",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "D",
       "traits": [
          "Artful Dodger",
@@ -1782,7 +1714,7 @@
       "resistance": [
          "Sleepproof"
       ],
-      "description_en": "Giant bat-like monsters that are most active during the hours of darkness.",
+      "description_en": "Monstre g\u00e9ant ressemblant \u00e0 une chauve-souris et tr\u00e8s actif la nuit.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -1793,12 +1725,11 @@
          "Bad Breath"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Empereur nocturne",
-      "description_fr": "Monstre géant ressemblant à une chauve-souris et très actif la nuit."
+      "name_fr": "Empereur nocturne"
    },
    "70": {
       "name_en": "Gold golem",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "D",
       "traits": [
          "Psycho",
@@ -1806,18 +1737,17 @@
       ],
       "resistance": [
          "Vulnerable to Sleep",
-         "Whackproof"
+         " Whackproof"
       ],
       "ERREUR": [
          "Erreur dans wiki solo",
          "https://dragon-quest.org/wiki/Gold_golem"
       ],
-      "name_fr": "Golem d'or",
-      "description_fr": null
+      "name_fr": "Golem d'or"
    },
    "71": {
       "name_en": "Headhunter",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "D",
       "traits": [
          "Metal Beater",
@@ -1838,12 +1768,11 @@
          "Attack Boost"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Chasseur de têtes",
-      "description_fr": null
+      "name_fr": "Chasseur de t\u00eates"
    },
    "72": {
       "name_en": "Flyguy",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "D",
       "traits": [
          "Artful Dodger",
@@ -1851,7 +1780,7 @@
       ],
       "resistance": [
          "Sleepproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
       "description_en": "The buzz of their flapping wings is enough to unnerve anybody.",
       "weapons": [
@@ -1865,12 +1794,11 @@
          "Drain Magic Ward"
       ],
       "location": "Infern Isle",
-      "name_fr": "Mouchomme",
-      "description_fr": null
+      "name_fr": "Mouchomme"
    },
    "73": {
       "name_en": "Metal slime knight",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "D",
       "traits": [
          "Counterstriker",
@@ -1879,7 +1807,7 @@
       "resistance": [
          "Paralysisproof"
       ],
-      "description_en": "It is believed that these knights have sworn fealty to their beloved metal slimes.",
+      "description_en": "Il para\u00eet que ce chevalier a jur\u00e9 fid\u00e9lit\u00e9 \u00e0 ses gluants de m\u00e9tal ador\u00e9s.",
       "weapons": [
          "Swords",
          "Spears",
@@ -1891,12 +1819,11 @@
          "Agility Boost"
       ],
       "location": "Infern Isle",
-      "name_fr": "Monte-gluant de métal",
-      "description_fr": "Il paraît que ce chevalier a juré fidélité à ses gluants de métal adorés."
+      "name_fr": "Monte-gluant de m\u00e9tal"
    },
    "74": {
       "name_en": "Seasaur",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "D",
       "traits": [
          "Artful Dodger",
@@ -1905,7 +1832,7 @@
       "resistance": [
          "Fizzleproof"
       ],
-      "description_en": "Their powerful jaws confirm their place as rulers of the sea.",
+      "description_en": "Ses puissantes machoires en font le ma\u00eetre des mers.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -1916,12 +1843,11 @@
          "Dragon Lore"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Aquasaure",
-      "description_fr": "Ses puissantes machoires en font le maître des mers."
+      "name_fr": "Aquasaure"
    },
    "75": {
       "name_en": "Eveel",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "D",
       "traits": [
          "Artful Dodger",
@@ -1929,9 +1855,9 @@
       ],
       "resistance": [
          "Healed by Water",
-         "Poisonproof"
+         " Poisonproof"
       ],
-      "description_en": "Evil eels with fearsome fangs to match their atrocious appetites.",
+      "description_en": "Anguille mal\u00e9fique dont les canines n'ont d'\u00e9gal que son app\u00e9tit f\u00e9roce.",
       "weapons": [
          "Axes",
          "Whips",
@@ -1944,12 +1870,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Malicongre",
-      "description_fr": "Anguille maléfique dont les canines n'ont d'égal que son appétit féroce."
+      "name_fr": "Malicongre"
    },
    "76": {
       "name_en": "Weartiger",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "D",
       "traits": [
          "Critical Massacre",
@@ -1958,7 +1883,7 @@
       "resistance": [
          "Fizzleproof"
       ],
-      "description_en": "These feline beasts have become possessed by the very men they ate.",
+      "description_en": "Ce f\u00e9lin a \u00e9t\u00e9 poss\u00e9d\u00e9 par les hommes qu'il a mang\u00e9s.",
       "weapons": [
          "Swords",
          "Axes",
@@ -1971,12 +1896,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Tigriff",
-      "description_fr": "Ce félin a été possédé par les hommes qu'il a mangés."
+      "name_fr": "Tigriff"
    },
    "77": {
       "name_en": "Brownie",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "D",
       "traits": [
          "Psycho",
@@ -1985,7 +1909,7 @@
       "resistance": [
          "Drain Magicproof"
       ],
-      "description_en": "Though typically mild-mannered, these monsters swing their hammers when angered.",
+      "description_en": "Bien que d'un naturel plut\u00f4t calme, ce monstre mart\u00e8le tout ce qui passe quand il est \u00e9nerv\u00e9.",
       "weapons": [
          "Spears",
          "Axes",
@@ -1998,12 +1922,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Martebrun",
-      "description_fr": "Bien que d'un naturel plutôt calme, ce monstre martèle tout ce qui passe quand il est énervé."
+      "name_fr": "Martebrun"
    },
    "78": {
       "name_en": "Mecha-mynah",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "D",
       "traits": [
          "Artful Dodger",
@@ -2011,7 +1934,7 @@
       ],
       "resistance": [
          "Inactionproof",
-         "Whackproof"
+         " Whackproof"
       ],
       "description_en": "Clockwork birds with an uncanny constitution.",
       "weapons": [
@@ -2025,12 +1948,11 @@
          "Defense Boost"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Rouage-gorge",
-      "description_fr": null
+      "name_fr": "Rouage-gorge"
    },
    "79": {
       "name_en": "Lesser demon",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "D",
       "traits": [
          null,
@@ -2050,12 +1972,11 @@
          "Diabolist"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Démon inférieur",
-      "description_fr": null
+      "name_fr": "D\u00e9mon inf\u00e9rieur"
    },
    "80": {
       "name_en": "Skeleton",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "D",
       "traits": [
          null,
@@ -2063,8 +1984,8 @@
       ],
       "resistance": [
          "Inactionproof",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "The risen remains of warriors felled in long forgotten wars.",
       "weapons": [
@@ -2078,12 +1999,11 @@
          "Attack Boost"
       ],
       "location": "Infern Isle",
-      "name_fr": "Squelette",
-      "description_fr": null
+      "name_fr": "Squelette"
    },
    "81": {
       "name_en": "Angel slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "D",
       "traits": [
          "Artful Dodger",
@@ -2091,10 +2011,10 @@
       ],
       "resistance": [
          "Healed by Zap",
-         "Vulnerable to Zam",
-         "Whackproof"
+         " Vulnerable to Zam",
+         " Whackproof"
       ],
-      "description_en": "Slimes who live virtuous lives are reincarnated in this saintly form.",
+      "description_en": "Les gluants menant une vie de saint se r\u00e9aincarnent sous cette forme ang\u00e9lique.",
       "weapons": [
          "Spears",
          "Whips",
@@ -2105,12 +2025,11 @@
          "Healer"
       ],
       "location": "Palaish Isle",
-      "name_fr": "Gluangélique",
-      "description_fr": "Les gluants menant une vie de saint se réaincarnent sous cette forme angélique."
+      "name_fr": "Gluang\u00e9lique"
    },
    "82": {
       "name_en": "Behemoth slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "D",
       "traits": [
          "Psycho",
@@ -2119,7 +2038,7 @@
       "resistance": [
          "Whackproof"
       ],
-      "description_en": "These slimes have undergone a transformation brought about by contact with dark matter.",
+      "description_en": "Ce gluant a subi une transformation apr\u00e8s \u00eatre entr\u00e9 en contact avec la substance t\u00e9n\u00e9breuse.",
       "weapons": [
          "Spears",
          "Axes",
@@ -2130,12 +2049,11 @@
          "Woosh & Zap"
       ],
       "location": "Slime Island",
-      "name_fr": "Gigluant",
-      "description_fr": "Ce gluant a subi une transformation après être entré en contact avec la substance ténébreuse."
+      "name_fr": "Gigluant"
    },
    "83": {
       "name_en": "Red dragon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "D",
       "traits": [
          "Magic Regenerator",
@@ -2143,18 +2061,18 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Fizzleproof"
+         " Fizzleproof"
       ],
       "ERREUR": [
          "Erreur dans wiki solo",
          "https://dragon-quest.org/wiki/Red_dragon"
       ],
       "name_fr": "Dragon rouge",
-      "description_fr": "Selon la légende, ces dragons seraient nés dans d'énormes volcans souterrains."
+      "description_en": "Selon la l\u00e9gende, ces dragons seraient n\u00e9s dans d'\u00e9normes volcans souterrains."
    },
    "84": {
       "name_en": "Beshemoth slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "D",
       "traits": [
          "Frizzmeister",
@@ -2163,7 +2081,7 @@
       "resistance": [
          "Frizzproof"
       ],
-      "description_en": "She-slimes exposed to dark matter become even more carnivorous!",
+      "description_en": "Une gluante entrant en contact avec la substance t\u00e9n\u00e9breuse devient encore plus carnivore\u00a0!",
       "weapons": [
          "Spears",
          "Axes",
@@ -2176,12 +2094,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Gigluante",
-      "description_fr": "Une gluante entrant en contact avec la substance ténébreuse devient encore plus carnivore !"
+      "name_fr": "Gigluante"
    },
    "85": {
       "name_en": "Bullfinch",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "D",
       "traits": [
          "Counterstriker",
@@ -2189,9 +2106,9 @@
       ],
       "resistance": [
          "Sagproof",
-         "Vulnerable to Sleep"
+         " Vulnerable to Sleep"
       ],
-      "description_en": "Trying to tip these bovines over will earn you a kick in the rear.",
+      "description_en": "Essayez de toucher ce bovin et vous aurez droit \u00e0 un coup de sabot dans le derri\u00e8re.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -2204,12 +2121,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Taurapace",
-      "description_fr": "Essayez de toucher ce bovin et vous aurez droit à un coup de sabot dans le derrière."
+      "name_fr": "Taurapace"
    },
    "86": {
       "name_en": "Bodkin archer",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "C",
       "traits": [
          null,
@@ -2218,7 +2134,7 @@
       "resistance": [
          "Fizzleproof"
       ],
-      "description_en": "Denizens of the forest who live in trees, targeting those who pass beneath the canopy.",
+      "description_en": "Habitant de la for\u00eat qui vit dans les arbres et tire sur ceux qui passent en dessous.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -2229,12 +2145,11 @@
          "Fortifier"
       ],
       "location": "Fert Isle",
-      "name_fr": "Archer vert",
-      "description_fr": "Habitant de la forêt qui vit dans les arbres et tire sur ceux qui passent en dessous."
+      "name_fr": "Archer vert"
    },
    "87": {
       "name_en": "Mud mannequin",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "C",
       "traits": [
          null,
@@ -2242,7 +2157,7 @@
       ],
       "resistance": [
          "Dazzleproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
       "description_en": "Magical puppets brought to life for the sole purpose of dancing.",
       "weapons": [
@@ -2255,12 +2170,11 @@
          "Dancer"
       ],
       "location": "Fert Isle",
-      "name_fr": "Pantin de boue",
-      "description_fr": null
+      "name_fr": "Pantin de boue"
    },
    "88": {
       "name_en": "Gryphon",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "C",
       "traits": [
          null,
@@ -2280,12 +2194,11 @@
          "Antimagic"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Griffon",
-      "description_fr": null
+      "name_fr": "Griffon"
    },
    "89": {
       "name_en": "Walking corpse",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "C",
       "traits": [
          null,
@@ -2293,8 +2206,8 @@
       ],
       "resistance": [
          "Poisonproof",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "These zombies serve as a warning to all would-be grave robbers.",
       "weapons": [
@@ -2308,12 +2221,11 @@
          "Attack Boost"
       ],
       "location": "Infern Isle",
-      "name_fr": "Mort-vivant",
-      "description_fr": null
+      "name_fr": "Mort-vivant"
    },
    "90": {
       "name_en": "Dragon slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "C",
       "traits": [
          "Artful Dodger",
@@ -2321,9 +2233,9 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Ice Breathproof"
+         " Ice Breathproof"
       ],
-      "description_en": "Although they resemble drackies, they are actually allergic to blood!",
+      "description_en": "Bien que ressemblant au vampivol, il est allergique au sang\u00a0!",
       "weapons": [
          "Spears",
          "Hammers",
@@ -2336,12 +2248,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Gluandragon",
-      "description_fr": "Bien que ressemblant au vampivol, il est allergique au sang !"
+      "name_fr": "Gluandragon"
    },
    "91": {
       "name_en": "Hacksaurus",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "C",
       "traits": [
          "Critical Massacre",
@@ -2350,7 +2261,7 @@
       "resistance": [
          "Confusionproof"
       ],
-      "description_en": "With axe in hand, they are dedicated to chopping everything they find into tiny pieces.",
+      "description_en": "La hache \u00e0 la main, sa vie consiste \u00e0 tout r\u00e9duire en petits morceaux.",
       "weapons": [
          "Swords",
          "Axes",
@@ -2361,12 +2272,11 @@
          "Dragon Lore"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Hachosaure",
-      "description_fr": "La hache à la main, sa vie consiste à tout réduire en petits morceaux."
+      "name_fr": "Hachosaure"
    },
    "92": {
       "name_en": "Hades condor",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "C",
       "traits": [
          "Artful Dodger",
@@ -2375,7 +2285,7 @@
       "resistance": [
          "Ice Breathproof"
       ],
-      "description_en": "Their fearsome appearance hides a surprisingly caring demeanor.",
+      "description_en": "Son apparence redoutable cache un comportement tr\u00e8s urbain.",
       "weapons": [
          "Spears",
          "Axes",
@@ -2386,12 +2296,11 @@
          "Cure-all"
       ],
       "location": "Infant Isle, Fert Isle",
-      "name_fr": "Condor infernal",
-      "description_fr": "Son apparence redoutable cache un comportement très urbain."
+      "name_fr": "Condor infernal"
    },
    "93": {
       "name_en": "Gargoyle",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "C",
       "traits": [
          "Artful Dodger",
@@ -2400,7 +2309,7 @@
       "resistance": [
          "Inactionproof"
       ],
-      "description_en": "Winged warriors that track their targets from above before swooping in for the kill.",
+      "description_en": "Guerrier ail\u00e9 qui suit sa cible depuis le ciel avant de fondre dessus.",
       "weapons": [
          "Swords",
          "Hammers",
@@ -2410,12 +2319,11 @@
          "Bird Brain"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Gargouille",
-      "description_fr": "Guerrier ailé qui suit sa cible depuis le ciel avant de fondre dessus."
+      "name_fr": "Gargouille"
    },
    "94": {
       "name_en": "Merman",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "C",
       "traits": [
          null,
@@ -2423,9 +2331,9 @@
       ],
       "resistance": [
          "Dazzleproof",
-         "Healed by Water"
+         " Healed by Water"
       ],
-      "description_en": "Though most at home in water, these sea creatures have also learnt to travel on land.",
+      "description_en": "Bien qu'habitant dans l'eau, cette cr\u00e9ature marine peut marcher sur terre.",
       "weapons": [
          "Swords",
          "Spears",
@@ -2438,12 +2346,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Sirénien",
-      "description_fr": "Bien qu'habitant dans l'eau, cette créature marine peut marcher sur terre."
+      "name_fr": "Sir\u00e9nien"
    },
    "95": {
       "name_en": "Great dracky",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "C",
       "traits": [
          "Artful Dodger",
@@ -2451,18 +2358,17 @@
       ],
       "resistance": [
          "Bangproof",
-         "Healed by Zam"
+         " Healed by Zam"
       ],
       "ERREUR": [
          "Erreur dans wiki solo",
          "https://dragon-quest.org/wiki/Great_dracky"
       ],
-      "name_fr": "Grand vampivol",
-      "description_fr": null
+      "name_fr": "Grand vampivol"
    },
    "96": {
       "name_en": "Great sabrecat",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "C",
       "traits": [
          "Psycho",
@@ -2471,7 +2377,7 @@
       "resistance": [
          "Decelerateproof"
       ],
-      "description_en": "Deadly predators who use their amazing speed to shred their victims with lethal claws.",
+      "description_en": "Ce pr\u00e9dateur mortel utilise sa vitesse et ses griffes pour d\u00e9chiqueter ses victimes.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -2483,12 +2389,11 @@
          "Speedster"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Smilodon",
-      "description_fr": "Ce prédateur mortel utilise sa vitesse et ses griffes pour déchiqueter ses victimes."
+      "name_fr": "Smilodon"
    },
    "97": {
       "name_en": "Dingaling",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "C",
       "traits": [
          null,
@@ -2508,12 +2413,11 @@
          "Materialist"
       ],
       "location": "Fert Isle",
-      "name_fr": "Dingo-dong",
-      "description_fr": null
+      "name_fr": "Dingo-dong"
    },
    "98": {
       "name_en": "Octavian sentry",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "C",
       "traits": [
          null,
@@ -2521,7 +2425,7 @@
       ],
       "resistance": [
          "Healed by Water",
-         "Sagproof"
+         " Sagproof"
       ],
       "description_en": "Powerful warriors of the sea that take pleasure in skewering their enemies.",
       "weapons": [
@@ -2536,12 +2440,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Garde octavien",
-      "description_fr": null
+      "name_fr": "Garde octavien"
    },
    "99": {
       "name_en": "King slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "C",
       "traits": [
          "Critical Massacre",
@@ -2550,7 +2453,7 @@
       "resistance": [
          "Whackproof"
       ],
-      "description_en": "This whopper is created from the cooperative power of a group of slimes merged into one.",
+      "description_en": "Cette bestiole est le r\u00e9sultat de la mise en commun des pouvoirs d'un groupe de gluants.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -2561,12 +2464,11 @@
          "Cleric"
       ],
       "location": "Infant Isle",
-      "name_fr": "Roi gluant",
-      "description_fr": "Cette bestiole est le résultat de la mise en commun des pouvoirs d'un groupe de gluants."
+      "name_fr": "Roi gluant"
    },
    "100": {
       "name_en": "Restless armour",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "C",
       "traits": [
          "Psycho",
@@ -2587,12 +2489,11 @@
          "Attack Boost"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Armure errante",
-      "description_fr": null
+      "name_fr": "Armure errante"
    },
    "101": {
       "name_en": "Sea dragon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "C",
       "traits": [
          "Artful Dodger",
@@ -2606,11 +2507,11 @@
          "https://dragon-quest.org/wiki/Sea_dragon"
       ],
       "name_fr": "Dragon marin",
-      "description_fr": "C'est assez agréable d'entourer votre ennemi et de serrer jusqu'à ce que mort s'ensuive."
+      "description_en": "C'est assez agr\u00e9able d'entourer votre ennemi et de serrer jusqu'\u00e0 ce que mort s'ensuive."
    },
    "102": {
       "name_en": "Hellhound",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "C",
       "traits": [
          "Psycho",
@@ -2618,7 +2519,7 @@
       ],
       "resistance": [
          "Sagproof",
-         "Vulnerable to Zap"
+         " Vulnerable to Zap"
       ],
       "description_en": "Leopold's pack, tainted like him by darkness.",
       "weapons": [
@@ -2631,12 +2532,11 @@
          "Crack & Zam"
       ],
       "location": "Fert Isle",
-      "name_fr": "Chien de l'enfer",
-      "description_fr": null
+      "name_fr": "Chien de l'enfer"
    },
    "103": {
       "name_en": "Diemon",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "C",
       "traits": [
          "Wooshmeister",
@@ -2645,7 +2545,7 @@
       "resistance": [
          "Confusionproof"
       ],
-      "description_en": "Masked marauders who hide their faces out of courtesy to beautiful monsters.",
+      "description_en": "Pr\u00e9dateur masqu\u00e9 qui cache son visage par \u00e9gard envers les jolis monstres.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -2658,12 +2558,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Monstromasque",
-      "description_fr": "Prédateur masqué qui cache son visage par égard envers les jolis monstres."
+      "name_fr": "Monstromasque"
    },
    "104": {
       "name_en": "Cureslime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "C",
       "traits": [
          "Health Professional",
@@ -2671,9 +2570,9 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Whackproof"
+         " Whackproof"
       ],
-      "description_en": "These medical specialists are more adept than their healslime cousins.",
+      "description_en": "Ce professionnel de la sant\u00e9 est plus habile que son cousin, le m\u00e9digluant.",
       "weapons": [
          "Spears",
          "Whips",
@@ -2686,12 +2585,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Guérigluant",
-      "description_fr": "Ce professionnel de la santé est plus habile que son cousin, le médigluant."
+      "name_fr": "Gu\u00e9rigluant"
    },
    "105": {
       "name_en": "Hunter mech",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "C",
       "traits": [
          "Metal Beater",
@@ -2699,8 +2597,8 @@
       ],
       "resistance": [
          "Paralysisproof",
-         "Poisonproof",
-         "Whackproof"
+         " Poisonproof",
+         " Whackproof"
       ],
       "description_en": "A fearsome, four-legged machine created to hunt metal monsters.",
       "weapons": [
@@ -2714,12 +2612,11 @@
          "Defense Boost"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Mécachasseur",
-      "description_fr": null
+      "name_fr": "M\u00e9cachasseur"
    },
    "106": {
       "name_en": "Tyrantosaurus",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "C",
       "traits": [
          null,
@@ -2728,7 +2625,7 @@
       "resistance": [
          "Sagproof"
       ],
-      "description_en": "Smashing enemies into little bits brings a gleeful grin to their wicked faces.",
+      "description_en": "Cette cr\u00e9ature n'arbore un joli sourire qu'apr\u00e8s avoir taill\u00e9 un ennemi en pi\u00e8ces.",
       "weapons": [
          "Swords",
          "Hammers",
@@ -2739,12 +2636,11 @@
          "Guerrilla"
       ],
       "location": "Infern Isle",
-      "name_fr": "Tyrantosaure",
-      "description_fr": "Cette créature n'arbore un joli sourire qu'après avoir taillé un ennemi en pièces."
+      "name_fr": "Tyrantosaure"
    },
    "107": {
       "name_en": "Liquid metal slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "C",
       "traits": [
          "Metal Body",
@@ -2753,7 +2649,7 @@
       "resistance": [
          "Practically Invincible"
       ],
-      "description_en": "Their liquid metal bodies soften even the most powerful impacts.",
+      "description_en": "Son corps de m\u00e9tal liquide absorbe m\u00eame les coups les plus puissants.",
       "weapons": [
          "Spears",
          "Whips",
@@ -2764,12 +2660,11 @@
          "Bombardier"
       ],
       "location": "Infern Isle",
-      "name_fr": "Gluant de mercure",
-      "description_fr": "Son corps de métal liquide absorbe même les coups les plus puissants."
+      "name_fr": "Gluant de mercure"
    },
    "108": {
       "name_en": "Treeface",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "C",
       "traits": [
          "Steady Recovery",
@@ -2778,7 +2673,7 @@
       "resistance": [
          "Vulnerable to Frizz"
       ],
-      "description_en": "Chops bits off and they'll just grow back - truly a lumberjack's worst nightmare.",
+      "description_en": "Coupez-lui des morceaux et ils repoussent \u2014 le cauchemar de tout b\u00fbcheron.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -2789,12 +2684,11 @@
          "Green Finger"
       ],
       "location": "Fert Isle",
-      "name_fr": "Tronc-bine",
-      "description_fr": "Coupez-lui des morceaux et ils repoussent — le cauchemar de tout bûcheron."
+      "name_fr": "Tronc-bine"
    },
    "109": {
       "name_en": "Notso macho",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "C",
       "traits": [
          null,
@@ -2803,7 +2697,7 @@
       "resistance": [
          "Confusionproof"
       ],
-      "description_en": "Masters of the blade who laugh in the face of Death. How rude.",
+      "description_en": "Ma\u00eetre d'armes qui n'a pas peur de la mort.",
       "weapons": [
          "Swords",
          "Axes",
@@ -2814,12 +2708,11 @@
          "Berserker"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Meno macho",
-      "description_fr": "Maître d'armes qui n'a pas peur de la mort."
+      "name_fr": "Meno macho"
    },
    "110": {
       "name_en": "Puppeteer",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "C",
       "traits": [
          null,
@@ -2841,12 +2734,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Marionnettiste",
-      "description_fr": null
+      "name_fr": "Marionnettiste"
    },
    "111": {
       "name_en": "Scissor beatle",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "C",
       "traits": [
          "Psycho",
@@ -2854,9 +2746,9 @@
       ],
       "resistance": [
          "Sleepproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
-      "description_en": "They battle day and night, seeking to ascend to the throne of bug-kind.",
+      "description_en": "Cette cr\u00e9ature se bat jour et nuit pour r\u00e9gner sur tous les insectes.",
       "weapons": [
          "Swords",
          "Axes",
@@ -2867,12 +2759,11 @@
          "Hive Mind"
       ],
       "location": "Fert Isle",
-      "name_fr": "Scarapince",
-      "description_fr": "Cette créature se bat jour et nuit pour régner sur tous les insectes."
+      "name_fr": "Scarapince"
    },
    "112": {
       "name_en": "Metal dragon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "C",
       "traits": [
          null,
@@ -2881,7 +2772,7 @@
       "resistance": [
          "Whackproof"
       ],
-      "description_en": "It is said these man-made machines are imbued with the spirits of dragons.",
+      "description_en": "Il para\u00eet que ces machines construites par l'homme renferment l'\u00e2me des dragons.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -2892,12 +2783,11 @@
          "Assassin"
       ],
       "location": "CELL Headquarters",
-      "name_fr": "Dragon de métal",
-      "description_fr": "Il paraît que ces machines construites par l'homme renferment l'âme des dragons."
+      "name_fr": "Dragon de m\u00e9tal"
    },
    "113": {
       "name_en": "Wrecktor",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "C",
       "traits": [
          "Wooshmeister",
@@ -2917,12 +2807,11 @@
          "Bang & Woosh"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Cyclomage",
-      "description_fr": null
+      "name_fr": "Cyclomage"
    },
    "114": {
       "name_en": "Great argon lizard",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "B",
       "traits": [
          null,
@@ -2931,7 +2820,7 @@
       "resistance": [
          "Fire Breathproof"
       ],
-      "description_en": "As argon lizards grow older, their belies grow bolder.",
+      "description_en": "\u00c0 mesure qu'il vieillit, le l\u00e9zard argon voit son ventre grossir.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -2942,12 +2831,11 @@
          "Breath"
       ],
       "location": "Fert Isle, Dragon Island",
-      "name_fr": "Grand lézard argon",
-      "description_fr": "À mesure qu'il vieillit, le lézard argon voit son ventre grossir."
+      "name_fr": "Grand l\u00e9zard argon"
    },
    "115": {
       "name_en": "Phantom swordsman",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "B",
       "traits": [
          "Artful Dodger",
@@ -2955,8 +2843,8 @@
       ],
       "resistance": [
          "Dazzleproof",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "The cloaks of these warriors are actually stained with grape juice.",
       "weapons": [
@@ -2969,12 +2857,11 @@
          "Woosh & Zam"
       ],
       "location": "Infern Isle",
-      "name_fr": "Épéiste fantôme",
-      "description_fr": null
+      "name_fr": "\u00c9p\u00e9iste fant\u00f4me"
    },
    "116": {
       "name_en": "Skeleton soldier",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "B",
       "traits": [
          null,
@@ -2982,8 +2869,8 @@
       ],
       "resistance": [
          "Inactionproof",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "One scratch from this skeleton's scythe may well earn you a free trip to the underworld.",
       "weapons": [
@@ -2996,12 +2883,11 @@
          "Healer"
       ],
       "location": "Celeste Isle",
-      "name_fr": "Soldat squelette",
-      "description_fr": null
+      "name_fr": "Soldat squelette"
    },
    "117": {
       "name_en": "Dark slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "B",
       "traits": [
          "Artful Dodger",
@@ -3009,18 +2895,18 @@
       ],
       "resistance": [
          "Healed by Zam",
-         "Vulnerable to Zap"
+         " Vulnerable to Zap"
       ],
       "ERREUR": [
          "Erreur dans wiki solo",
          "https://dragon-quest.org/wiki/Dark_slime"
       ],
       "name_fr": "Vampigluant",
-      "description_fr": "Proche des vampivols, ce gluant sinistre aime sucer le sang des hommes."
+      "description_en": "Proche des vampivols, ce gluant sinistre aime sucer le sang des hommes."
    },
    "118": {
       "name_en": "Abyss diver",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "B",
       "traits": [
          "Artful Dodger",
@@ -3029,7 +2915,7 @@
       "resistance": [
          "Sleepproof"
       ],
-      "description_en": "Their mighty bodies can withstand even the pressure of the ocean depths.",
+      "description_en": "Son corps puissant peut r\u00e9sister aux pressions titanesques des abysses oc\u00e9aniques.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -3042,12 +2928,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Abyssaure",
-      "description_fr": "Son corps puissant peut résister aux pressions titanesques des abysses océaniques."
+      "name_fr": "Abyssaure"
    },
    "119": {
       "name_en": "Beetleboy",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "B",
       "traits": [
          "Psycho",
@@ -3055,9 +2940,9 @@
       ],
       "resistance": [
          "Sleepproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
-      "description_en": "A natural speedster, this beetle excels in body slams.",
+      "description_en": "Tr\u00e8s rapide, ce scarab\u00e9e est tr\u00e8s dou\u00e9 en combat rapproch\u00e9.",
       "weapons": [
          "Spears",
          "Axes",
@@ -3068,12 +2953,11 @@
          "Hive Mind"
       ],
       "location": "Fert Isle",
-      "name_fr": "Scarablindé",
-      "description_fr": "Très rapide, ce scarabée est très doué en combat rapproché."
+      "name_fr": "Scarablind\u00e9"
    },
    "120": {
       "name_en": "Grim rider",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "B",
       "traits": [
          "Counterstriker",
@@ -3081,7 +2965,7 @@
       ],
       "resistance": [
          "Sleepproof",
-         "Vulnerable to Zap"
+         " Vulnerable to Zap"
       ],
       "description_en": "Knights who are slain astride their beloved steeds sometimes ride on into undeath.",
       "weapons": [
@@ -3096,12 +2980,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Cavalier fantôme",
-      "description_fr": null
+      "name_fr": "Cavalier fant\u00f4me"
    },
    "121": {
       "name_en": "Cockateer",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "B",
       "traits": [
          "Fly Swatter",
@@ -3110,7 +2993,7 @@
       "resistance": [
          "Sleepproof"
       ],
-      "description_en": "Cocky fighters who are fearless in combat.",
+      "description_en": "Guerrier suffisant et qui n'a peur de rien au combat.",
       "weapons": [
          "Swords",
          "Spears",
@@ -3121,12 +3004,11 @@
          "Bird Brain"
       ],
       "location": "Infern Isle",
-      "name_fr": "Cocoricoq",
-      "description_fr": "Guerrier suffisant et qui n'a peur de rien au combat."
+      "name_fr": "Cocoricoq"
    },
    "122": {
       "name_en": "Jum",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "B",
       "traits": [
          null,
@@ -3148,12 +3030,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Gon",
-      "description_fr": null
+      "name_fr": "Gon"
    },
    "123": {
       "name_en": "Lethal armour",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "B",
       "traits": [
          "Able Ambusher",
@@ -3173,12 +3054,11 @@
          "Cold Sleep"
       ],
       "location": "Infern Isle",
-      "name_fr": "Armure fatale",
-      "description_fr": null
+      "name_fr": "Armure fatale"
    },
    "124": {
       "name_en": "Soulspawn",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "B",
       "traits": [
          null,
@@ -3186,8 +3066,8 @@
       ],
       "resistance": [
          "Poisonproof",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "Dark spirits born from the crews of ships that sink at sea.",
       "weapons": [
@@ -3200,12 +3080,11 @@
          "Graveheart"
       ],
       "location": "Infern Isle",
-      "name_fr": "Grouillâme",
-      "description_fr": null
+      "name_fr": "Grouill\u00e2me"
    },
    "125": {
       "name_en": "Dark slime knight",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "B",
       "traits": [
          "Psycho",
@@ -3214,7 +3093,7 @@
       "resistance": [
          "Zamproof"
       ],
-      "description_en": "These slimes have been tainted by the villainous knight who ride them.",
+      "description_en": "Ces gluants ont \u00e9t\u00e9 souill\u00e9s par les chevaliers qui les montent.",
       "weapons": [
          "Spears",
          "Axes",
@@ -3225,12 +3104,11 @@
          "Dark Knight"
       ],
       "location": "Infern Isle",
-      "name_fr": "Monte-vampigluant",
-      "description_fr": "Ces gluants ont été souillés par les chevaliers qui les montent."
+      "name_fr": "Monte-vampigluant"
    },
    "126": {
       "name_en": "Fallen priest",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "B",
       "traits": [
          "Zammeister",
@@ -3250,12 +3128,11 @@
          "Woosh & Zam"
       ],
       "location": "Infern Isle",
-      "name_fr": "Prêtre damné",
-      "description_fr": null
+      "name_fr": "Pr\u00eatre damn\u00e9"
    },
    "127": {
       "name_en": "Megalodon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "B",
       "traits": [
          "Artful Dodger",
@@ -3264,7 +3141,7 @@
       "resistance": [
          "Fizzleproof"
       ],
-      "description_en": "Serpents that reside in only the cleanest of waters.",
+      "description_en": "Serpent ne vivant que dans les eaux les plus pures.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -3277,12 +3154,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Mégalodon",
-      "description_fr": "Serpent ne vivant que dans les eaux les plus pures."
+      "name_fr": "M\u00e9galodon"
    },
    "128": {
       "name_en": "Giant moth",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "B",
       "traits": [
          "Artful Dodger",
@@ -3290,10 +3166,10 @@
       ],
       "resistance": [
          "Paralysisproof",
-         "Poisonproof",
-         "Vulnerable to Frizz"
+         " Poisonproof",
+         " Vulnerable to Frizz"
       ],
-      "description_en": "Its penchant for spraying clouds of poisonous dust makes it a dangerous adversary.",
+      "description_en": "Sa propension \u00e0 r\u00e9pandre des nuages de poussi\u00e8re empoisonn\u00e9e en font un adversaire dangereux.",
       "weapons": [
          "Spears",
          "Axes",
@@ -3304,12 +3180,11 @@
          "Toxifier"
       ],
       "location": "Fert Isle",
-      "name_fr": "Phalène géante",
-      "description_fr": "Sa propension à répandre des nuages de poussière empoisonnée en font un adversaire dangereux."
+      "name_fr": "Phal\u00e8ne g\u00e9ante"
    },
    "129": {
       "name_en": "Silvapithecus",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "B",
       "traits": [
          null,
@@ -3318,7 +3193,7 @@
       "resistance": [
          "Whackproof"
       ],
-      "description_en": "Winged, silver monkeys with a slightly majestic air about them.",
+      "description_en": "Singes ail\u00e9s et argent\u00e9s relativement majestueux.",
       "weapons": [
          "Swords",
          "Hammers",
@@ -3329,12 +3204,11 @@
          "Diabolist"
       ],
       "location": "Infern Isle",
-      "name_fr": "Silvapithèque",
-      "description_fr": "Singes ailés et argentés relativement majestueux."
+      "name_fr": "Silvapith\u00e8que"
    },
    "130": {
       "name_en": "Frou-frou",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "B",
       "traits": [
          null,
@@ -3342,10 +3216,10 @@
       ],
       "resistance": [
          "Dazzleproof",
-         "Fire Breathproof",
-         "Whackproof"
+         " Fire Breathproof",
+         " Whackproof"
       ],
-      "description_en": "Experts at hurling their titanic bulk at enemies to devastating effect.",
+      "description_en": "Cette cr\u00e9ature est particuli\u00e8rement dou\u00e9e pour \u00e9craser ses adversaires en se jetant sur eux.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -3356,12 +3230,11 @@
          "Cold Sleep"
       ],
       "location": "Dragon Island",
-      "name_fr": "Frou-frou",
-      "description_fr": "Cette créature est particulièrement douée pour écraser ses adversaires en se jetant sur eux."
+      "name_fr": "Frou-frou"
    },
    "131": {
       "name_en": "Mimic",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "B",
       "traits": [
          "Critical Massacre",
@@ -3381,12 +3254,11 @@
          "Nightmare"
       ],
       "location": "Occasional chests",
-      "name_fr": "Imitapeur",
-      "description_fr": null
+      "name_fr": "Imitapeur"
    },
    "132": {
       "name_en": "Archdemon",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "B",
       "traits": [
          "Bangmeister",
@@ -3394,7 +3266,7 @@
       ],
       "resistance": [
          "Bangproof",
-         "Whackproof"
+         " Whackproof"
       ],
       "description_en": "High-level demons whose expertise in explosive magic makes them feared by all.",
       "weapons": [
@@ -3409,12 +3281,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Archidémon",
-      "description_fr": null
+      "name_fr": "Archid\u00e9mon"
    },
    "133": {
       "name_en": "Stark raven",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "B",
       "traits": [
          "Artful Dodger",
@@ -3436,12 +3307,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Corbarbac",
-      "description_fr": null
+      "name_fr": "Corbarbac"
    },
    "134": {
       "name_en": "King cureslime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "B",
       "traits": [
          "Health Professional",
@@ -3449,9 +3319,9 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Whackproof"
+         " Whackproof"
       ],
-      "description_en": "These masters of healing cast Omniheal with the greatest of ease.",
+      "description_en": "Ce ma\u00eetre-soigneur lance l'Omnisoin le plus simplement du monde.",
       "weapons": [
          "Spears",
          "Whips",
@@ -3464,12 +3334,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Roi guérigluant",
-      "description_fr": "Ce maître-soigneur lance l'Omnisoin le plus simplement du monde."
+      "name_fr": "Roi gu\u00e9rigluant"
    },
    "135": {
       "name_en": "Drakularge",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "B",
       "traits": [
          null,
@@ -3477,9 +3346,9 @@
       ],
       "resistance": [
          "Bangproof",
-         "Whackproof"
+         " Whackproof"
       ],
-      "description_en": "Greedy dragons who covet shiny objects and never forget a debt.",
+      "description_en": "Dragon avide qui adore les objets brillants et n'oublie jamais une dette.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -3492,12 +3361,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Dracularge",
-      "description_fr": "Dragon avide qui adore les objets brillants et n'oublie jamais une dette."
+      "name_fr": "Dracularge"
    },
    "136": {
       "name_en": "Gorerilla",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "B",
       "traits": [
          "Critical Massacre",
@@ -3506,7 +3374,7 @@
       "resistance": [
          "Dazzleproof"
       ],
-      "description_en": "Primates who use their tremendous brute strength to swing a mighty club.",
+      "description_en": "Primate dont la force hercul\u00e9enne sert avant tout \u00e0 donner des coups de massue.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -3517,12 +3385,11 @@
          "Huntsman"
       ],
       "location": "Fert Isle",
-      "name_fr": "Gorerille",
-      "description_fr": "Primate dont la force herculéenne sert avant tout à donner des coups de massue."
+      "name_fr": "Gorerille"
    },
    "137": {
       "name_en": "Boss troll",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "B",
       "traits": [
          "Critical Massacre",
@@ -3530,8 +3397,8 @@
       ],
       "resistance": [
          "Dazzleproof",
-         "Sleepproof",
-         "Whackproof"
+         " Sleepproof",
+         " Whackproof"
       ],
       "description_en": "These bloodthirsty fiends pound their enemies into the ground, and the ground into dust.",
       "weapons": [
@@ -3544,12 +3411,11 @@
          "Anti-dragon"
       ],
       "location": "Fert Isle",
-      "name_fr": "Chef troll",
-      "description_fr": null
+      "name_fr": "Chef troll"
    },
    "138": {
       "name_en": "Gigantes",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "A",
       "traits": [
          "Last Word",
@@ -3558,7 +3424,7 @@
       "resistance": [
          "Whackproof"
       ],
-      "description_en": "These giants carry clubs carved from the trunks of even more gigantic trees.",
+      "description_en": "Ce g\u00e9ant se prom\u00e8ne avec une massue taill\u00e9e dans des arbres encore plus grands.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -3569,12 +3435,11 @@
          "Anti-metal"
       ],
       "location": "Infant Isle",
-      "name_fr": "Géant",
-      "description_fr": "Ce géant se promène avec une massue taillée dans des arbres encore plus grands."
+      "name_fr": "G\u00e9ant"
    },
    "139": {
       "name_en": "Golem",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "A",
       "traits": [
          "Psycho",
@@ -3582,7 +3447,7 @@
       ],
       "resistance": [
          "Vulnerable to Sleep",
-         "Whackproof"
+         " Whackproof"
       ],
       "description_en": "Hardened goliaths possessing extraordinary power which they use to crush foes.",
       "weapons": [
@@ -3597,12 +3462,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Golem",
-      "description_fr": null
+      "name_fr": "Golem"
    },
    "140": {
       "name_en": "Jamirus",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "A",
       "traits": [
          "Double Trouble",
@@ -3610,8 +3474,8 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Vulnerable to Inaction",
-         "Whackproof"
+         " Vulnerable to Inaction",
+         " Whackproof"
       ],
       "description_en": "A mighty fiend whose training has made it twice the treat it once was.",
       "weapons": [
@@ -3626,12 +3490,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Jamirus",
-      "description_fr": null
+      "name_fr": "Jamirus"
    },
    "141": {
       "name_en": "Wailin' weed",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "A",
       "traits": [
          "Artful Dodger",
@@ -3639,7 +3502,7 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
       "description_en": "Singers of the sea who synchronize their slap attack in symphony.",
       "weapons": [
@@ -3652,12 +3515,11 @@
          "All-Rounder"
       ],
       "location": "Fert Isle",
-      "name_fr": "Hurlherbe",
-      "description_fr": null
+      "name_fr": "Hurlherbe"
    },
    "142": {
       "name_en": "Heligator",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "A",
       "traits": [
          "Artful Dodger",
@@ -3665,9 +3527,9 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Ice Breathproof"
+         " Ice Breathproof"
       ],
-      "description_en": "These alligators have evolved into flying beasts resistant to fire and ice.",
+      "description_en": "En \u00e9voluant, cet alligator est devenu une b\u00eate r\u00e9sistant au feu et \u00e0 la glace.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -3680,12 +3542,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Aligatueur",
-      "description_fr": "En évoluant, cet alligator est devenu une bête résistant au feu et à la glace."
+      "name_fr": "Aligatueur"
    },
    "143": {
       "name_en": "Moosifer",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "A",
       "traits": [
          "Psycho",
@@ -3694,7 +3555,7 @@
       "resistance": [
          "Whackproof"
       ],
-      "description_en": "These rugged ruffians are masters of both the martial and mental arts.",
+      "description_en": "Ce robuste vaurien est pass\u00e9 ma\u00eetre en arts martiaux et mentaux.",
       "weapons": [
          "Swords",
          "Axes",
@@ -3707,12 +3568,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Belzébik",
-      "description_fr": "Ce robuste vaurien est passé maître en arts martiaux et mentaux."
+      "name_fr": "Belz\u00e9bik"
    },
    "144": {
       "name_en": "King bubble slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "A",
       "traits": [
          "Poisoner",
@@ -3720,9 +3580,9 @@
       ],
       "resistance": [
          "Paralysisproof",
-         "Poisonproof"
+         " Poisonproof"
       ],
-      "description_en": "Bubble slimes figured out how to join together too, after watching normal slimes do their little trick.",
+      "description_en": "Le gluanbulle a compris comment s'unir en regardant faire les gluants normaux.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -3735,12 +3595,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Roi gluanbulle",
-      "description_fr": "Le gluanbulle a compris comment s'unir en regardant faire les gluants normaux."
+      "name_fr": "Roi gluanbulle"
    },
    "145": {
       "name_en": "Mohawker",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "A",
       "traits": [
          "Critical Massacre",
@@ -3748,9 +3607,9 @@
       ],
       "resistance": [
          "Sleepproof",
-         "Whackproof"
+         " Whackproof"
       ],
-      "description_en": "The intimidating hairdos of these beasts will make your own hair stand on end.",
+      "description_en": "La coupe intimidante de ce monstre va vous faire dresser les cheveux sur la t\u00eate.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -3763,12 +3622,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Sangliogre",
-      "description_fr": "La coupe intimidante de ce monstre va vous faire dresser les cheveux sur la tête."
+      "name_fr": "Sangliogre"
    },
    "146": {
       "name_en": "Great dragon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "A",
       "traits": [
          "Frizzmeister",
@@ -3776,10 +3634,10 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Ice Breathproof",
-         "Whackproof"
+         " Ice Breathproof",
+         " Whackproof"
       ],
-      "description_en": "The golden scales of this mighty dragon shield it from both frost and flame.",
+      "description_en": "Les \u00e9cailles dor\u00e9es de ce dragon puissant le prot\u00e8gent des flammes et du gel.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -3792,12 +3650,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Grand dragon",
-      "description_fr": "Les écailles dorées de ce dragon puissant le protègent des flammes et du gel."
+      "name_fr": "Grand dragon"
    },
    "147": {
       "name_en": "Yabby",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "A",
       "traits": [
          "Paralyser",
@@ -3805,9 +3662,9 @@
       ],
       "resistance": [
          "Confusionproof",
-         "Healed by Water"
+         " Healed by Water"
       ],
-      "description_en": "Shrimpy monsters who pack a wallop with their set of claws. Don't come the raw prawn with them!",
+      "description_en": "Ce monstrueux crustac\u00e9 aux pinces tr\u00e8s puissantes n'est pas \u00e0 prendre avec des pincettes\u00a0!",
       "weapons": [
          "Spears",
          "Axes",
@@ -3820,12 +3677,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Écrevicieux",
-      "description_fr": "Ce monstrueux crustacé aux pinces très puissantes n'est pas à prendre avec des pincettes !"
+      "name_fr": "\u00c9crevicieux"
    },
    "148": {
       "name_en": "Buffalogre",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "A",
       "traits": [
          "Psycho",
@@ -3833,9 +3689,9 @@
       ],
       "resistance": [
          "Confusionproof",
-         "Whackproof"
+         " Whackproof"
       ],
-      "description_en": "Wild monsters that use their horns to toss their prey about before feasting.",
+      "description_en": "Ce monstre sauvage utilise ses cornes pour tuer ses proies avant de les d\u00e9vorer.",
       "weapons": [
          "Swords",
          "Hammers",
@@ -3848,12 +3704,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Encorneur",
-      "description_fr": "Ce monstre sauvage utilise ses cornes pour tuer ses proies avant de les dévorer."
+      "name_fr": "Encorneur"
    },
    "149": {
       "name_en": "Gracos",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "A",
       "traits": [
          "Crackmeister",
@@ -3861,7 +3716,7 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Healed by Water"
+         " Healed by Water"
       ],
       "description_en": "The legendary king rules over all the monsters of the sea.",
       "weapons": [
@@ -3876,12 +3731,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Gracos",
-      "description_fr": null
+      "name_fr": "Gracos"
    },
    "150": {
       "name_en": "Living statue",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "A",
       "traits": [
          "Critical Massacre",
@@ -3889,18 +3743,17 @@
       ],
       "resistance": [
          "Sleepproof",
-         "Whackproof"
+         " Whackproof"
       ],
       "ERREUR": [
          "Erreur dans wiki solo",
          "https://dragon-quest.org/wiki/Living_statue"
       ],
-      "name_fr": "Statue vivante",
-      "description_fr": null
+      "name_fr": "Statue vivante"
    },
    "151": {
       "name_en": "Metal kaiser slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "A",
       "traits": [
          "Metal Body",
@@ -3909,7 +3762,7 @@
       "resistance": [
          "Practically Invincible"
       ],
-      "description_en": "These slimes revere honour and chivalry above all else.",
+      "description_en": "Ce gluant place l'honneur et la chevalerie au-dessus de tout.",
       "weapons": [
          "Spears",
          "Axes",
@@ -3920,12 +3773,11 @@
          "Bang & Zam"
       ],
       "location": "Collect 150 skills in library",
-      "name_fr": "Gluanpereur de métal",
-      "description_fr": "Ce gluant place l'honneur et la chevalerie au-dessus de tout."
+      "name_fr": "Gluanpereur de m\u00e9tal"
    },
    "152": {
       "name_en": "Riptide",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "A",
       "traits": [
          "Early Bird",
@@ -3934,7 +3786,7 @@
       "resistance": [
          "Confusionproof"
       ],
-      "description_en": "These lightning-fast warriors of the sea have made an art of surprising unwary mariners.",
+      "description_en": "Ces guerriers des mers extr\u00eamement rapides adorent surprendre les marins \u00e9gar\u00e9s.",
       "weapons": [
          "Spears",
          "Axes",
@@ -3947,12 +3799,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Rase-marée",
-      "description_fr": "Ces guerriers des mers extrêmement rapides adorent surprendre les marins égarés."
+      "name_fr": "Rase-mar\u00e9e"
    },
    "153": {
       "name_en": "Demon-at-arms",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "A",
       "traits": [
          "Double Trouble",
@@ -3960,7 +3811,7 @@
       ],
       "resistance": [
          "Vulnerable to Sag",
-         "Whackproof"
+         " Whackproof"
       ],
       "description_en": "Elite soldiers of darkness who have mastered numerous weapons.",
       "weapons": [
@@ -3975,12 +3826,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Shivattak",
-      "description_fr": null
+      "name_fr": "Shivattak"
    },
    "154": {
       "name_en": "Tortured soul",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "A",
       "traits": [
          "Poisoner",
@@ -3988,8 +3838,8 @@
       ],
       "resistance": [
          "Sleepproof",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "Men of the cloth who perform evil deeds are punished severely for their sins.",
       "weapons": [
@@ -4004,12 +3854,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Âme en peine",
-      "description_fr": null
+      "name_fr": "\u00c2me en peine"
    },
    "155": {
       "name_en": "Boe",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "A",
       "traits": [
          null,
@@ -4031,12 +3880,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Dis",
-      "description_fr": null
+      "name_fr": "Dis"
    },
    "156": {
       "name_en": "Mum",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "A",
       "traits": [
          null,
@@ -4058,12 +3906,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Sal",
-      "description_fr": null
+      "name_fr": "Sal"
    },
    "157": {
       "name_en": "Roseguardin",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "A",
       "traits": [
          "Double Trouble",
@@ -4071,8 +3918,8 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Vulnerable to Paralysis",
-         "Whackproof"
+         " Vulnerable to Paralysis",
+         " Whackproof"
       ],
       "description_en": "This knight has dedicated himself to protecting one special person.",
       "weapons": [
@@ -4087,12 +3934,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Rosegarde",
-      "description_fr": null
+      "name_fr": "Rosegarde"
    },
    "158": {
       "name_en": "Garuda",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "A",
       "traits": [
          "Artful Dodger",
@@ -4101,7 +3947,7 @@
       "resistance": [
          "Fizzleproof"
       ],
-      "description_en": "Gigantic birds of regal appearance feared throughout the skies.",
+      "description_en": "Oiseau g\u00e9ant et majestueux redout\u00e9 par les autres oiseaux.",
       "weapons": [
          "Spears",
          "Axes",
@@ -4114,12 +3960,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Faucondor",
-      "description_fr": "Oiseau géant et majestueux redouté par les autres oiseaux."
+      "name_fr": "Faucondor"
    },
    "159": {
       "name_en": "Boh",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "A",
       "traits": [
          null,
@@ -4141,12 +3986,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Mi",
-      "description_fr": null
+      "name_fr": "Mi"
    },
    "160": {
       "name_en": "Belial",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "A",
       "traits": [
          "Double Trouble",
@@ -4154,8 +3998,8 @@
       ],
       "resistance": [
          "Bangproof",
-         "Vulnerable to Fizzle",
-         "Whackproof"
+         " Vulnerable to Fizzle",
+         " Whackproof"
       ],
       "description_en": "Demonic creatures who excel at both physical and magical combat.",
       "weapons": [
@@ -4170,12 +4014,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Bélial",
-      "description_fr": null
+      "name_fr": "B\u00e9lial"
    },
    "161": {
       "name_en": "Bone baron",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "A",
       "traits": [
          "Counterstriker",
@@ -4183,8 +4026,8 @@
       ],
       "resistance": [
          "Inactionproof",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "These sadistic aristocrats continue to oppress the masses even in death.",
       "weapons": [
@@ -4199,12 +4042,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Baron d'os",
-      "description_fr": null
+      "name_fr": "Baron d'os"
    },
    "162": {
       "name_en": "Mechan-o'-wyrm",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "A",
       "traits": [
          "Critical Massacre",
@@ -4212,9 +4054,9 @@
       ],
       "resistance": [
          "Paralysisproof",
-         "Whackproof"
+         " Whackproof"
       ],
-      "description_en": "Love of gold has turned these miserly machines into their favorite colour.",
+      "description_en": "Cette machine avare aime tellement l'or qu'elle en a pris la couleur.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -4227,12 +4069,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Mécadragon",
-      "description_fr": "Cette machine avare aime tellement l'or qu'elle en a pris la couleur."
+      "name_fr": "M\u00e9cadragon"
    },
    "163": {
       "name_en": "Pazuzu",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "A",
       "traits": [
          "Wooshmeister",
@@ -4240,9 +4081,9 @@
       ],
       "resistance": [
          "Bangproof",
-         "Whackproof"
+         " Whackproof"
       ],
-      "description_en": "This fiendish creature has dyed its fur a terrifying shade of pink!",
+      "description_en": "Cette cr\u00e9ature d\u00e9moniaque a choisi une teinture rose monstrueuse\u00a0!",
       "weapons": [
          "Swords",
          "Hammers",
@@ -4255,12 +4096,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Pazuzu",
-      "description_fr": "Cette créature démoniaque a choisi une teinture rose monstrueuse !"
+      "name_fr": "Pazuzu"
    },
    "164": {
       "name_en": "Metal king slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "S",
       "traits": [
          "Metal Body",
@@ -4269,7 +4109,7 @@
       "resistance": [
          "Practically Invincible"
       ],
-      "description_en": "These monarchs move with menacing speed that is never hampered by their protoplasm.",
+      "description_en": "Ce roi se d\u00e9place tr\u00e8s vite sans \u00eatre d\u00e9rang\u00e9 par son protoplasme.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -4280,12 +4120,11 @@
          "Bang & Crack"
       ],
       "location": "Metal Menagerie",
-      "name_fr": "Roi gluant de métal",
-      "description_fr": "Ce roi se déplace très vite sans être dérangé par son protoplasme."
+      "name_fr": "Roi gluant de m\u00e9tal"
    },
    "165": {
       "name_en": "Black dragon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "S",
       "traits": [
          "Zammeister",
@@ -4293,9 +4132,9 @@
       ],
       "resistance": [
          "Whackproof",
-         "Zamproof"
+         " Zamproof"
       ],
-      "description_en": "Some believe these dragons were turned black by the blistering heat of their own breath.",
+      "description_en": "Certains pensent que ces dragons ont noirci sous l'effet de la chaleur intense de leur souffle.",
       "weapons": [
          "Swords",
          "Axes",
@@ -4308,12 +4147,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Dragon noir",
-      "description_fr": "Certains pensent que ces dragons ont noirci sous l'effet de la chaleur intense de leur souffle."
+      "name_fr": "Dragon noir"
    },
    "166": {
       "name_en": "Beetlebully",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "S",
       "traits": [
          "Psycho",
@@ -4321,9 +4159,9 @@
       ],
       "resistance": [
          "Dazzleproof",
-         "Vulnerable to Frizz"
+         " Vulnerable to Frizz"
       ],
-      "description_en": "A natural speedster, this beetle excels in body slams.",
+      "description_en": "Son immense corne est le summum de l'horreur dans le r\u00e8gne des insectes.",
       "weapons": [
          "Spears",
          "Axes",
@@ -4334,12 +4172,11 @@
          "Hive Mind"
       ],
       "location": "Fert Isle",
-      "name_fr": "Scarabrute",
-      "description_fr": "Son immense corne est le summum de l'horreur dans le règne des insectes."
+      "name_fr": "Scarabrute"
    },
    "167": {
       "name_en": "Atlas",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "S",
       "traits": [
          "Critical Massacre",
@@ -4348,7 +4185,7 @@
       "resistance": [
          "Whackproof"
       ],
-      "description_en": "Once opposed a certain trio of warriors while in the service of Hargon.",
+      "description_en": "A affront\u00e9 trois guerriers lorsqu'il \u00e9tait au service d'Hargon.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -4361,12 +4198,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Atlas",
-      "description_fr": "A affronté trois guerriers lorsqu'il était au service d'Hargon."
+      "name_fr": "Atlas"
    },
    "168": {
       "name_en": "Trap box",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "S",
       "traits": [
          "Critical Massacre",
@@ -4374,7 +4210,7 @@
       ],
       "resistance": [
          "Paralysisproof",
-         "Whackproof"
+         " Whackproof"
       ],
       "description_en": "Few who fall upon this ingenious trap ever live to tell the tale.",
       "weapons": [
@@ -4387,12 +4223,11 @@
          "Fear-monger"
       ],
       "location": "Infern Isle",
-      "name_fr": "Boîte à pièges",
-      "description_fr": null
+      "name_fr": "Bo\u00eete \u00e0 pi\u00e8ges"
    },
    "169": {
       "name_en": "Robbin' hood",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "S",
       "traits": [
          "Psycho",
@@ -4400,7 +4235,7 @@
       ],
       "resistance": [
          "Inactionproof",
-         "Whackproof"
+         " Whackproof"
       ],
       "description_en": "An infamous bandit who steals from the rich and gives to no one.",
       "weapons": [
@@ -4415,12 +4250,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Chaperon vert",
-      "description_fr": null
+      "name_fr": "Chaperon vert"
    },
    "170": {
       "name_en": "Dullahan",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "S",
       "traits": [
          "Psycho",
@@ -4428,7 +4262,7 @@
       ],
       "resistance": [
          "Paralysisproof",
-         "Whackproof"
+         " Whackproof"
       ],
       "description_en": "Fearsome warriors who have lost their heading and their heads!",
       "weapons": [
@@ -4442,12 +4276,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Décapitête",
-      "description_fr": null
+      "name_fr": "D\u00e9capit\u00eate"
    },
    "171": {
       "name_en": "Drakulard",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "S",
       "traits": [
          "Critical Massacre",
@@ -4455,9 +4288,9 @@
       ],
       "resistance": [
          "Whackproof",
-         "Zapproof"
+         " Zapproof"
       ],
-      "description_en": "The gigantic arms of this burly dragon are registered as lethal weapons.",
+      "description_en": "Les bras \u00e9normes de ce robuste dragon sont des armes mortelles.",
       "weapons": [
          "Axes",
          "Hammers",
@@ -4470,12 +4303,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Draculard",
-      "description_fr": "Les bras énormes de ce robuste dragon sont des armes mortelles."
+      "name_fr": "Draculard"
    },
    "172": {
       "name_en": "King squid",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "S",
       "traits": [
          "Steady Recovery",
@@ -4483,9 +4315,9 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Healed by Water"
+         " Healed by Water"
       ],
-      "description_en": "This killing machine of the sea is armed with long and deadly tentacles.",
+      "description_en": "Cette machine \u00e0 tuer des mers est dot\u00e9e de longues et mortelles tentacules.",
       "weapons": [
          "Spears",
          "Axes",
@@ -4498,12 +4330,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Calmaroi",
-      "description_fr": "Cette machine à tuer des mers est dotée de longues et mortelles tentacules."
+      "name_fr": "Calmaroi"
    },
    "173": {
       "name_en": "Don mole",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "S",
       "traits": [
          "Psycho",
@@ -4512,7 +4343,7 @@
       "resistance": [
          "Inactionproof"
       ],
-      "description_en": "An amateur musician whose enthusiasm far, far, FAR exceeds his musical talent.",
+      "description_en": "Musicien amateur dont l'enthousiasme est bien sup\u00e9rieur au talent.",
       "weapons": [
          "Swords",
          "Hammers",
@@ -4525,12 +4356,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Mister taupe",
-      "description_fr": "Musicien amateur dont l'enthousiasme est bien supérieur au talent."
+      "name_fr": "Mister taupe"
    },
    "174": {
       "name_en": "Killing machine",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "S",
       "traits": [
          "Double Trouble",
@@ -4538,8 +4368,8 @@
       ],
       "resistance": [
          "Dazzleproof",
-         "Vulnerable to Bang",
-         "Whackproof"
+         " Vulnerable to Bang",
+         " Whackproof"
       ],
       "description_en": "These mechanical monstrosities were manufactured to menace all mankind.",
       "weapons": [
@@ -4554,12 +4384,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Machine à tuer",
-      "description_fr": null
+      "name_fr": "Machine \u00e0 tuer"
    },
    "175": {
       "name_en": "Night clubber",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "S",
       "traits": [
          "Critical Massacre",
@@ -4581,12 +4410,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Bastonnier",
-      "description_fr": null
+      "name_fr": "Bastonnier"
    },
    "176": {
       "name_en": "Wight king",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "S",
       "traits": [
          "Poisoner",
@@ -4594,8 +4422,8 @@
       ],
       "resistance": [
          "Sleepproof",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "The lost soul of a king who terrorized his people and ruined the kingdom.",
       "weapons": [
@@ -4610,12 +4438,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Roi maudit",
-      "description_fr": null
+      "name_fr": "Roi maudit"
    },
    "177": {
       "name_en": "Darkonium slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "S",
       "traits": [
          "Metal Body",
@@ -4624,7 +4451,7 @@
       "resistance": [
          "Practically Invincible"
       ],
-      "description_en": "Although made of darkonium, they won't get a scout into the finals of the challenge.",
+      "description_en": "Bien qu'\u00e9tant constitu\u00e9 de t\u00e9n\u00e9rium, il ne pourra pas participer aux finales du Championnat.",
       "weapons": [
          "Spears",
          "Axes",
@@ -4637,12 +4464,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Gluant ténérium",
-      "description_fr": "Bien qu'étant constitué de ténérium, il ne pourra pas participer aux finales du Championnat."
+      "name_fr": "Gluant t\u00e9n\u00e9rium"
    },
    "178": {
       "name_en": "Alabast dragon",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "S",
       "traits": [
          "Psycho",
@@ -4650,10 +4476,10 @@
       ],
       "resistance": [
          "Healed by Zap",
-         "Ice Breathproof",
-         "Whackproof"
+         " Ice Breathproof",
+         " Whackproof"
       ],
-      "description_en": "This regal deity is known as the Zenith dragon on another plane of existence.",
+      "description_en": "Cette divinit\u00e9 est \u00e9galement connue sous le nom de Dragon du Z\u00e9nith sur un autre plan d'existence.",
       "weapons": [
          "Swords",
          "Axes",
@@ -4666,12 +4492,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Dragon d'albâtre",
-      "description_fr": "Cette divinité est également connue sous le nom de Dragon du Zénith sur un autre plan d'existence."
+      "name_fr": "Dragon d'alb\u00e2tre"
    },
    "179": {
       "name_en": "Khalamari",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "S",
       "traits": [
          "Paralyser",
@@ -4679,10 +4504,10 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Healed by Water",
-         "Whackproof"
+         " Healed by Water",
+         " Whackproof"
       ],
-      "description_en": "Likes to play puppet shows with its tentacles at passing ships.",
+      "description_en": "Cette cr\u00e9ature adore taquiner les navires alentours avec ses tentacules.",
       "weapons": [
          "Spears",
          "Axes",
@@ -4695,12 +4520,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Khalamar",
-      "description_fr": "Cette créature adore taquiner les navires alentours avec ses tentacules."
+      "name_fr": "Khalamar"
    },
    "180": {
       "name_en": "Nimzo",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "S",
       "traits": [
          "Double Trouble",
@@ -4708,10 +4532,10 @@
       ],
       "resistance": [
          "Healed by Zam",
-         "Vulnerable to Sap",
-         "Whackproof"
+         " Vulnerable to Sap",
+         " Whackproof"
       ],
-      "description_en": "This great ruler is worshipped as a god by many monsters.",
+      "description_en": "Ce grand souverain est consid\u00e9r\u00e9 comme un dieu par de nombreux monstres.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -4724,12 +4548,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Nimzo",
-      "description_fr": "Ce grand souverain est considéré comme un dieu par de nombreux monstres."
+      "name_fr": "Nimzo"
    },
    "181": {
       "name_en": "Mumboh-jumboe",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "S",
       "traits": [
          "Bangmeister",
@@ -4737,7 +4560,7 @@
       ],
       "resistance": [
          "Sleepproof",
-         "Whackproof"
+         " Whackproof"
       ],
       "description_en": "This creature is walking proof that the whole can be greater than the sum of its parts.",
       "weapons": [
@@ -4752,12 +4575,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Salmigondis",
-      "description_fr": null
+      "name_fr": "Salmigondis"
    },
    "182": {
       "name_en": "Malroth",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "S",
       "traits": [
          "Artful Dodger",
@@ -4765,8 +4587,8 @@
       ],
       "resistance": [
          "Confusionproof",
-         "Healed by Zam",
-         "Whackproof"
+         " Healed by Zam",
+         " Whackproof"
       ],
       "description_en": "A god of destruction who plans to usher death unto all living beings.",
       "weapons": [
@@ -4777,17 +4599,16 @@
       ],
       "skill": [
          "Healer",
-         "Über Wisdom Boost"
+         "\u00dcber Wisdom Boost"
       ],
       "location": [
          "-"
       ],
-      "name_fr": "Malroth",
-      "description_fr": null
+      "name_fr": "Malroth"
    },
    "183": {
       "name_en": "Captain Crow",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "S",
       "traits": [
          "Psycho",
@@ -4795,8 +4616,8 @@
       ],
       "resistance": [
          "Confusionproof",
-         "Paralysisproof",
-         "Whackproof"
+         " Paralysisproof",
+         " Whackproof"
       ],
       "description_en": "A powerful pirate who perished pursuing a line of light leading to legendary lands.",
       "weapons": [
@@ -4809,12 +4630,11 @@
          "Captain Crow"
       ],
       "location": "Defeat Captain Crow in Pirate side quest",
-      "name_fr": "Capitaine Crow",
-      "description_fr": null
+      "name_fr": "Capitaine Crow"
    },
    "184": {
       "name_en": "Grandpa slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "S",
       "traits": [
          "Psycho",
@@ -4823,7 +4643,7 @@
       "resistance": [
          "Whackproof"
       ],
-      "description_en": "These sagely slimes are privy to arcane knowledge, and even the secret of the ooze.",
+      "description_en": "Ce gluant sage d\u00e9tient la connaissance supr\u00eame, m\u00eame celle de la boue.",
       "weapons": [
          "Swords",
          "Spears",
@@ -4834,12 +4654,11 @@
          "Bang & Zap"
       ],
       "location": "Collect 200 monsters in your library",
-      "name_fr": "Gluancien",
-      "description_fr": "Ce gluant sage détient la connaissance suprême, même celle de la boue."
+      "name_fr": "Gluancien"
    },
    "185": {
       "name_en": "Dhoulmagus",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "S",
       "traits": [
          "Psycho",
@@ -4847,9 +4666,9 @@
       ],
       "resistance": [
          "Whackproof",
-         "Wooshproof"
+         " Wooshproof"
       ],
-      "description_en": "The final form of a jester who yearned for the forbidden power of a scepter.",
+      "description_en": "La forme finale d'un bouffon ayant tout fait pour ma\u00eetriser le pouvoir d'un sceptre.",
       "weapons": [
          "Spears",
          "Hammers",
@@ -4862,12 +4681,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Dhoulmagus",
-      "description_fr": "La forme finale d'un bouffon ayant tout fait pour maîtriser le pouvoir d'un sceptre."
+      "name_fr": "Dhoulmagus"
    },
    "186": {
       "name_en": "Dragonlord",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "X",
       "traits": [
          "Psycho",
@@ -4875,10 +4693,10 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Ice Breathproof",
-         "Whackproof"
+         " Ice Breathproof",
+         " Whackproof"
       ],
-      "description_en": "This monarch spoken of in ancient lore was once bested by the legendary dragon warrior.",
+      "description_en": "Ce monarque parfois cit\u00e9 dans les l\u00e9gendes fut vaincu par le grand guerrier dragon.",
       "weapons": [
          "Spears",
          "Axes",
@@ -4891,12 +4709,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Lordragon",
-      "description_fr": "Ce monarque parfois cité dans les légendes fut vaincu par le grand guerrier dragon."
+      "name_fr": "Lordragon"
    },
    "187": {
       "name_en": "Ruin",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "X",
       "traits": [
          "Last Word",
@@ -4904,7 +4721,7 @@
       ],
       "resistance": [
          "Confusionproof",
-         "Whackproof"
+         " Whackproof"
       ],
       "description_en": "A malevolent beast born of the remnants of an ancient castle.",
       "weapons": [
@@ -4919,12 +4736,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Ruine",
-      "description_fr": null
+      "name_fr": "Ruine"
    },
    "188": {
       "name_en": "Zoma",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "X",
       "traits": [
          "Double Trouble",
@@ -4932,8 +4748,8 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "The vast powers wielded by this dark lord strike fear into even spirits of darkness.",
       "weapons": [
@@ -4948,12 +4764,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Zoma",
-      "description_fr": null
+      "name_fr": "Zoma"
    },
    "189": {
       "name_en": "Psaro",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "X",
       "traits": [
          "Psycho",
@@ -4966,12 +4781,11 @@
          "Erreur dans wiki solo",
          "https://dragon-quest.org/wiki/Psaro"
       ],
-      "name_fr": "Psaro",
-      "description_fr": null
+      "name_fr": "Psaro"
    },
    "190": {
       "name_en": "Leopold",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "X",
       "traits": [
          "Artful Dodger",
@@ -4979,10 +4793,10 @@
       ],
       "resistance": [
          "Confusionproof",
-         "Healed by Zam",
-         "Vulnerable to Zap"
+         " Healed by Zam",
+         " Vulnerable to Zap"
       ],
-      "description_en": "This chaotic canine appears to be empowered - or is it controlled? - by the sceptre.",
+      "description_en": "Ce chien du chaos semble poss\u00e9der \u2014 \u00e0 moins qu'il ne soit poss\u00e9d\u00e9 par \u2014 les pouvoirs du sceptre.",
       "weapons": [
          "Spears",
          "Axes",
@@ -4993,12 +4807,11 @@
          "Leopold"
       ],
       "location": "Collect all of the skills in your library",
-      "name_fr": "Léopold",
-      "description_fr": "Ce chien du chaos semble posséder — à moins qu'il ne soit possédé par — les pouvoirs du sceptre."
+      "name_fr": "L\u00e9opold"
    },
    "191": {
       "name_en": "Gem slime",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "X",
       "traits": [
          "Metal Body",
@@ -5007,7 +4820,7 @@
       "resistance": [
          "Practically Invincible"
       ],
-      "description_en": "These multi-faceted slimes are strong against any manner of attack.",
+      "description_en": "Ce gluant \u00e0 plusieurs facettes peut r\u00e9sister \u00e0 tout type d'attaque.",
       "weapons": [
          "Spears",
          "Axes",
@@ -5020,12 +4833,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Gluandor",
-      "description_fr": "Ce gluant à plusieurs facettes peut résister à tout type d'attaque."
+      "name_fr": "Gluandor"
    },
    "192": {
       "name_en": "Estark",
-      "family_id": "5",
+      "family_en": "Material",
       "rank": "X",
       "traits": [
          "Double Trouble",
@@ -5033,8 +4845,8 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Vulnerable to Sleep",
-         "Whackproof"
+         " Vulnerable to Sleep",
+         " Whackproof"
       ],
       "description_en": "A lord of the underworld from before recorded history.",
       "weapons": [
@@ -5047,12 +4859,11 @@
          "Estark"
       ],
       "location": "Defeat the Estark after getting the brass key.",
-      "name_fr": "Estark",
-      "description_fr": null
+      "name_fr": "Estark"
    },
    "193": {
       "name_en": "Mortamor",
-      "family_id": "6",
+      "family_en": "Demon",
       "rank": "X",
       "traits": [
          "Steady Recovery",
@@ -5060,8 +4871,8 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Ice Breathproof",
-         "Whackproof"
+         " Ice Breathproof",
+         " Whackproof"
       ],
       "description_en": "A monstrous king whose ambitions extend even unto the world of dreams.",
       "weapons": [
@@ -5076,12 +4887,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Mortamor",
-      "description_fr": null
+      "name_fr": "Mortamor"
    },
    "194": {
       "name_en": "Orgodemir",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "X",
       "traits": [
          "Double Trouble",
@@ -5089,8 +4899,8 @@
       ],
       "resistance": [
          "Paralysisproof",
-         "Vulnerable to Confusion",
-         "Whackproof"
+         " Vulnerable to Confusion",
+         " Whackproof"
       ],
       "description_en": "In ages past, he sought to become a god.",
       "weapons": [
@@ -5105,12 +4915,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Orgodémir",
-      "description_fr": null
+      "name_fr": "Orgod\u00e9mir"
    },
    "195": {
       "name_en": "Empyrea",
-      "family_id": "3",
+      "family_en": "Nature",
       "rank": "X",
       "traits": [
          "Artful Dodger",
@@ -5118,11 +4927,11 @@
       ],
       "resistance": [
          "Healed by Zap",
-         "Sleepproof",
-         "Vulnerable to Zam",
-         "Whackproof"
+         " Sleepproof",
+         " Vulnerable to Zam",
+         " Whackproof"
       ],
-      "description_en": "This holy bird soars between worlds, protecting them from the darkness.",
+      "description_en": "Cet oiseau sacr\u00e9 voyage entre les mondes et les prot\u00e8ge des t\u00e9n\u00e8bres.",
       "weapons": [
          "?"
       ],
@@ -5130,12 +4939,11 @@
          "Crusader"
       ],
       "location": "Collect all of the monsters in your library",
-      "name_fr": "Empyréa",
-      "description_fr": "Cet oiseau sacré voyage entre les mondes et les protège des ténèbres."
+      "name_fr": "Empyr\u00e9a"
    },
    "196": {
       "name_en": "Rhapthorne",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "X",
       "traits": [
          "Artful Dodger",
@@ -5143,9 +4951,9 @@
       ],
       "resistance": [
          "Healed by Zam",
-         "Whackproof"
+         " Whackproof"
       ],
-      "description_en": "A mighty god of darkness who comes in a very small package.",
+      "description_en": "Dieu des t\u00e9n\u00e8bres puissant, mais pas tr\u00e8s grand.",
       "weapons": [
          "Spears",
          "Axes",
@@ -5158,12 +4966,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Rhapthorne",
-      "description_fr": "Dieu des ténèbres puissant, mais pas très grand."
+      "name_fr": "Rhapthorne"
    },
    "197": {
       "name_en": "Rhapthorne II",
-      "family_id": "4",
+      "family_en": "Beast",
       "rank": "X",
       "traits": [
          "Artful Dodger",
@@ -5177,11 +4984,11 @@
          "https://dragon-quest.org/wiki/Rhapthorne_II"
       ],
       "name_fr": "Rhapthorne",
-      "description_fr": "Dieu des ténèbres puissant, mais très très grand."
+      "description_en": "Dieu des t\u00e9n\u00e8bres puissant, mais tr\u00e8s tr\u00e8s grand."
    },
    "198": {
       "name_en": "Dr Snapped",
-      "family_id": "7",
+      "family_en": "Undead",
       "rank": "X",
       "traits": [
          "Double Trouble",
@@ -5189,8 +4996,8 @@
       ],
       "resistance": [
          "Healed by Zam",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "description_en": "He never did get along well with the other children in school.",
       "weapons": [
@@ -5205,12 +5012,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Dr Rebelote",
-      "description_fr": null
+      "name_fr": "Dr Rebelote"
    },
    "199": {
       "name_en": "Dragovian lord",
-      "family_id": "2",
+      "family_en": "Dragon",
       "rank": "X",
       "traits": [
          "Critical Massacre",
@@ -5218,10 +5024,10 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Ice Breathproof",
-         "Whackproof"
+         " Ice Breathproof",
+         " Whackproof"
       ],
-      "description_en": "The Lord of the Dragovians, having discarded his human form.",
+      "description_en": "Seigneur des Dragoviens une fois d\u00e9pouill\u00e9 de sa forme humaine.",
       "weapons": [
          "Swords",
          "Axes",
@@ -5234,12 +5040,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Seigneur dragovien",
-      "description_fr": "Seigneur des Dragoviens une fois dépouillé de sa forme humaine."
+      "name_fr": "Seigneur dragovien"
    },
    "200": {
       "name_en": "Trode",
-      "family_id": "1",
+      "family_en": "Slime",
       "rank": "X",
       "traits": [
          "Psycho",
@@ -5247,10 +5052,10 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Fizzleproof",
-         "Whackproof"
+         " Fizzleproof",
+         " Whackproof"
       ],
-      "description_en": "My word! Where am I? And just where is my precious Medea!?",
+      "description_en": "\"Mais... O\u00f9 suis-je\u00a0? Et o\u00f9 est ma pr\u00e9cieuse M\u00e9d\u00e9a\u00a0?\"",
       "weapons": [
          "Swords",
          "Whips",
@@ -5263,12 +5068,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Trode",
-      "description_fr": "\"Mais... Où suis-je ? Et où est ma précieuse Médéa ?\""
+      "name_fr": "Trode"
    },
    "201": {
       "name_en": "Wulfspade",
-      "family_id": "8",
+      "family_en": "Incarni",
       "rank": "Incarni",
       "traits": [
          "Psycho",
@@ -5276,10 +5080,10 @@
       ],
       "resistance": [
          "Healed by Lightning",
-         "Sagproof",
-         "Vulnerable to Earth"
+         " Sagproof",
+         " Vulnerable to Earth"
       ],
-      "description_en": "A being suffused with holy energy whose existence is shrouded in mystery.",
+      "description_en": "\u00catre baign\u00e9 d'\u00e9nergie sainte dont l'existence demeure myst\u00e9rieuse.",
       "weapons": [
          "Swords",
          "Spears",
@@ -5292,12 +5096,11 @@
          "Agility Boost"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Apik",
-      "description_fr": "Être baigné d'énergie sainte dont l'existence demeure mystérieuse."
+      "name_fr": "Apik"
    },
    "202": {
       "name_en": "Hawkhart",
-      "family_id": "8",
+      "family_en": "Incarni",
       "rank": "Incarni",
       "traits": [
          "Psycho",
@@ -5305,10 +5108,10 @@
       ],
       "resistance": [
          "Fizzleproof",
-         "Healed by Fire",
-         "Vulnerable to Water"
+         " Healed by Fire",
+         " Vulnerable to Water"
       ],
-      "description_en": "A divine bird who can command the element of fire.",
+      "description_en": "Oiseau divin commandant au feu.",
       "weapons": [
          "Swords",
          "Spears",
@@ -5320,12 +5123,11 @@
          "Hawkhart"
       ],
       "location": "Xeroph Isle",
-      "name_fr": "Akœur",
-      "description_fr": "Oiseau divin commandant au feu."
+      "name_fr": "Ak\u0153ur"
    },
    "203": {
       "name_en": "Cluboon",
-      "family_id": "8",
+      "family_en": "Incarni",
       "rank": "Incarni",
       "traits": [
          "Psycho",
@@ -5333,19 +5135,19 @@
       ],
       "resistance": [
          "Healed by Earth",
-         "Sagproof",
-         "Vulnerable to Fire"
+         " Sagproof",
+         " Vulnerable to Fire"
       ],
       "ERREUR": [
          "Erreur dans wiki solo",
          "https://dragon-quest.org/wiki/Cluboon"
       ],
-      "name_fr": "Atrèfle",
-      "description_fr": "Singe divin commandant à la terre."
+      "name_fr": "Atr\u00e8fle",
+      "description_en": "Singe divin commandant \u00e0 la terre."
    },
    "204": {
       "name_en": "Diamagon",
-      "family_id": "8",
+      "family_en": "Incarni",
       "rank": "Incarni",
       "traits": [
          "Psycho",
@@ -5353,10 +5155,10 @@
       ],
       "resistance": [
          "Healed by Water",
-         "Ice Breathproof",
-         "Vulnerable to Lightning"
+         " Ice Breathproof",
+         " Vulnerable to Lightning"
       ],
-      "description_en": "A divine lizard who can command the element of water.",
+      "description_en": "L\u00e9zard divin commandant \u00e0 l'eau.",
       "weapons": [
          "Swords",
          "Spears",
@@ -5368,12 +5170,11 @@
          "Diamagon"
       ],
       "location": "The third shrine",
-      "name_fr": "Akaro",
-      "description_fr": "Lézard divin commandant à l'eau."
+      "name_fr": "Akaro"
    },
    "205": {
       "name_en": "Wulfspade ace",
-      "family_id": "8",
+      "family_en": "Incarni",
       "rank": "Incarni",
       "traits": [
          "Psycho",
@@ -5381,12 +5182,12 @@
       ],
       "resistance": [
          "Healed by Lightning",
-         "Paralysisproof",
-         "Poisonproof",
-         "Vulnerable to Earth",
-         "Whackproof"
+         " Paralysisproof",
+         " Poisonproof",
+         " Vulnerable to Earth",
+         " Whackproof"
       ],
-      "description_en": "Its holy mission is to seal the entrance to the dark world using the power of the Mark.",
+      "description_en": "Sa mission sacr\u00e9e est de garder l'entr\u00e9e du monde des t\u00e9n\u00e8bres \u00e0 l'aide du Troph\u00e9e.",
       "weapons": [
          "Swords",
          "Spears",
@@ -5398,12 +5199,11 @@
          "Wulfspade III"
       ],
       "location": "The fourth shrine",
-      "name_fr": "Atoupik",
-      "description_fr": "Sa mission sacrée est de garder l'entrée du monde des ténèbres à l'aide du Trophée."
+      "name_fr": "Atoupik"
    },
    "206": {
       "name_en": "Hawkhart ace",
-      "family_id": "8",
+      "family_en": "Incarni",
       "rank": "Incarni",
       "traits": [
          "Psycho",
@@ -5411,12 +5211,12 @@
       ],
       "resistance": [
          "Attack Magicproof",
-         "Healed by Fire",
-         "Vulnerable to Poison",
-         "Vulnerable to Sleep",
-         "Vulnerable to Water"
+         " Healed by Fire",
+         " Vulnerable to Poison",
+         " Vulnerable to Sleep",
+         " Vulnerable to Water"
       ],
-      "description_en": "A mighty bird whose wings beast with the force of a firestorm.",
+      "description_en": "Puissant oiseau dont les battements d'aile ont la puissance d'une tornade de feu.",
       "weapons": [
          "Swords",
          "Spears",
@@ -5430,12 +5230,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Atoukœur",
-      "description_fr": "Puissant oiseau dont les battements d'aile ont la puissance d'une tornade de feu."
+      "name_fr": "Atouk\u0153ur"
    },
    "207": {
       "name_en": "Cluboon ace",
-      "family_id": "8",
+      "family_en": "Incarni",
       "rank": "Incarni",
       "traits": [
          "Psycho",
@@ -5443,12 +5242,12 @@
       ],
       "resistance": [
          "Healed by Earth",
-         "Poisonproof",
-         "Sleepproof",
-         "Vulnerable to Fire",
-         "Whackproof"
+         " Poisonproof",
+         " Sleepproof",
+         " Vulnerable to Fire",
+         " Whackproof"
       ],
-      "description_en": "A mighty ape whose hide is tougher than an earthen fortress wall.",
+      "description_en": "Puissant singe dont le cuir est plus dur qu'une muraille.",
       "weapons": [
          "Swords",
          "Spears",
@@ -5462,12 +5261,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Atoutrèfle",
-      "description_fr": "Puissant singe dont le cuir est plus dur qu'une muraille."
+      "name_fr": "Atoutr\u00e8fle"
    },
    "208": {
       "name_en": "Diamagon ace",
-      "family_id": "8",
+      "family_en": "Incarni",
       "rank": "Incarni",
       "traits": [
          "Psycho",
@@ -5475,12 +5273,12 @@
       ],
       "resistance": [
          "Confusionproof",
-         "Healed by Water",
-         "Poisonproof",
-         "Vulnerable to Lightning",
-         "Whackproof"
+         " Healed by Water",
+         " Poisonproof",
+         " Vulnerable to Lightning",
+         " Whackproof"
       ],
-      "description_en": "A mighty dragon whose vault of knowledge and lore is deeper than all the seas.",
+      "description_en": "Puissant dragon dont l'antre de savoir et de connaissance est plus profond que toutes les mers.",
       "weapons": [
          "Swords",
          "Spears",
@@ -5494,12 +5292,11 @@
       "location": [
          "-"
       ],
-      "name_fr": "Atoukaro",
-      "description_fr": "Puissant dragon dont l'antre de savoir et de connaissance est plus profond que toutes les mers."
+      "name_fr": "Atoukaro"
    },
    "209": {
       "name_en": "Ace of Spades",
-      "family_id": "8",
+      "family_en": "Incarni",
       "rank": "Incarni",
       "traits": [
          "Psycho",
@@ -5507,20 +5304,20 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Healed by Zam",
-         "Vulnerable to Zap",
-         "Whackproof"
+         " Healed by Zam",
+         " Vulnerable to Zap",
+         " Whackproof"
       ],
       "ERREUR": [
          "Erreur dans wiki solo",
          "https://dragon-quest.org/wiki/Ace_of_Spades"
       ],
       "name_fr": "As de pique",
-      "description_fr": "Forme alternative corrompue de l'Incarnus, métamorphosé par la substance ténébreuse."
+      "description_en": "Forme alternative corrompue de l'Incarnus, m\u00e9tamorphos\u00e9 par la substance t\u00e9n\u00e9breuse."
    },
    "210": {
       "name_en": "Wildcard",
-      "family_id": "8",
+      "family_en": "Incarni",
       "rank": "Incarni",
       "traits": [
          "Psycho",
@@ -5528,11 +5325,11 @@
       ],
       "resistance": [
          "Fire Breathproof",
-         "Healed by Zap",
-         "Vulnerable to Zam",
-         "Whackproof"
+         " Healed by Zap",
+         " Vulnerable to Zam",
+         " Whackproof"
       ],
-      "description_en": "The final form of the Incarnus, empowered by the magic of the Mark.",
+      "description_en": "Forme finale de l'Incarnus lorsque la magie du Troph\u00e9e a fait effet.",
       "weapons": [
          "Swords",
          "Spears",
@@ -5546,7 +5343,6 @@
       "location": [
          "-"
       ],
-      "name_fr": "Joker",
-      "description_fr": "Forme finale de l'Incarnus lorsque la magie du Trophée a fait effet."
+      "name_fr": "Joker"
    }
 }
