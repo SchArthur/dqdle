@@ -1,9 +1,10 @@
-from game import game_data
+from game import GameData
 
-joker_1 = game_data("joker_1")
+joker_1 = GameData("joker_1")
 selected_monster = joker_1.get_random_monster()
+print(selected_monster["name"])
 
-monster_ranks = ['X', 'S', 'A', 'B', 'C', 'D', 'E', 'F']
+monster_ranks = ['Incarni', 'X', 'S', 'A', 'B', 'C', 'D', 'E', 'F']
 # print(selected_monster)
 
 def testRank(selected_rank, guess_rank) -> str :
@@ -46,5 +47,5 @@ while selected_monster != guessed_monster:
 
     guessed_monster = takeAGuess()
 
-print("Vous avez trouvé le monstre : " + selected_monster["name_en"])
-print(selected_monster["description_en"])
+print(f'Vous avez trouvé le monstre : {selected_monster["name"]}')
+print(selected_monster["description"])

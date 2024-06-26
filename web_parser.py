@@ -31,13 +31,11 @@ def readTable(table_body) -> list:
 "location" : ["_"]   
  """
 
-
 def tryNone(str):
     if str == "none" :
         return None
     else :
         return str
-
 
 def parseMonster(table_line):
     url_solo = "https://dragon-quest.org/wiki/" + table_line[1].replace(" ", "_").replace("'", "%27")
@@ -88,11 +86,9 @@ def parseMonster(table_line):
 
     return monster_dict
 
-
 def saveJson(file, data : dict):
     with open(file, 'w', encoding ='utf8') as fp:
         json.dump(data, fp, indent=3)
-
 
 monsters_data = {}        
 
